@@ -1,5 +1,5 @@
 ---
-title: Shredded Chipotle Chicken
+title: Shredded Chipotle Chicken Tinga
 category: Mexican
 description: Slow cooked shredded chicken for tacos or burritos
 image: chipotle_chicken.jpg
@@ -13,7 +13,7 @@ image: chipotle_chicken.jpg
 * `4 cloves` garlic, crushed
 * `2 tsp` ground cumin
 * `2 tsp` sweet smoked paprika
-* `2 tbsp` chipotle paste
+* `2 tbsp` chipotle paste (use 1 tbsp for mild)
 * `1 tbsp` good-quality cocoa powder
 * `2 x 400g` tins chopped tomatoes
 * `300ml` chicken stock
