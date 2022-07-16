@@ -3,11 +3,12 @@ title: Lemon Iced Tea
 category: Drinks
 veggie: y
 sweet: y 
+image: lemon_iced_tea.jpg
 
 --- 
 * `2-3` tea bags
 * `1.5l` boiling water
-* `2/3 cup` sugar
+* `1/3 - 1/2 cup` sugar
 * `1` lemon sliced
 * `1/4 cup` lemon juice
  
