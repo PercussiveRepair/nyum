@@ -7,7 +7,7 @@ size: Makes 12
 
 ---
 
-> See also [Char Siu Pork](char_siu_pork.html) for the pork recipe
+> See also [Char Siu Pork](char_siu_roast_pork.html) for the pork recipe
 
 ## For the filling
 
@@ -24,7 +24,7 @@ size: Makes 12
 * `1/3 cup` water 
 * `3 tbsp` cornflour
 * `1/4 cup` water to make slurry
-* `200g` [Char Siu Pork](char_siu_pork.html), chopped into small chunks
+* `200g` [Char Siu Pork](char_siu_roast_pork.html), chopped into small chunks
 
 > Mix hoisin, sugar, sesame oil, soy sauce and salt in a small bowl
 >
