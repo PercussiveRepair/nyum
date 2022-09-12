@@ -2,6 +2,7 @@
 title: Masala Sauce for Chicken Tikka Masala 
 category: Indian
 description: Rich tomato masala
+image: masalasauce.jpg
 veggie: Y
 
 --- 
