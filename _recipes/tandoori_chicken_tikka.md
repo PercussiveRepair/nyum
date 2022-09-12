@@ -2,6 +2,7 @@
 title: Tandoori Chicken Tikka 
 category: Indian
 description: Yoghurt marinated chicken ideal for a kebab or a Tikka Masala
+image: tandoorichickentikka.jpg
 spicy: y
 
 --- 
