@@ -10,7 +10,7 @@ image: roast_turkey_-_dry_brine.png
 
 ---
 
-* `4.5 kg` turkey, with giblets removed and cavity wiped clean
+* `4½ kg` turkey, with giblets removed and cavity wiped clean
 * `3 tbsp` light brown sugar
 * `4 tbsp` coarse sea salt
 * `2 tsp` freshly ground black pepper
@@ -50,7 +50,7 @@ image: roast_turkey_-_dry_brine.png
 >
 > Don't open the oven door until the cooking time is up.
 >
-> After 1 1/2 hours, or when the breast temp is 70 C, remove from the oven.
+> After 1½ hours, or when the breast temp is 70 C, remove from the oven.
 >
 > To test whether the turkey is cooked, insert meat thermometer into the thickest piece of thigh. It should be about 80 C.
 >

@@ -29,12 +29,12 @@ veggie: y
 
 ---
 
-* `1 1/2 cups` pizza sauce, such as our New York-style pizza sauce
+* `1½ cups` pizza sauce, such as our New York-style pizza sauce
 * `350g` grated full-fat, dry mozzarella cheese (see note above)
 * Toppings as desired
 * Small handful torn fresh basil leaves (optional)
 * `60g` grated parmesan or pecorino Romano cheese (optional)
  
-> Top each round of dough with 3/4 cup sauce, spreading the sauce with the back of a spoon into every corner. Spread evenly with mozzarella cheese, letting the cheese go all the way to the edges. Season with salt. Add other toppings as desired. Drizzle with olive oil and scatter a few basil leaves over the top (if desired)
+> Top each round of dough with ¾ cup sauce, spreading the sauce with the back of a spoon into every corner. Spread evenly with mozzarella cheese, letting the cheese go all the way to the edges. Season with salt. Add other toppings as desired. Drizzle with olive oil and scatter a few basil leaves over the top (if desired)
 >
 > Transfer pan to oven and bake until top is golden brown and bubbly and bottom is golden brown and crisp when you lift it with a thin spatula, 12 to 15 minutes. Immediately sprinkle with grated parmesan or pecorino Romano cheese. Using a thin spatula, loosen pizza and peek underneath. If bottom is not as crisp as desired, place pan over a burner and cook on medium heat, moving the pan around to cook evenly until it is crisp, 1 to 3 minutes. Remove the pizzas and transfer to to a cutting board. Cut each one into six slices and serve immediately.

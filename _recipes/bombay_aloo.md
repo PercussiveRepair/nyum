@@ -10,17 +10,17 @@ spicy: y
 * `3 cups` potatoes chopped into 1cm cubes
 * `3 tbsp` oil
 * `2 cloves` garlic, chopped
-* `1 1/2 tsp` salt
+* `1½ tsp` salt
 * `1 tsp` sugar
 * `1 tsp` cumin seeds
 * `1 tsp` fennel seeds
 * `1 tsp` tumeric
 * `2 tsp` garam masala
-* `1/2 tsp` chili flakes
-* `1/2 tsp` fenugreek powder
-* `1/4 tsp` chili powder
+* `½ tsp` chili flakes
+* `½ tsp` fenugreek powder
+* `¼ tsp` chili powder
 * `2 tbsp` tomato puree
-* `1/3 cup` water
+* `⅓ cup` water
 
  
 > Boil potato cubes in boiling water for 10 mins until just done

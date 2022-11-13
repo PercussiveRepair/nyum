@@ -11,7 +11,7 @@ spicy: y
 * `1"` piece fresh galangal or ginger, sliced
 * `2` red chiles, sliced
 * `2 tbsp` fish sauce, such as nam pla
-* `1 1/2 tsp` sugar
+* `1½ tsp` sugar
 * `1 can` straw mushrooms, rinsed and halved
 * `500g large`  shrimp, peeled
 * `250g` cooked chicken diced (optional)

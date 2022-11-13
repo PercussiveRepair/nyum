@@ -8,13 +8,13 @@ veggie: y
 
 * `1 cup` rice, cooked and left to dry for 30 mins
 * `large splash` dark soy sauce
-* `1/4 tsp` salt
-* `1/4 tsp` msg
+* `¼ tsp` salt
+* `¼ tsp` msg
 * `2 tbsp` vegetable oil
 * `2 cloves` garlic, finely chopped
-* `1/2 small`  onion, finely sliced
+* `½ small`  onion, finely sliced
 * `large pinch` sugar
-* `1/2 cup` frozen peas
+* `½ cup` frozen peas
 * `2` eggs, beaten
 
 > Mix the rice with the salt, soy sauce and msg

@@ -14,7 +14,7 @@ veggie: Y
 * `350g` hand hot (not boiling - max 40C) water
 * about 2 tbsp extra flour for shaping
 
->>> To scale up the ratio is: 100 parts flour, 1.5 parts salt, 1 part instant yeast, and 70 parts water.
+>>> To scale up the ratio is: 100 parts flour, 1½ parts salt, 1 part instant yeast, and 70 parts water.
 
 > Combine flour, yeast and salt in a large bowl. Stir in water until it’s well combined and dough is shaggy.
 >

@@ -6,7 +6,7 @@ sweet: y
 
 --- 
 * `10g` sugar
-* `1/2 tsp` cocoa powder (optional)
+* `½ tsp` cocoa powder (optional)
 * `160ml` cold milk
 * `40ml` hot water 
 * `5g` good instant coffee

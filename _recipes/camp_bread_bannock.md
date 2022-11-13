@@ -7,8 +7,8 @@ veggie: Y
 --- 
 * `120g/1 cup` flour (white or a mixture of white and whole wheat)
 * `1 tsp` baking powder
-* `1/4 tsp` salt
-* `30g/1/4 cup` dry milk powder
+* `¼ tsp` salt
+* `30g/¼ cup` dry milk powder
 * `1 tbsp` shortening/suet
  
 > Make the mix at home ahead of time. Sift dry ingredients, and cut shortening in with a pastry cutter or two knives until you have a granular, corn meal-like mixture. Package in zip-lock freezer bags. Double bag it if you’re going to be on a long trip. I’ve found that you can make large batches at once and make enough bannock mix for a trip in about fifteen minutes. Just make sure you sift the dry ingredients well, so you don’t get leavening problems.

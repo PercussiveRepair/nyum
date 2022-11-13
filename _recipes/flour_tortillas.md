@@ -9,10 +9,10 @@ veggie: Y
 --- 
 
 * `250g/2 cups` all-purpose flour
-* `1 1/2 tsp` baking powder
+* `1½ tsp` baking powder
 * `1 tsp` kosher salt
 * `3 tbsp` melted lard or vegetable oil
-* `3/4 cups` warm water (approximately 110°F)
+* `¾ cups` warm water (approximately 110°F)
 
 > Whisk together flour, baking powder, and salt in a medium bowl. Rub lard into flour mixture using your fingertips until mixture resembles coarse crumbs. Add warm water and work dough with hands until completely combined and no dry flour is left in bowl.
 >

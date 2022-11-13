@@ -21,7 +21,7 @@ spicy: y
 * `2 tsp` ground coriander
 * `2 cans` chopped tomatoes
 * `100g` natural yoghurt , plus extra to serve
-* `1/2 a bunch` fresh coriander
+* `½ a bunch` fresh coriander
 
 > Finely grate the garlic and ginger
 >

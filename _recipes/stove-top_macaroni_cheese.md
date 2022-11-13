@@ -5,9 +5,9 @@ veggie: y
 
 --- 
 * `230g` elbow macaroni
-* `1/4 cup` butter
-* `1/4 cup` flour
-* `1/2 tsp` salt
+* `¼ cup` butter
+* `¼ cup` flour
+* `½ tsp` salt
 * `1 dash` black pepper
 * `2 cups` milk
 * `2 cups` shredded cheese - cheddar, mozzarella, emmenthal

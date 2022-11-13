@@ -9,8 +9,8 @@ sweet: y
 --- 
 * oil, for greasing
 * `450g` dark brown sugar
-* `125 ml` hot water
-* `1/4 tsp` cream of tartar
+* `125ml` hot water
+* `¼ tsp` cream of tartar
 * `115g` black treacle
 * `115g` golden syrup
  

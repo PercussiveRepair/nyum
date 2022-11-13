@@ -5,7 +5,7 @@ description: Easy one dish oven baked ribs
 
 --- 
 * `4 cloves` garlic
-* Large knob of ginger
+* `2in` ginger
 * `30` spare ribs
 * `4 tbsp` tomato ketchup
 * `4 tbsp` hoisin sauce
@@ -14,7 +14,7 @@ description: Easy one dish oven baked ribs
 * `2 tbsp` rice vinegar
 * `2 tbsp` vegetable oil
 * `1 tbsp` oyster sauce
-* `1/2` spring onion, finely chopped, to garnish
+* `½` spring onion, finely chopped, to garnish
 
 > Preheat the oven to 180°C
 >

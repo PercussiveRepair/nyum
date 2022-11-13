@@ -6,12 +6,12 @@ veggie: y
 
 --- 
 * `2` Fuji apples, diced into 1cm cubes
-* Juice of 1/2 lemon
+* `½` lemon, juice only
 * `2 stalks` celery, diced
-* `1/2 cup` coarsely chopped walnuts
-* `1/3 cup` golden raisins
-* `1/4 cup` reduced-calorie mayonnaise
-* `1/4 cup` low-fat sour cream
+* `½ cup` coarsely chopped walnuts
+* `⅓ cup` golden raisins
+* `¼ cup` reduced-calorie mayonnaise
+* `¼ cup` low-fat sour cream
 * Salt and freshly ground black pepper, to taste
  
 > Toss the apples with the lemon juice in a bowl.

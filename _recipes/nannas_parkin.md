@@ -13,7 +13,7 @@ sweet: y
 * `115g` margarine or softened butter
 * `115g` sugar
 * `1` egg
-* `1 1/2 tsp` ground ginger
+* `1½ tsp` ground ginger
 * `1 tsp` baking powder
 * `145ml` milk
  

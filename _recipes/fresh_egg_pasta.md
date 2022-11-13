@@ -8,7 +8,7 @@ veggie: y
 
 * `200g` plain flour
 * `2` eggs
-* `1/2 tsp` salt
+* `½ tsp` salt
 * `1 tbsp` olive oil
 
 For lasagne, double the amounts above.

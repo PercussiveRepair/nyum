@@ -7,7 +7,7 @@ sweet: y
 
 --- 
 * `175g` light brown sugar
-* `175 ml` sunflower oil
+* `175ml` sunflower oil
 * `3 large`  eggs, lightly beaten
 * `140g` grated carrot (about 3 medium)
 * `100g` walnuts, chopped
@@ -15,7 +15,7 @@ sweet: y
 * `175g` self-raising flour
 * `1 tsp` bicarbonate of soda
 * `1 tsp` ground cinnamon
-* `1/2 tsp` grated nutmeg
+* `½ tsp` grated nutmeg
 * `85g` soft cream cheese
 * `1 tsp` orange zest
 * `2 tbsp` fresh orange juice

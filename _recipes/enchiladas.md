@@ -5,7 +5,7 @@ description: Simple Mexican enchiladas
 
 --- 
 * `750g` chicken breast or thighs
-* `1/2` each red & green pepper, sliced
+* `½` each red & green pepper, sliced
 * `1` onion sliced
 * `2 cloves` garlic chopped
 * `1` carton passata
@@ -17,7 +17,7 @@ description: Simple Mexican enchiladas
 >
 > Add peppers, onion and garlic and fry for 5 mins
 >
-> Mix passata and spices and add 1/3 to chicken
+> Mix passata and spices and add⅓ to chicken
 >
 > Heat oven to 180°C gas six
 >

@@ -6,13 +6,13 @@ favorite: Y
 spicy: y
 
 --- 
-* `2 to 3` Onions
-* `2` Red bell pepper
-* `1 bulb` Garlic
-* `4 tbsp` Cumin
-* `3 tbsp` Chili powder
-* `3 tbsp` Oregano
-* `2 tbsp` Unsweetened cocoa powder
+* `2 to 3` onions
+* `2` red bell pepper
+* `1 bulb` garlic
+* `4 tbsp` cumin
+* `3 tbsp` chili powder
+* `3 tbsp` oregano
+* `2 tbsp` unsweetened cocoa powder
 * `750g` pork mince
 * `750g` beef mince or stew meat
 * `1 can` black beans
@@ -22,9 +22,9 @@ spicy: y
 * `1 small`  can of chipotle chiles in adobo
 * `1 to 2 cans` tomatoes with green chillies
 * `2 cans` diced tomatoes
-* `2 to 3` bottles of cheap American beer (Budweiser)
+* `2 to 3` bottles of cheap american beer (budweiser)
 * `3 to 4 cups` beef stock
-* `1/4 cup` Apple cider vinegar
+* `¼ cup` apple cider vinegar
  
 > Small dice the stew meat and trim off any fat
 >
@@ -38,7 +38,7 @@ spicy: y
 >
 > If using homemade stock, heat to a boil and then simmer (if not fresh-made). If using canned stock, bring to a simmer.
 >
-> In a food processor, combine the tomato paste, chipotle chiles, and one can of kidney beans (drained and rinsed), along with all the spices. Turn the processor on, and slowly pour about 1/2 cup of beef stock into mixture, until the texture is a thick paste. If you want a less spicy chili, use just the liquid from the canned chipotle chiles, or add just one or two chiles to the food processor mix, instead of the whole can. Anything you don't use won't be wasted, it will keep very well in the freezer.
+> In a food processor, combine the tomato paste, chipotle chiles, and one can of kidney beans (drained and rinsed), along with all the spices. Turn the processor on, and slowly pour about½ cup of beef stock into mixture, until the texture is a thick paste. If you want a less spicy chili, use just the liquid from the canned chipotle chiles, or add just one or two chiles to the food processor mix, instead of the whole can. Anything you don't use won't be wasted, it will keep very well in the freezer.
 >
 > In large pot or Dutch oven, sauté onions and peppers in vegetable oil (or bacon fat, if you have your life together and keep some in the fridge) over medium heat until the onions are translucent. Add garlic and cook until fragrant (this takes literally less than a minute), and then add tomato paste/kidney bean mixture. Stir to combine and allow to cook, ‘toasting’ the paste for at least a few minutes. I find that the longer I allow my paste to cook, the more complex the flavor that develops through the blooming of the spices and the caramelization of the sugars in the tomato paste.
 >

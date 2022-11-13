@@ -20,9 +20,9 @@ One of
 * `1 tsp` Ground Coriander seed
 * `1 tsp` Ground Ginger 
 * `1 tsp` MSG 
-* `1/2 tsp` thyme
-* `1/2 tsp` ground sage
-* `1/2 tsp` marjoram
+* `½ tsp` thyme
+* `½ tsp` ground sage
+* `½ tsp` marjoram
 
 or
 
@@ -30,15 +30,15 @@ or
 
 ---
 
-* `1/2 tsp` smoked paprika
-* `1/2 tsp` mustard powder
-* `1/2 tsp` sage
-* `1/2 tsp` celery seeds
-* `1/2 tsp` sugar
-* `1/2 tsp` dried onion flakes
+* `½ tsp` smoked paprika
+* `½ tsp` mustard powder
+* `½ tsp` sage
+* `½ tsp` celery seeds
+* `½ tsp` sugar
+* `½ tsp` dried onion flakes
 * `1 tsp` salt
-* `1/2 tsp` ground black pepper
-* `1/2 tsp` ground white pepper
+* `½ tsp` ground black pepper
+* `½ tsp` ground white pepper
 
 ## Marinade 
 
@@ -58,8 +58,8 @@ or
 ---
 
 * `2 cup` flour
-* `1/2 cup` cornflour
-* `1/2 tsp` baking powder
+* `½ cup` cornflour
+* `½ tsp` baking powder
 * One of the spice mixes
 
 > Mix the coating ingredients together in a bowl and add the ingredients from one of the spice mixes.

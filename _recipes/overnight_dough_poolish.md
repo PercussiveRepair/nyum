@@ -71,7 +71,7 @@ veggie: y
 * Fresh mozzarella
 * Fresh basil
 * Other toppings e.g. olives, salami, prosciutto, 
-* `1/2 cup` semolina or cornmeal
+* `½ cup` semolina or cornmeal
  
 > Put pizza stone in the oven at max temp for 1 hour
 >
@@ -79,7 +79,7 @@ veggie: y
 >
 > If using fresh ball mozzarella, chop into 1cm cubes
 >
-> Fill a large shallow bowl with 1/2 cup of semolina or cornmeal 
+> Fill a large shallow bowl with½ cup of semolina or cornmeal 
 >
 > Dust the dough ball in the tray and your scraper with semolina or cornmeal and scrape the dough ball off the tray in one go
 >

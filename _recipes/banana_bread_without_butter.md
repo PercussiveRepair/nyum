@@ -12,7 +12,7 @@ sweet: y
 * `4` bananas, mashed
 * `2 cups` plain flour
 * `1 tsp` baking powder
-* `1/2 tsp` salt
+* `½ tsp` salt
 * `2 tbsp` oil
 * `3 tsp` ground ginger (optional)
  

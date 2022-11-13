@@ -13,7 +13,7 @@ veggie: y
 * `1 tsp` coriander seeds
 * `1 tsp` Kashmiri chilli
 * `1 tsp` crushed black pepper
-* `1/2 tsp` salt
+* `½ tsp` salt
 * `2 tbsp` melted ghee or oil
 * `2 tbsp` tomato purée
 * `2` fresh green chillies

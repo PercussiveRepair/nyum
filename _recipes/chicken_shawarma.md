@@ -18,7 +18,7 @@ image: chicken_shawarma.png
 * `2 tsp` ground cumin
 * `1 tsp` ground coriander
 * `1 tsp` chilli powder
-* `1/4 tsp` ground cinnamon
+* `¼ tsp` ground cinnamon
 
 > Zest the lemon and squeeze the juice. Place in a small bowl
 >

@@ -5,7 +5,8 @@ description: Southern US accompaniment
 veggie: Y
 
 --- 
-* `1 1/2 cup` plain flour
+
+* `1½ cup` plain flour
 * `1 cup` milk
 * `2 tsp` baking powder
 * `1 tsp` salt
@@ -19,7 +20,7 @@ veggie: Y
 >
 > Heat oil (3 to 4 inches) in Dutch oven to 375°F.
 >
-> Drop by rounded tablespoonfuls into hot oil.
+> Drop by rounded tbspfuls into hot oil.
 >
 > Fry about 5 minutes or until deep golden brown
 >

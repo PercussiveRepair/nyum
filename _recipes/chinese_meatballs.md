@@ -13,11 +13,11 @@ favorite:
 * `750g` beef, pork or other mince
 * `2 tsp` sesame oil
 * `1 cup/125g` Panko or breadcrumbs
-* `1/2 tsp` ground ginger
-* `1/2 tsp` chinese five spice
+* `½ tsp` ground ginger
+* `½ tsp` chinese five spice
 * `2` eggs
 * `2 cloves` minced garlic
-* `1/2 cup` thinly-sliced spring onions
+* `½ cup` thinly-sliced spring onions
 
 >In a large bowl, mix together meatball ingredients until well-combined
 >
@@ -30,8 +30,8 @@ favorite:
 
 ---
 
-* `2/3 cup` hoisin sauce
-* `1/4 cup` rice vinegar
+* `⅔ cup` hoisin sauce
+* `¼ cup` rice vinegar
 * `2 tsp` brown sugar
 * `2 cloves` garlic, minced
 * `2 tbsp` soy sauce

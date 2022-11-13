@@ -14,14 +14,14 @@ sweet: y
 ---
 
 * `2 cups` warm milk
-* `1/2 cup` melted butter
-* `100g/1/2 cup` sugar
+* `½ cup` melted butter
+* `100g/½ cup` sugar
 * `1 tsp` yeast
 * `450g/4 cups` flour plus extra for dusting
 * `1 tsp` baking powder
 * `2 tsp` salt
-* `115g/3/4 cup` softened butter
-* `135g/3/4 cup` soft light brown sugar
+* `115g/¾ cup` softened butter
+* `135g/¾ cup` soft light brown sugar
 * `2 tbsp` cinnamon
 
 > Mix milk butter and sugar in a bowl and sprinkle with the yeast. Leave for a few mins to bloom.
@@ -30,11 +30,11 @@ sweet: y
 >
 > Cover with a damp cloth and rest for one hour.
 >
-> Sprinkle on baking powder, salt and 3/4 cup of flour onto the dough, mix in well and then tip out on to a well floured surface.
+> Sprinkle on baking powder, salt and ¾ cup of flour onto the dough, mix in well and then tip out on to a well floured surface.
 >
-> Dust with more flour and shape into a ball before rolling into a large rectangle approx 1/2 cm thick.
+> Dust with more flour and shape into a ball before rolling into a large rectangle approx½ cm thick.
 >
-> Spread with 3/4 cup softened butter, then soft light brown sugar and the cinnamon.
+> Spread with ¾ cup softened butter, then soft light brown sugar and the cinnamon.
 >
 > Roll the up from the long side into a swiss roll of dough and cut into 2cm slices.
 >

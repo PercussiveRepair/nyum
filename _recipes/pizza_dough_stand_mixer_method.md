@@ -7,8 +7,8 @@ veggie: y
 --- 
 * `450g` flour
 * `2 tsp` instant yeast
-* `1/2 tbsp` olive oil
-* `1/4 tsp` kosher salt
+* `½ tbsp` olive oil
+* `¼ tsp` kosher salt
 * `1 cup` warm water
 * cornmeal
 

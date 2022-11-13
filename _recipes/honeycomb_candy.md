@@ -7,9 +7,9 @@ sweet: y
 
 --- 
 * `1 cup` Granulated Sugar
-* `1/4 cup` Corn Syrup
+* `¼ cup` Corn Syrup
 * `2 tbsp` Honey
-* `1/2 cup` Water
+* `½ cup` Water
 * `2 tsp` Baking Soda
  
 > Line an 8x8 pan with parchment paper. It doesn’t need to sit neatly in the pan, since the honeycomb will weigh it down later.

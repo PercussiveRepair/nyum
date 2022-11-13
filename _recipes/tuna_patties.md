@@ -8,12 +8,12 @@ image: tuna_patties.png
 --- 
 * `3 cans` tuna
 * `2` eggs
-* `1/4 cup` breadcrumbs
+* `¼ cup` breadcrumbs
 * `3 tbsp` mayo
 * `1 tsp` lemon juice
-* `1/4 tsp` each salt & pepper
+* `¼ tsp` each salt & pepper
 * `1 tsp` minced garlic
-* `1/2 tsp` dried onion flakes & dried parsley
+* `½ tsp` dried onion flakes & dried parsley
 * `1 cup` breadcrumbs to coat (optional)
  
 >

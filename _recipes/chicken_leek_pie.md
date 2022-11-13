@@ -11,10 +11,10 @@ image: chicken_leek_pie.png
 * `750g` chicken, cut into bite-size pieces
 * `3` smoked bacon rashers, chopped
 * `1 clove` garlic, crushed
-* `1/2 tsp` thyme
+* `½ tsp` thyme
 * `2` bay leaves
-* `150 ml` chicken stock, hot
-* `142 ml` cream
+* `150ml` chicken stock, hot
+* `142ml` cream
 * `375g` pack ready-rolled pastry
 * `1 medium` egg
  
@@ -26,7 +26,7 @@ image: chicken_leek_pie.png
 >
 > Stir in the garlic. Pour in the stock and simmer until reduced by half. Add the thyme, bay leaves and cream, bring to the boil, then simmer for 5-6 minutes until thickened.
 >
-> Season, then spoon into a 2.5-litre pie dish (or 4 x 300ml ovenproof dishes). Set aside to cool.
+> Season, then spoon into a 2½-litre pie dish (or 4 x 300ml ovenproof dishes). Set aside to cool.
 >
 > Brush a little water along the edge of the pie dish or dishes. Unroll the pastry and cut out a piece large enough to cover the dish or dishes. Press down the edges and trim off the excess. Snip a small hole in the centre of the pastry to let the steam escape. Put on a baking tray and chill for 15 minutes.
 >

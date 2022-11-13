@@ -3,13 +3,13 @@ title: Sweet & Sticky Baked Chicken Drumsticks
 category: Roasts
 
 --- 
-* `1/4 cup` balsamic vinegar
-* `1/4 cup` honey
-* `1/4 cup` light brown sugar, packed
+* `¼ cup` balsamic vinegar
+* `¼ cup` honey
+* `¼ cup` light brown sugar, packed
 * `2 tbsp` low-sodium soy sauce
 * `3 cloves` garlic, minced
 * `1 tbsp` minced fresh ginger
-* `1/2 tsp` fresh cracked black pepper
+* `½ tsp` fresh cracked black pepper
 * `6` chicken drumsticks, about 750g
 * `1 tbsp` sesame seeds, lightly toasted
 * `2 tsp` chopped fresh parsley

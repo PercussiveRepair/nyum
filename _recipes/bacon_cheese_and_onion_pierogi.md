@@ -10,7 +10,7 @@ image: cheese_bacon_pierogis.jpg
 
 ---
 
-* `2 1/4 cups` all purpose flour, plus extra for dusting
+* `2¼ cups` all purpose flour, plus extra for dusting
 * `1 tsp` salt
 * `1 large`  egg, beaten
 * `1 cup` sour cream
@@ -42,7 +42,7 @@ image: cheese_bacon_pierogis.jpg
 
 ---
 
-> Remove the dough from the refrigerator, and roll out on a floured surface to about 1/8 inch thick.
+> Remove the dough from the refrigerator, and roll out on a floured surface to about ⅛ inch thick.
 >
 > Using a circular cookie cutter or the top of a glass, cut the dough into circles.
 >

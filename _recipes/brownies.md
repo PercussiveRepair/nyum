@@ -16,8 +16,8 @@ sweet: y
 * `6 large`  eggs
 * `pinch` salt
 * `1 tbsp`vanilla extract
-* `1/4 tsp` ground cinnamon
-* `1/4 tsp` ground nutmeg
+* `¼ tsp` ground cinnamon
+* `¼ tsp` ground nutmeg
  
 > Preheat fan oven to 180 centigrade, line your baking tin with greaseproof paper
 >

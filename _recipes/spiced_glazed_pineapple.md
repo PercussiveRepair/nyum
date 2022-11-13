@@ -8,7 +8,7 @@ sweet: y
 --- 
 * `1` lime, zest and juice
 * `2 tbsp` clear honey
-* `1/4 tsp` ground cinnamon
+* `¼ tsp` ground cinnamon
 * `pinch` ground nutmeg
 * `2 tsp` icing sugar, sifted
 * `200g` low-fat fromage frais

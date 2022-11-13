@@ -10,8 +10,8 @@ favorite: Y
 
 ---
 
-* `2 kg` pork shoulder (pork butt), skinless, boneless
-* `2 1/2 tsp` salt
+* `2kg` pork shoulder (pork butt), skinless, boneless
+* `2½ tsp` salt
 * `1 tsp` black pepper
 * `1 tbsp` dried oregano
 * `2 tsp` ground cumin
@@ -28,7 +28,7 @@ favorite: Y
 * `1` onion, chopped
 * `1` jalapeno, deseeded, chopped
 * `4 cloves` garlic, minced
-* `3/4 cup` juice from orange (2 oranges)
+* `¾ cup` juice from orange (2 oranges)
 
 > Place the pork in a slow cooker (fat cap up), top with the onion, jalapeño, minced garlic (don't worry about spreading it) and squeeze over the juice of the oranges.
 >

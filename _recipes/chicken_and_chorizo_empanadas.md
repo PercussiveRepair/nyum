@@ -22,7 +22,7 @@ size: Makes 10
 
 * `150g` unsalted butter
 * `300g` plain flour
-* Large pinch of fine salt
+* `Large pinch` fine salt
 * `1 medium` egg. lightly beaten
 * `3 to 5 tbsp` water
 
@@ -36,7 +36,7 @@ size: Makes 10
 * `1 medium` onion, finely chopped
 * `1 clove` garlic, crushed
 * `100g` cured chorizo sausage (ready-to-eat), finely diced
-* `1/2 tsp` cumin seeds
+* `½ tsp` cumin seeds
 * `50g` raisins
 * Salt and pepper
 

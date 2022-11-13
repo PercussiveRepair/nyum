@@ -11,13 +11,13 @@ veggie: Y
 
 * `250g` Self Raising Flour
 * `1 tsp` Baking Powder
-* `1/2 tsp` salt (2 pinch)
-* `1/2 tsp` Nigella Seed (2 pinch)
+* `½ tsp` salt (2 pinch)
+* `½ tsp` Nigella Seed (2 pinch)
 * `100ml` water
 * `1` Medium Egg 
 * or 
-* `1/4 cup` plain yogurt
-* `1/2 tbsp` Caster Sugar
+* `¼ cup` plain yogurt
+* `½ tbsp` Caster Sugar
 * `2 tbsp` Oil
 * grated garlic & chopped coriander to top (optional)
 
@@ -32,7 +32,7 @@ veggie: Y
 >
 > Apply some oil on ball of the dough and place back in the bowl.
 >
-> Cover with a damp cloth, and allow to rest for at least 1 1/2 hours and preferably longer.
+> Cover with a damp cloth, and allow to rest for at least 1½ hours and preferably longer.
 >
 > Divide dough into 4 equal sized balls.
 >

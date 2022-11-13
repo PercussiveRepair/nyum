@@ -14,16 +14,16 @@ spicy: y
 * `2` bay leaf (thej pata)
 * `2 pieces` cinnamon stick (dhal shini)
 * `2` cardamoms (elachi)
-* `1/2 medium` onion sliced
+* `½ medium` onion sliced
 * `4` chillies
 * Salt to taste
 * `1 tsp` garlic paste
 * `1 tsp` ginger paste
-* `1/2 tsp` turmeric powder (haldi)
-* `3/4 tsp` coriander powder (dhaniya)
-* `1/4 tsp` chilli powder (mirch)
-* `1/4 tsp` cumin powder (jeera)
-* `1/4 tsp` garam masala powder
+* `½ tsp` turmeric powder (haldi)
+* `¾ tsp` coriander powder (dhaniya)
+* `¼ tsp` chilli powder (mirch)
+* `¼ tsp` cumin powder (jeera)
+* `¼ tsp` garam masala powder
 * `1 medium` tomato
 * `100g` split red lentils (dhal)
 * `400g` chicken
@@ -41,7 +41,7 @@ spicy: y
 >
 > Add chicken, stir to coat and cover again. Cook on low for 10 mins
 >
-> Add a 1/4 cup water, cover again and cook on low for 10 mins
+> Add a¼ cup water, cover again and cook on low for 10 mins
 >
 > Add 1 cup of water, turn up to high heat, recover and bring to a boil
 
@@ -50,7 +50,7 @@ spicy: y
 ---
 
 * `2 tsp` clarified butter (ghee)
-* `1/2 small`  onion sliced
+* `½ small`  onion sliced
 * `6` gloves of garlic
 
 > For the tempering, melt the ghee in a small pan and add the onions.

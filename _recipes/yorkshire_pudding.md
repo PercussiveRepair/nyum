@@ -11,7 +11,7 @@ veggie: Y
 * `1 tsp` kosher salt
 * `2 cups` milk (room temperature)
 * `4 large`  eggs (room temperature)
-* `1/2 cup` beef pan drippings or vegetable oil
+* `½ cup` beef pan drippings or vegetable oil
  
 > Preheat oven to fan 220°C/gas 8.
 >
@@ -23,6 +23,6 @@ veggie: Y
 >
 > Divide the drippings or oil between the bun tin/muffin pan cups and place in oven.
 >
-> Wait until oil is smoking hot, whisk batter again and pour 1/3 cup batter into each
+> Wait until oil is smoking hot, whisk batter again and pour⅓ cup batter into each
 >
 > Bake for 12-15 minutes or until puffed and golden brown.

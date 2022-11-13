@@ -6,12 +6,13 @@ image: crumpets.png
 veggie: Y
 
 --- 
+
 * `150ml` milk
 * `150ml` hot water
 * `1 tsp` sugar
 * `1 tsp` rapid rise yeast
 * `250g` all-purpose flour
-* `1/2 tsp` fine sea salt
+* `½ tsp` fine sea salt
 * `2 tsp` bicarbonate of soda (baking soda)
 
 > Stir the milk and water together and either cool or microwave to a temperature of 46C (115F). Add the sugar and yeast whisking well to combine. Cover and set in a warm spot for ten minutes or until frothy.
@@ -22,7 +23,7 @@ veggie: Y
 >
 > Heat a non-stick griddle or pan over medium heat. I actually get better results by NOT using butter or oil in the pan which tends to overcook the bottoms. Adapt as you see fit on this front.
 >
-> Use roughly 80ml (1/3 cup) batter for each four-inch crumpet. Adjust this amount depending on the size you are making. If using rings, measure into them allowing for expansion by about a third. If ‘free forming’, slowly and gently spoon into a heated pan to make round shapes letting the heat of the pan set the edges slightly before putting the full measure on each crumpet.
+> Use roughly 80ml (⅓ cup) batter for each four-inch crumpet. Adjust this amount depending on the size you are making. If using rings, measure into them allowing for expansion by about a third. If ‘free forming’, slowly and gently spoon into a heated pan to make round shapes letting the heat of the pan set the edges slightly before putting the full measure on each crumpet.
 >
 > Getting the temperature just right will take some adjustments depending on your equipment but you want the edges to be mostly dry with the top just barely cooked before the bottom becomes too dark. This should translate to five minutes cook time if using rings or about a minute shorter for thinner free form examples.
 >

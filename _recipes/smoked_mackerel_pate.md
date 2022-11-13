@@ -9,7 +9,7 @@ description: Gorgeous smoky pate best served with toast points
 * `2 tsp` Dijon mustard
 * Freshly ground black pepper
 * `2 tbsp` crème fraîche
-* `1/2` lemon, juice only
+* `½` lemon, juice only
 * `100g` unsalted butter, chopped
 * `1` spring onion, chopped
 * Sourdough bread, cut into slices

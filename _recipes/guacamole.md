@@ -7,11 +7,11 @@ veggie: y
 
 * `3` Haas avocados, halved, seeded and peeled
 * `1` lime, juiced
-* `1/2 tsp` kosher salt
-* `1/2 tsp` ground cumin
-* `1/2 tsp` cayenne
-* `1/2 medium` onion, diced
-* `1/2` jalapeno pepper, seeded and minced
+* `½ tsp` kosher salt
+* `½ tsp` ground cumin
+* `½ tsp` cayenne
+* `½ medium` onion, diced
+* `½` jalapeno pepper, seeded and minced
 * `2` Roma tomatoes, seeded and diced
 * `1 tbsp` chopped cilantro
 * `1 clove` garlic, minced

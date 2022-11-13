@@ -7,13 +7,13 @@ veggie: y
 --- 
 
 * `2 cups` lightly packed shredded Gruyere cheese (about 8 ounces)
-* `1 1/2 cups` lightly packed shredded Swiss cheese (about 6 ounces)
+* `1½ cups` lightly packed shredded Swiss cheese (about 6 ounces)
 * `2 tbsp` cornstarch
 * `1 cup` low-sodium, good-quality chicken broth
-* `1/8 tsp/quick squeeze` lemon juice (don't leave this out!)
+* `⅛ tsp/quick squeeze` lemon juice (don't leave this out!)
 * `1 tbsp` finely minced or pressed garlic
-* `1/4 tsp` ground black or white pepper
-* `1/4 tsp` nutmeg
+* `¼ tsp` ground black or white pepper
+* `¼ tsp` nutmeg
 * Dash of paprika
  
 > Place both the shredded Gruyere and Swiss cheeses in a large resealable bag with the cornstarch and shake until evenly coated.

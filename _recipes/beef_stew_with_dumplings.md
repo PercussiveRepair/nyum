@@ -19,8 +19,8 @@ image: beef_stew_with_dumplings.jpg
 * `150g` carrots, cut into large chunks
 * `2` leeks, roughly chopped
 * `200g` swede, cut into large chunks
-* `150 ml` red wine
-* `500 ml` beef stock
+* `150ml` red wine
+* `500ml` beef stock
 * `2` bay leaves
 * `3 tbsp` fresh thyme leaves
 * `3 tbsp` chopped fresh flatleaf parsley
@@ -47,8 +47,8 @@ image: beef_stew_with_dumplings.jpg
 * `125g or 1 cup` plain flour, plus extra for dusting
 * `1 tsp` baking powder
 * `pinch` salt
-* `60g or 1/2cup` suet
-* `approx 1/2cup` water, to make a dough 
+* `60g or½cup` suet
+* `approx½cup` water, to make a dough 
 
 > Sift the flour, baking powder and salt into a bowl.
 >

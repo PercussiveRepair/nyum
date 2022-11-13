@@ -9,8 +9,8 @@ veggie: Y
 * `50g chilled (cubed butter) plus 1tbsp` melted
 * `50g` grated cheddar cheese
 * `150ml` milk
-* `1/2 tbsp` chopped thyme
-* `1/2 tbsp` chopped parsley
+* `½ tbsp` chopped thyme
+* `½ tbsp` chopped parsley
 * Salt & pepper to taste
  
 > Put 225g self raising flour into the bowl and rub in the butter until it resembles breadcrumbs.

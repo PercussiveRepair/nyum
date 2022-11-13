@@ -9,13 +9,13 @@ veggie: Y
 
 --- 
 
-* `1/2 cup` warm water
+* `½ cup` warm water
 * `2 tsp` caster sugar
 * `2 tsp` dried active dry yeast
-* `1/2 tsp` salt
+* `½ tsp` salt
 * `3 cups` plain flour
 * `2 tbsp` vegetable oil
-* `2/3 cup` natural yogurt, lightly beaten
+* `⅔ cup` natural yogurt, lightly beaten
 * `2 tsp` nigella (black onion) seeds, optional
 * small amount of melted butter to brush
 
@@ -23,7 +23,7 @@ veggie: Y
 >
 > Sift the flour into a bowl. Add the yeast mixture, the nigella seeds, vegetable oil and yogurt. Mix to form a ball of dough.
 >
-> Knead for 10 minutes until smooth and satiny (I did this in a stand mixer). Form into a ball. Pour 1/4tsp` oil into a large bowl and roll the ball of dough in it. Cover the bowl with clingfilm and set aside for 1 hour until doubled in size.
+> Knead for 10 minutes until smooth and satiny (I did this in a stand mixer). Form into a ball. Pour¼tsp` oil into a large bowl and roll the ball of dough in it. Cover the bowl with clingfilm and set aside for 1 hour until doubled in size.
 >
 > Preheat the oven to it's hottest temperature and turn on the top oven grill. Put your heaviest baking tray to heat in the oven.
 >

@@ -14,9 +14,9 @@ description: Beautiful marinated fall-apart lamb served with lemon, garlic and m
 * `4 cloves` garlic
 * `4` cherry tomatoes
 * `2` anchovies
-* `1/2 tsp` cumin seeds, toasted
-* `1/2 tsp` coriander seeds, toasted
-* `1/2 tsp` pink peppercorns
+* `½ tsp` cumin seeds, toasted
+* `½ tsp` coriander seeds, toasted
+* `½ tsp` pink peppercorns
 * `2 tbsp` rosemary leaves
 * `1 sprig` thyme, leaves picked
 * `small bunch` mint leaves, chopped
@@ -49,7 +49,7 @@ description: Beautiful marinated fall-apart lamb served with lemon, garlic and m
 
 ---
 
-* zest of 1/2 lemon
+* zest of½ lemon
 * `1` garlic clove, crushed
 * `1 tbsp` finely chopped mint
  

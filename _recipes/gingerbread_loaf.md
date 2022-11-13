@@ -5,18 +5,18 @@ veggie: y
 
 --- 
 * `1 cup (237 mL)` milk
-* `1/2 cup (118 mL)` molasses or black treacle
-* `1/2 cup (118 mL)` honey or golden syrup
-* `1/2 cup (113g)` unsalted butter
-* `1/2 cup (100g)` granulated sugar
+* `½ cup (118 mL)` molasses or black treacle
+* `½ cup (118 mL)` honey or golden syrup
+* `½ cup (113g)` unsalted butter
+* `½ cup (100g)` granulated sugar
 * `1` egg
-* `2 1/2 cups (300g)` all-purpose flour
-* `3/4 tsp` salt
-* `1 1/2 tsp` baking soda
+* `2½ cups (300g)` all-purpose flour
+* `¾ tsp` salt
+* `1½ tsp` baking soda
 * `2 tbsp` ground cinnamon 
 * `2 tbsp` ground ginger
-* `1/4 tsp` finely-ground black pepper
-* `1/2 tsp` any of ground mace, ground cloves, ground coriander seed, ground nutmeg etc, optional
+* `¼ tsp` finely-ground black pepper
+* `½ tsp` any of ground mace, ground cloves, ground coriander seed, ground nutmeg etc, optional
  
 > Heat oven to 350ºF/180ºC. 
 >

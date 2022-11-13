@@ -7,9 +7,9 @@ veggie: Y
 --- 
 * `340g` plain flour
 * `1 tsp` baking powder
-* `1/2 tsp` salt
-* `1 1/2 tsp` grated nutmeg
-* `1 1/2 tsp` ground cloves
+* `½ tsp` salt
+* `1½ tsp` grated nutmeg
+* `1½ tsp` ground cloves
 * `2 tsp` ground cinnamon
 * `3 tsp` ground ginger
 * `225g` unsalted butter, softened

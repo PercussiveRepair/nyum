@@ -6,11 +6,11 @@ veggie: Y
 sweet: y 
 
 --- 
-* `1 1/2 cups` all-purpose flour
+* `1½ cups` all-purpose flour
 * `3 tsp` baking powder
-* `1/4 tsp` salt
+* `¼ tsp` salt
 * `2 tbsp` caster sugar
-* `1 1/4 cups` milk
+* `1¼ cups` milk
 * `1 tsp` vanilla extract
 * `2` eggs
 * `3 tbsp` butter, melted
@@ -23,6 +23,6 @@ sweet: y
 >
 > Heat a lightly oiled griddle or frying pan over medium low heat.
 >
-> Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake.
+> Pour or scoop the batter onto the griddle, using approximately¼ cup for each pancake.
 >
 > Brown on both sides and serve hot.

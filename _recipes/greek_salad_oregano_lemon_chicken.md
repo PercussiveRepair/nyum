@@ -23,16 +23,16 @@ image: greek_salad_oregano_lemon_chicken.jpg
 
 ---
 
-* `1/2` cucumber
+* `½` cucumber
 * `1` red pepper
 * `1` green pepper
 * `10` cherry tomatoes
-* `1/2` red onion
+* `½` red onion
 * `100g` pitted black olives
 * `100g` feta cheese
 * `4 tbsp` olive oil
 * `2 tbsp` chopped mint
-* `1/2 tsp` parsley
+* `½ tsp` parsley
 * salt & pepper
 
 > Chop the veggies and cheese as desired - I like bite size cubes for everything

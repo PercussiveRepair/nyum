@@ -8,8 +8,8 @@ sweet: y
 * `225g` plain flour
 * `350g` caster sugar
 * `85g` cocoa powder
-* `1 1/2 tsp` baking powder
-* `1 1/2 tsp` bicarbonate of soda
+* `1½ tsp` baking powder
+* `1½ tsp` bicarbonate of soda
 * `2` free-range eggs
 * `250ml` milk
 * `125ml` vegetable oil

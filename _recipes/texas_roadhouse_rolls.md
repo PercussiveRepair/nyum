@@ -8,14 +8,14 @@ veggie: Y
 
 --- 
 * `7g` active dry yeast
-* `1/4 cup` lukewarm water
+* `¼ cup` lukewarm water
 * `1 cup` lukewarm milk
 * `3 tbsp` melted butter, room temperature
 * `2 tbsp` sugar
 * `4 cups` all-purpose flour, divided
 * `1 large`  egg, room temperature
-* `1 1/2 tsp` garlic salt
-* `1/4 cup` melted butter for basting rolls
+* `1½ tsp` garlic salt
+* `¼ cup` melted butter for basting rolls
  
 > Lightly grease a large mixing bowl and set aside.
 >
@@ -27,7 +27,7 @@ veggie: Y
 >
 > Add milk, butter, and sugar, continuing on low speed until thoroughly mixed.
 >
-> Gradually add 11/2 cups flour, stirring until thoroughly mixed.
+> Gradually add 1½ cups flour, stirring until thoroughly mixed.
 >
 > Add egg and salt, mixing to combine.
 >
@@ -39,11 +39,11 @@ veggie: Y
 >
 > Transfer dough to prepared bowl, using a dough scraper if necessary.
 >
-> Cover bowl with plastic wrap and allow dough to double in size (approx. 1-11/2 hours).
+> Cover bowl with plastic wrap and allow dough to double in size (approx. 1-1½ hours).
 >
 > Punch dough down, remove from bowl, and place on a floured work surface.
 >
-> With a rolling pin, roll out dough in a rectangle to approx. 1/2 inch in thickness.
+> With a rolling pin, roll out dough in a rectangle to approx.½ inch in thickness.
 >
 > Using a pizza cutter, divide into 18 pieces.
 >

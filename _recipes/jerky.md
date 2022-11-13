@@ -4,10 +4,10 @@ category: Southern US
 description: Simple smokey jerky using the dehydrator
 
 --- 
-* `3/4 cup` Soy Sauce
-* `1/4 cup` Worcestershire Sauce
-* `1/4 cup` Rice Cooking Wine
-* `1/4 cup` Brown Sugar
+* `¾ cup` Soy Sauce
+* `¼ cup` Worcestershire Sauce
+* `¼ cup` Rice Cooking Wine
+* `¼ cup` Brown Sugar
 * `2 to 3 tbsp` Mirin (Japanese sweet cooking oil)
 * `2 to 3 tbsp` Red Wine Vinegar or Apple Cider Vinegar or Rice Vinegar
 * `2 to 3 tsp` Hickory or Mesquite liquid smoke

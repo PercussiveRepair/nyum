@@ -9,11 +9,11 @@ sweet: y
 --- 
 * `550ml` water
 * `200g` sugar
-* `1 1/2` cinnamon sticks
+* `1½` cinnamon sticks
 * `3` cloves
 * `1in` Sliced root ginger
 * `1` Nutmeg
-* `1 1/2` bottles red wine
+* `1½` bottles red wine
 * `100ml` Ginger wine
 * `1` orange, sliced
  

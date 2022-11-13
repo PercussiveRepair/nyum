@@ -7,7 +7,7 @@ favorite: Y
 
 --- 
 
-* `1.5 kg` topside of beef
+* `1½ kg` topside of beef
 * `2 medium` onions
 * `2` carrots
 * `2 sticks` celery

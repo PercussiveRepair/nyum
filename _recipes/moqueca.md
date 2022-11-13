@@ -11,10 +11,10 @@ image: moqueca.jpg
 ---
 
 * `500-750g` firm white fish - Halibut, Black Cod, Sea Bass (thicker cuts are best)
-* `1/2 tsp` salt
+* `½ tsp` salt
 * `1` lime, zest and juice
 
-> Rinse and pat dry the fish and cut into 2 inch pieces. Place in a bowl. Add salt, zest from half the lime and 1 tablespoon lime juice. Massage lightly to coat all pieces well. Set aside.
+> Rinse and pat dry the fish and cut into 2 inch pieces. Place in a bowl. Add salt, zest from half the lime and 1 tbsp lime juice. Massage lightly to coat all pieces well. Set aside.
 
 
 ## For the stew:
@@ -23,19 +23,19 @@ image: moqueca.jpg
 
 * `2–3 tbsp` coconut or olive oil  (or use Dende – Brazillian Red Palm oil for the best flavor!)
 * `1` onion finely diced (red, white or yellow)
-* `1/2 tsp` salt
+* `½ tsp` salt
 * `1 cup` carrot, diced
 * `1` red bell pepper, diced
 * `4 cloves` garlic, rough chopped
-* `1/2` jalapeno, finely diced
+* `½` jalapeno, finely diced
 * `1 tbsp` tomato paste
 * `2 tsp` paprika
 * `1 tsp` cumin
 * `1 cup` fish or chicken stock
-* `1 1/2 cups` tomatoes, diced (preferably fresh)
+* `1½ cups` tomatoes, diced (preferably fresh)
 * `1 can` coconut milk (liquid and solids)
 * salt to taste
-* `1/2 cup` chopped cilantro, scallions or Italian parsley
+* `½ cup` chopped cilantro, scallions or Italian parsley
 * A squeeze of lime
  
 > In a large saute pan, heat the olive oil over medium high heat. 

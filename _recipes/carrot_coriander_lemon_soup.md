@@ -7,8 +7,8 @@ veggie: y
 * `300g` carrots, peeled & chopped
 * `1 small` potato, chopped
 * `1` onion, chopped
-* `1/2 tsp` ground coriander
-* `1/2 tsp` cumin
+* `½ tsp` ground coriander
+* `½ tsp` cumin
 * `1l` vegetable or chicken stock
 * a handful of chopped fresh coriander
 * juice of half a lemon

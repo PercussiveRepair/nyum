@@ -5,14 +5,14 @@ description: Chicken on the bone rice dish with cardamom
 spicy: y
 --- 
 
-* `1 kg` chicken on the bone, skinless and cut to medium pieces
+* `1kg` chicken on the bone, skinless and cut to medium pieces
 * `250g` basmati rice
 * `525ml` water or stock
 * `3 tbsp` sunflower oil
 * `1 heaped tsp` cumin seeds
 * `6` cloves
-* `1/2 tsp` black pepper
-* `2”` cinnamon stick
+* `½ tsp` black pepper
+* `2in` cinnamon stick
 * `2` black cardamom pods
 * `2 large` white onions thinly sliced
 * `2` green chillies slit lengthwise
@@ -21,7 +21,7 @@ spicy: y
 * `1 heaped tsp` coriander powder
 * Salt to taste
 * `20g` freshly chopped coriander
-* Juice of 1/2 a lime
+* `½` lime, juiced
 
 > In a blender add the garlic and ginger with a splash of water and make a smooth paste. Set aside.
 >

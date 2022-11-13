@@ -7,11 +7,11 @@ veggie: y
 --- 
 * `1` star anise
 * `1 tbsp` whole sichuan peppercorn
-* `1/4 stick` cinnamon
+* `¼ stick` cinnamon
 * `2 tsp` fennel seed
 * `4` whole cloves
 * `1 slice` liquorice root, optional
-* `1/2 tsp` ginger powder, optional
+* `½ tsp` ginger powder, optional
  
 > In a dry pan over a low flame toast the star anise, cinnamon, and clove for ~3-4 minutes, then add in the fennel and toast for another ~3 minutes.
 >

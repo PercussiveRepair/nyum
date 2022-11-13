@@ -10,9 +10,9 @@ category: Pasta Rice & Noodles
 
 * `2` chicken breasts, sliced in half
 * `6 tbsp` butter, divided
-* `1/2 cup` italian bread crumbs
-* `1/2 cup` grated parmesan
-* `1/4 cup` flour
+* `½ cup` italian bread crumbs
+* `½ cup` grated parmesan
+* `¼ cup` flour
 
 > Melt 4 tbsps of butter in a shallow dish.
 >
@@ -27,12 +27,12 @@ category: Pasta Rice & Noodles
 ---
 
 * `230g` pasta of choice
-* `1/2 cup` double cream
-* `1/2 cup` grated parmesan cheese
+* `½ cup` double cream
+* `½ cup` grated parmesan cheese
 * juice of one lemon
 * `1 tsp` garlic powder
-* `1/2 tsp` salt
-* `1/4 tsp` pepper
+* `½ tsp` salt
+* `¼ tsp` pepper
  
 > Meanwhile cook the pasta according to package directions and drain.
 >

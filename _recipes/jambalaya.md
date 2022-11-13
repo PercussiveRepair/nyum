@@ -5,7 +5,7 @@ description: Just like maman used to make. Replaces Andioulle with Chorizo becau
 
 --- 
 * `6` boneless chicken thighs
-* `1/2` chorizo sausage, chopped
+* `½` chorizo sausage, chopped
 * `4 cloves` garlic, roughly chopped
 * `1 large`  onion, chopped
 * `1` green pepper, chopped
@@ -18,8 +18,8 @@ description: Just like maman used to make. Replaces Andioulle with Chorizo becau
 * `1 tsp` black pepper
 * `1 tsp` paprika
 * `pinch` chilli flakes
-* `1/2 tsp` cumin
-* `1/2 tsp` coriander
+* `½ tsp` cumin
+* `½ tsp` coriander
 * `1 cup` frozen prawns
 * `2 cups` long grain rice
  

@@ -32,8 +32,8 @@ favorite: Y
 ---
 
 * `3 tbsp` dry mustard
-* `1/2 cup` maple syrup
-* `1/2 cup` honey
+* `½ cup` maple syrup
+* `½ cup` honey
 
 
 ## To bake

@@ -21,11 +21,11 @@ spicy: y
 * `1 tsp` dried thyme
 * `1 tsp` cumin
 * `2 tsp` ground coriander seed
-* `1/8 tsp` cinnamon (optional)
-* `1/8 tsp` ground clove (optional)
+* `⅛ tsp` cinnamon (optional)
+* `⅛ tsp` ground clove (optional)
 * `2` bay leaves
 * salt and pepper to your taste
-* `1/2 medium` onion 
+* `½ medium` onion 
 * `6 to 7 cloves` garlic
  
 > Deseed and stem the dried chiles.

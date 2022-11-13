@@ -4,6 +4,7 @@ category: Salads
 veggie: y
 
 --- 
+
 * `230g` pasta shapes
 * Any cold vegetables, e.g.:
 * tiny broccoli florets
@@ -14,11 +15,11 @@ veggie: y
 * roughly chopped mangetout or sugar snap peas
 * cooked and cooled sweetcorn
 * cooked and cooled peas
-* `1/2 cup` mayonnaise
+* `½ cup` mayonnaise
 * `2 tsp` white wine or plain vinegar
-* `1/2 tsp` kosher salt or to taste
-* `1/2 tsp` freshly ground black pepper
-* `1/2 tsp` sugar
+* `½ tsp` kosher salt or to taste
+* `½ tsp` freshly ground black pepper
+* `½ tsp` sugar
  
 > Cook the pasta according to directions
 >

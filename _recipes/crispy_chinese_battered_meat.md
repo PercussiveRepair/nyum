@@ -11,7 +11,7 @@ description: A crispy batter for chinese meat dishes
 
 * `400g` chicken or pork
 * `1 tsp` cornflour
-* `1/2 tsp` sugar
+* `½ tsp` sugar
 * `1 tsp` light soy sauce or Shaoxing wine
 
 > Slice meat thinly into 5mm slices - freezing for 30 mins will help

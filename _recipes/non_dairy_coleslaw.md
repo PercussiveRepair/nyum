@@ -13,8 +13,8 @@ veggie: y
 * `2` carrots, grated
 * `1` onion, finely sliced
 * Other salad e.g. celery, radish, apple (optional)
-* `3/4 cup` fresh coriander leaves, finely chopped
-* `1/2 cup` toasted sliced almonds
+* `¾ cup` fresh coriander leaves, finely chopped
+* `½ cup` toasted sliced almonds
 
 > Add all the ingredients for the slaw except for the almonds to a large bowl.
 
@@ -27,7 +27,7 @@ veggie: y
 * `2 tbsp` pure maple syrup
 * `1 clove` garlic, minced
 * `pinch` chilli powder
-* `1/2 tsp` salt, plus more if necessary
+* `½ tsp` salt, plus more if necessary
 * Freshly cracked black pepper
  
 > In a small bowl, whisk together all the ingredients for the dressing.

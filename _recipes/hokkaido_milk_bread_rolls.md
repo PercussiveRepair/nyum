@@ -23,11 +23,11 @@ veggie: Y
 
 ---
 
-* `1 tablespoon (9g)` active dry yeast (instant works as well)
-* `1/2 cup (120g)` whole milk
-* `2.5 cups (320g)` bread flour
-* `3/4 teaspoon (3g)` fine sea salt
-* `1/4 cup (56g)` granulated sugar
+* `1 tbsp (9g)` active dry yeast (instant works as well)
+* `½ cup (120g)` whole milk
+* `2½ cups (320g)` bread flour
+* `¾ tsp (3g)` fine sea salt
+* `¼ cup (56g)` granulated sugar
 * `3 tbsp (42g)` unsalted butter, softened
 * `1` whole egg, room temperature
 
@@ -67,7 +67,7 @@ veggie: Y
 ---
 
 * `1-2 cloves` garlic
-* `1/4 cup (56g)` unsalted butter
+* `¼ cup (56g)` unsalted butter
 
 > Optional
 >

@@ -11,10 +11,10 @@ veggie: Y
 * `1 large`  onion, finely chopped
 * `1 in` fresh ginger, finely grated
 * `4 cloves` garlic, finely minced
-* `1 1/2 tsp` cumin seeds
-* `1 1/2 tsp` mustard seeds
-* `1/2 tsp` powdered fenugreek
-* `1/2 tsp` powdered paprika
+* `1½ tsp` cumin seeds
+* `1½ tsp` mustard seeds
+* `½ tsp` powdered fenugreek
+* `½ tsp` powdered paprika
 * `4` cardamom pods, lightly bashed
 * `1 large`  piece cinnamon
 * `1 tbsp` tomato purée

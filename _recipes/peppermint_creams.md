@@ -12,7 +12,7 @@ sweet: y
  
 > Gradually mix the icing sugar into the condensed milk. Add the peppermint extract and knead until smooth.
 >
-> Dust a clean surface with icing sugar and roll out the mixture to 5mm (1/4\\) thickness. Cut into rounds with a small cutter. Leave in a cool place to dry (about 2-3 hours).
+> Dust a clean surface with icing sugar and roll out the mixture to 5mm (¼\\) thickness. Cut into rounds with a small cutter. Leave in a cool place to dry (about 2-3 hours).
 >
 > Drizzle the peppermint creams with the melted chocolate or dip to coat one half. Allow to set. Keep refrigerated in an airtight container and use within 3 weeks.
 

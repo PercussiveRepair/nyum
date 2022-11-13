@@ -5,10 +5,10 @@ veggie: Y
 sweet: y 
 
 --- 
-* `1 pack` soft flour tortillas
+* `1 pack` soft flour tortillas (about 8)
 * `2 tbsp` vegetable oil
 * `1 tsp` cinnamon
-* `1/2 cup` caster sugar
+* `½ cup` caster sugar
  
 > heat oil in a pan medium heat
 >

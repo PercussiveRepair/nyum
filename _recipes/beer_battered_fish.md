@@ -4,11 +4,11 @@ category: Fish
 image: fried_fish.jpg
 
 --- 
-* 120-140g pieces of firm white fish. Cod or haddock work well.
+* `120-140g` pieces of firm white fish. Cod or haddock work well.
 * `150g` plain flour
 * `150g` rice flour or cornflour
-* `1/4 tsp` baking soda or baking powder
-* `1/4 tsp` salt
+* `¼ tsp` baking soda or baking powder
+* `¼ tsp` salt
 * `300ml` good fizzy beer like Heineken
 * Oil for deep frying
  
@@ -40,6 +40,6 @@ image: fried_fish.jpg
 > 
 > Drop in pieces of fish very slowly and place down away from you. 
 > 
-> Cook for 2.5 to 5 mins until golden brown, flipping over halfway through. Don’t fry more than about 3 pieces of fish at once to avoid cooling oil. 
+> Cook for 2½ to 5 mins until golden brown, flipping over halfway through. Don’t fry more than about 3 pieces of fish at once to avoid cooling oil. 
 > 
 > Remove from oil and place on a paper towel or wire rack to drain. 

@@ -13,7 +13,7 @@ sweet: y
 * `70ml` water
 * `170g` raw whole almonds
 * dash salt (optional)
-* `1/2 tsp` ground cinnamon (optional)
+* `½ tsp` ground cinnamon (optional)
  
 > Heat a large frying pan over a low to medium heat.
 >

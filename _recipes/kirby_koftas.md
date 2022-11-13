@@ -10,8 +10,8 @@ description: Kofta kebabs. Great for barbeques.
 * `1 tsp` ground coriander
 * `1 tsp` ground cumin
 * `1 tsp` paprika
-* `1/2 tsp` chilli
-* `1/2 tsp` ground turmeric
+* `½ tsp` chilli
+* `½ tsp` ground turmeric
 * `pinch` ground cinnamon
 * pita bread
 * salad

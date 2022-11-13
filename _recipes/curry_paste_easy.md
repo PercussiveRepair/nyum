@@ -11,7 +11,7 @@ veggie: y
 * `1 tsp` chili powder
 * `1 tbsp` paprika
 * `2 tsp` garam masala
-* `1/2 tsp` sea salt
+* `½ tsp` sea salt
 * `2 tbsp` groundnut oil
 * `2 tbsp` tomato puree
 * `1 tsp` cumin

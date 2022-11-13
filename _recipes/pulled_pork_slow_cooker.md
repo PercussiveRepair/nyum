@@ -9,13 +9,13 @@ favorite: Y
 * `4 medium` garlic cloves, thinly sliced
 * `1 cup` chicken stock or low-sodium chicken broth
 * `1 tbsp` packed dark brown sugar
-* `1/2 tsp` chilli powder
+* `½ tsp` chilli powder
 * `2 tsp` kosher salt, plus more as needed
 * `2 tsp` ground black or white pepper
 * `1 tsp` paprika
 * `1 tsp` thyme
-* `2-2.5kg` boneless or bone-in pork shoulder (also known as pork butt), twine or netting removed
-* `2/3 cup` ketchup
+* `2-2½kg` boneless or bone-in pork shoulder (also known as pork butt), twine or netting removed
+* `⅔ cup` ketchup
 * `few drops` liquid smoke (optional)
  
 > Place the onions and garlic in an even layer in the slow cooker. Pour in the stock or broth and liquid smoke.

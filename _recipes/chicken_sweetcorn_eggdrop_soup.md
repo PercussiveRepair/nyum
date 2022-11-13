@@ -6,7 +6,7 @@ favorite: Y
 --- 
 
 * `2 tbsp` olive oil
-* `1/4` onion finely chopped
+* `¼` onion finely chopped
 * `2 cloves` garlic, finely chopped
 * `1` carrot, finely diced
 * `1 litre` chicken stock
@@ -14,7 +14,7 @@ favorite: Y
 * `1 cup` shredded cooked chicken
 * `1 cup small`  noodles (broken spaghetti of tagliatelle)
 * `1 tsp` salt 
-* `1/2 tsp` msg
+* `½ tsp` msg
 * `pinch` white pepper
 * `1 tsp` cornflour mixed with 1 tbsp of cold water
 * `1` egg

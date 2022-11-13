@@ -11,9 +11,9 @@ spicy: ✓
 
 * `2 tbsp` chili flakes (gochugaru)
 * `1 tbsp` gochujang
-* `1/2-2/3 tbsp` soy sauce
+* `½-⅔ tbsp` soy sauce
 * `1 tbsp` cooking oil
-* `1/4 tsp` pepper
+* `¼ tsp` pepper
 * `2-3 tbsp` rice or corn syrup
 * `2 tbsp` water
 

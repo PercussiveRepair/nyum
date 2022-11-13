@@ -13,7 +13,7 @@ image: potstickers.png
 ---
 
 * `360g` flour
-* `1.5 cups` just boiled water
+* `1½ cups` just boiled water
 
 > In a stand mixer with dough hook, add flour and water.
 >
@@ -42,11 +42,11 @@ image: potstickers.png
 * `750g` ground pork (15% fat)
 * `3 cloves` garlic, minced
 * `2in` ginger, minced
-* `1/2 tsp` salt
-* `1/2 tsp` sugar
-* `1/2 tsp` chinese 5 spice powder
-* `1/2 tsp` white pepper
-* `1/2 tsp` cooking wine
+* `½ tsp` salt
+* `½ tsp` sugar
+* `½ tsp` chinese 5 spice powder
+* `½ tsp` white pepper
+* `½ tsp` cooking wine
 * `few drops` toasted sesame oil
 * `2` carrots finely chopped can also use same amount of spring onion, cabbage or mushroom
 
@@ -80,7 +80,7 @@ image: potstickers.png
 
 > Add a small amount of oil in a non-stick pan over a medium heat and lay in dumplings, crimp up, to fit.
 >
-> When you see the edge starts sizzling add 1/2 cup of water - Beware of spitting fat.
+> When you see the edge starts sizzling add½ cup of water - Beware of spitting fat.
 >
 > Cover and let steam. Cook this on medium heat until the water is all gone, about 3-5 minutes.
 >

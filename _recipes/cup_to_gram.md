@@ -4,7 +4,7 @@ category: Notes
 
 ---
 
-| Ingredient              | 1 cup | 3/4 cup | 2/3 cup | 1/2 cup | 1/3 cup | 1/4 cup | 2 tbsp |
+| Ingredient              | 1 cup | ¾ cup | ⅔ cup |½ cup |⅓ cup |¼ cup | 2 tbsp |
 |-------------------------|-------|---------|---------|---------|---------|---------|--------|
 | Flour                   | 120g  | 90g     | 80g     | 60g     | 40g     | 30g     | 15g    |
 | Flour (sieved)          | 110g  | 80g     | 70g     | 55g     | 35g     | 27g     | 13g    |

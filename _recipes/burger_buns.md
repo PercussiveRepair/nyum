@@ -11,7 +11,7 @@ veggie: Y
 * `300ml` warm milk
 * `7g` active dry yeast
 * `1 tbsp` white sugar
-* `1/2 tbsp` kosher salt (up to 1 tbsp for a saltier version)
+* `½ tbsp` kosher salt (up to 1 tbsp for a saltier version)
 * `75g` butter, melted
 * Milk for wash
  

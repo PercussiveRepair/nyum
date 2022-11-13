@@ -6,17 +6,17 @@ description: Stir fried beef with a sweet sticky sauce
 --- 
 
 * `1 tbsp` vegetable oil
-* `1/2 tsp` ginger, minced
+* `½ tsp` ginger, minced
 * `1 tbsp` garlic, chopped
-* `1/2 cup` light soy sauce
-* `1/2 cup` water
-* `3/4 cup` dark brown sugar
+* `½ cup` light soy sauce
+* `½ cup` water
+* `¾ cup` dark brown sugar
 * `500g` flank steak or sirloin steak
-* `1/4 cup` cornstarch
+* `¼ cup` cornstarch
 * `2 large`  spring onions
-* Vegetable oil, for frying (about 1/2 cup)
+* Vegetable oil, for frying (about½ cup)
 
-> Heat up a saucepan or work to medium heat (the oil should not too hot) with about 1 tablespoon of oil, and then add ginger and garlic sauté for about 1-2 minutes making sure the garlic does not burn.
+> Heat up a saucepan or work to medium heat (the oil should not too hot) with about 1 tbsp of oil, and then add ginger and garlic sauté for about 1-2 minutes making sure the garlic does not burn.
 >
 > Stir in soy sauce, water, and sugar to the mixture. Bring to a boil and simmer for about 3 minutes, remove from heat. Set aside
 >
@@ -24,7 +24,7 @@ description: Stir fried beef with a sweet sticky sauce
 >
 > Slice the spring onions on the diagonal into one-inch lengths
 >
-> Heat up the Wok with about 1/4 -1/2 cup oil, and then add meat let it rest for about 30 seconds before stirring. Cook for 2 minutes or until beef reaches desired doneness - it should barely cook in the center, stir the meat around a little so that it cooks evenly. Remove and keep warm. 
+> Heat up the Wok with about¼ -½ cup oil, and then add meat let it rest for about 30 seconds before stirring. Cook for 2 minutes or until beef reaches desired doneness - it should barely cook in the center, stir the meat around a little so that it cooks evenly. Remove and keep warm. 
 >
 > Transfer beef to a plate and remove any excess oil from the saucepan.
 >

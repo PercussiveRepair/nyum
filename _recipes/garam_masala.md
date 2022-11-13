@@ -20,7 +20,7 @@ veggie: y
 
 * `4g` fennel seeds (saunf) (avoids acidity)
 * `1g` shaved nutmeg (jai phal) (avoids indigestion)
-* `1/2` star anise (chakri phool) (avoids indigestion)
+* `½` star anise (chakri phool) (avoids indigestion)
 * `2g` black cardamoms (badi elaichi) (for flavor)
 * `2` dried bay leaves (tej patta)
  

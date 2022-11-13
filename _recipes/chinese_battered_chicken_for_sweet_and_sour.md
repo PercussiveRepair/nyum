@@ -8,14 +8,14 @@ image: chinese_battered_chicken_for_sweet_and_sour.jpg
 ---
 
 * `2 large`  chicken breasts
-* `1/2 tsp` salt
-* `1/2 tsp` sugar
-* `1/2 tsp` white pepper
+* `½ tsp` salt
+* `½ tsp` sugar
+* `½ tsp` white pepper
 * `1 tsp` shao shing wine
 * `1` egg
 * `11 tbsp` cornflour
 
-> Cut chicken into 2.5cm cubes
+> Cut chicken into 2½cm cubes
 >
 > Mix chicken pieces with salt, sugar, pepper and cooking wine and marinate for 10 mins
 >

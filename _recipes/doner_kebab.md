@@ -4,9 +4,10 @@ category: Middle Eastern
 description: Classic Turkish kebab to make at home
 
 --- 
+
 * `250g` 20% fat lamb mince
 * `250g` 20% fat beef mince
-* `1.5 tsp` chilli powder
+* `1½ tsp` chilli powder
 * `2 cloves` garlic, crushed
 * `1 tsp` white pepper
 * `1 tsp` ground cumin

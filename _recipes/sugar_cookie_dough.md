@@ -7,17 +7,17 @@ sweet: y
 --- 
 
 * `225g` unsalted butter, melted and cooled for 5 minutes
-* `1 1/2 cups` granulated sugar + additional 1/2 cup sugar to roll
-* `1/4 cup` packed light brown sugar
+* `1½ cups` granulated sugar + additional½ cup sugar to roll
+* `¼ cup` packed light brown sugar
 * `2 large`  eggs
 * `1 tbsp` vanilla extract
 * `3 cups` plain/all-purpose flour
 * `2 tsp` cornflour
 * `1 tsp` salt
 * `1 tsp` baking soda
-* `1/2 tsp` baking powder
+* `½ tsp` baking powder
  
-> In the bowl of a stand mixer with the whisk attachment, beat together the melted butter, 1 1/2 cups granulated sugar, and the light brown sugar. 
+> In the bowl of a stand mixer with the whisk attachment, beat together the melted butter, 1½ cups granulated sugar, and the light brown sugar. 
 >
 > Add the eggs and vanilla and beat until just combined and smooth.
 >
@@ -31,7 +31,7 @@ sweet: y
 >
 > Line a baking sheet with parchment paper.
 >
-> Scoop a 2-3 heaping tablespoons of cookie dough at a time and roll into balls, then roll the balls in sugar to coat. 
+> Scoop a 2-3 heaping tbsp of cookie dough at a time and roll into balls, then roll the balls in sugar to coat. 
 >
 > Place onto the prepared baking sheet, giving plenty of room for spreading. You should be able to fit 6-8 cookies per tray.
 >

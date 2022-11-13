@@ -41,11 +41,11 @@ image: Optional
 
 ---
 
-* `1/4 cup` sweet chili sauce
-* `1/3 cup` honey
-* `1/2 cup` water
+* `¼ cup` sweet chili sauce
+* `⅓ cup` honey
+* `½ cup` water
 * `2 tbsp` rice vinegar
-* `1/8 tsp` salt
+* `⅛ tsp` salt
 * `2 tsp` soy sauce
 * `1 tbsp` cornstarch
 

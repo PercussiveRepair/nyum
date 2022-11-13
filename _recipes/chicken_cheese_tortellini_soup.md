@@ -5,7 +5,7 @@ description: The Soup from r/cooking
 
 --- 
 * `1 medium` yellow onion, diced
-* `1/3 cup` all purpose flour
+* `⅓ cup` all purpose flour
 * `1 tbsp` dried basil
 * `2 cloves` garlic, minced
 * `2 tbsp` tomato paste
@@ -14,10 +14,10 @@ description: The Soup from r/cooking
 * `2 cans` chopped tomatoes
 * `500g` boneless, skinless chicken thighs
 * `1 tsp` salt
-* `1/2 tsp` pepper
+* `½ tsp` pepper
 * `4 cup` frozen cheese tortellini (or you can use fresh)
 * `3 cup` packed spinach (you can definitely add more than this if you want)
-* `1/2 cup` Parmesan cheese
+* `½ cup` Parmesan cheese
 * `1 cup` heavy cream or 1 cup half and half
  
 > In a microwave-safe bowl add the onions, flour, basil, garlic, tomato paste and drizzle with olive oil. Microwave for 5 minutes, stirring every 90 seconds or so. (The mixture will be pasty and look weird but don’t worry it will all be okay in the end). Add the mixture to the slow cooker.

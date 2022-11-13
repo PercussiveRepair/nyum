@@ -9,12 +9,12 @@ veggie: y
 * `1 tsp` ground black pepper
 * `1 tsp` table salt
 * `2 cups` ketchup
-* `1/2 cup` yellow ballpark-style mustard
-* `1/2 cup` cider vinegar
-* `1/3 cup` Worcestershire sauce
-* `1/4 cup` lemon juice
-* `1/4 cup` dark molasses
-* `1/4 to 3/4 cup` honey (see note below)
+* `½ cup` yellow ballpark-style mustard
+* `½ cup` cider vinegar
+* `⅓ cup` Worcestershire sauce
+* `¼ cup` lemon juice
+* `¼ cup` dark molasses
+* `¼ to ¾ cup` honey (see note below)
 * `1 tsp` hot sauce
 * `1 cup` dark brown sugar (you can use light brown sugar if that's all you have)
 * `3 tbsp` vegetable oil

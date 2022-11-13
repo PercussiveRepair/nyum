@@ -7,16 +7,16 @@ veggie: Y
 sweet: y 
 
 --- 
-* `1/2 cup / 120g` butter
+* `½ cup / 120g` butter
 * `1 cup` caster or soft light brown sugar
 * `2` eggs
 * `2` bananas, mashed
 * `2 cups` plain flour
 * `1 tsp` baking powder
-* `1/2 tsp` salt
+* `½ tsp` salt
 * `2 tsp` ground ginger (optional)
-* `1/2 cup` chopped nuts (optional)
-* `1/2 cup` chocolate chips (optional)
+* `½ cup` chopped nuts (optional)
+* `½ cup` chocolate chips (optional)
  
 > Cream butter, add sugar gradually. Cream together
 >

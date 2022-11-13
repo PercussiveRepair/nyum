@@ -7,15 +7,15 @@ sweet: y
 
 --- 
 
-* `2 1/2 cups` flour
+* `2½ cups` flour
 * `1 tbsp` baking powder
-* `1/4 tsp` salt
+* `¼ tsp` salt
 * `110g` cold butter
-* `1/3 cup` brown sugar
+* `⅓ cup` brown sugar
 * `1 tsp` cinnamon
-* `1/2 tsp` maple syrup/honey
+* `½ tsp` maple syrup/honey
 * `1 cup` milk
-* `1/2 tsp` vanilla
+* `½ tsp` vanilla
 
 > Preheat oven to 220C.
 >
@@ -27,7 +27,7 @@ sweet: y
 >
 > Add the milk/cream and vanilla and stir them in with a fork until a nice, thick dough forms.
 >
-> Roll the dough out about 1/2 in thickness. Cut out 3-inch squares and transfer the dough to a cookie sheet.
+> Roll the dough out about½ in thickness. Cut out 3-inch squares and transfer the dough to a cookie sheet.
 >
 > Criss-cross (DO NOT cut all the way) each square from corner-to-corner with a knife.
 >

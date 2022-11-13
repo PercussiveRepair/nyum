@@ -6,15 +6,15 @@ size: makes 12
 veggie: Y
 
 --- 
-* `1 1/2 cups` warm (110-115ºF) water
+* `1½ cups` warm (110-115ºF) water
 * `1 tbsp` sugar
 * `2 tsp` kosher salt
 * `7g` active dry yeast
-* `4 1/2 cups` all-purpose flour
+* `4½ cups` all-purpose flour
 * `4 tbsp` unsalted butter, melted
 * Vegetable oil
 * `10 cups` water
-* `2/3 cup` baking soda
+* `⅔ cup` baking soda
 * `1 large`  egg yolk beaten with 1 tbsp water
  
 > In the bowl of a stand mixer, combine the water, sugar and kosher salt. Sprinkle the yeast on top and allow it to sit for 5 minutes or until it begins to foam.

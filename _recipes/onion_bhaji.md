@@ -7,18 +7,18 @@ spicy: y
 
 --- 
 * `2` onions finely sliced
-* `1 1/2 tsp` ginger
+* `1½ tsp` ginger
 * `3 cloves` garlic minced
 * `1 tsp` turmeric
-* `1/2 tsp` white pepper
-* `1/2 tsp` fenugreek (methi)
+* `½ tsp` white pepper
+* `½ tsp` fenugreek (methi)
 * `1 tsp` chopped coriander leaves
 * `1 tsp` nigella (black onion) seeds
 * `1 tsp` cumin
 * `1 tsp` fennel seeds
 * `1 tsp` chilli powder
-* `1/2 tsp` salt
-* `3/4 cup gram flour or 75g plain flour & 1 tbsp` cornflour
+* `½ tsp` salt
+* `¾ cup gram flour or 75g plain flour & 1 tbsp` cornflour
 * `1 tbsp` ghee or melted butter
 * `2 tbsp` lemon juice
 * `1` egg

@@ -9,7 +9,7 @@ sweet: y
 * `30g` caster sugar
 * `1 tsp` dry yeast
 * `2` eggs
-* `1/2` lemon, zested
+* `½` lemon, zested
 * `1 tsp` fine sea salt
 * `65g` softened unsalted butter
  

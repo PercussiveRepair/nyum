@@ -8,15 +8,15 @@ veggie: Y
 * `2 cups` plain flour, divided
 * `2 tsp` paprika
 * `2 tsp` salt
-* `1/2 tsp` pepper
-* `1 1/2 cups` Desperados Tequila beer
+* `½ tsp` pepper
+* `1½ cups` Desperados Tequila beer
 * `2 large`  onions
 * Vegetable oil, for frying
 * Spicy ketchup, for dipping (optional)
 
-> In a large bowl, whisk together 1 1/2 cups of flour with the paprika, garlic powder, salt and pepper. Whisk in the beer until the mixture is well combined. Let the batter rest at room temperature for 10 minutes.
+> In a large bowl, whisk together 1½ cups of flour with the paprika, garlic powder, salt and pepper. Whisk in the beer until the mixture is well combined. Let the batter rest at room temperature for 10 minutes.
 >
-> While the batter rests, cut the tip off of the stem side of the onions then remove the peel. Slice the onions horizontally into 1/2-inch-thick rings and toss them with the remaining 1/2 cup of flour.
+> While the batter rests, cut the tip off of the stem side of the onions then remove the peel. Slice the onions horizontally into½-inch-thick rings and toss them with the remaining½ cup of flour.
 >
 > Add the vegetable oil to a large, heavy-bottomed pot (Dutch oven) to a depth of 2 inches and heat it over medium-high heat until a deep-fry thermometer reaches 375°F.
 >

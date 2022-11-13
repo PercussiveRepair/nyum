@@ -14,16 +14,16 @@ size: Makes 12
 ---
 
 * `1 tbsp` hoisin
-* `3 1/2 tbsp` sugar
-* `1/2 tbsp` sesame oil
+* `3½ tbsp` sugar
+* `½ tbsp` sesame oil
 * `1 tsp` dark soy sauce
-* `1/4 tsp` salt
+* `¼ tsp` salt
 * `2 tbsp` vegetable oil
 * `1` spring onion, cut into lengths
-* `1/2 small` onion, diced small
-* `1/3 cup` water 
+* `½ small` onion, diced small
+* `⅓ cup` water 
 * `3 tbsp` cornflour
-* `1/4 cup` water to make slurry
+* `¼ cup` water to make slurry
 * `200g` [Char Siu Pork](char_siu_roast_pork.html), chopped into small chunks
 
 > Mix hoisin, sugar, sesame oil, soy sauce and salt in a small bowl
@@ -32,13 +32,13 @@ size: Makes 12
 >
 > In a small frying pan add the oil and the onions. Cook until spring onions are browned and the oil is aromatic
 >
-> Add 1/3 cup water and heat for a few mins
+> Add⅓ cup water and heat for a few mins
 >
 > Remove the onions and add the sauce ingredients
 >
 > Mix until sugar dissolves and then bring to a boil
 >
-> Mix 1/3 cup water and the cornflour to make a slurry
+> Mix⅓ cup water and the cornflour to make a slurry
 >
 > Slowly stir cornflour mixture into sauce, stirring continuously, until sauce is thick and jelly-like
 >
@@ -74,7 +74,7 @@ size: Makes 12
 
 --- 
 
-> Spoon one tablespoon of the prepared pork filling into the centre of the dough. Gather up the edges and press to seal in three.
+> Spoon one tbsp of the prepared pork filling into the centre of the dough. Gather up the edges and press to seal in three.
 >
 > ![](bao_folding.gif)
 >

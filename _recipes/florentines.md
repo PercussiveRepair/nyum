@@ -10,7 +10,7 @@ sweet: y
 --- 
 * `90g` butter
 * `115g` caster sugar
-* `1/4 tsp` salt
+* `¼ tsp` salt
 * `20g` plain flour
 * `115g` flaked almonds
 * `30g` chopped sultanas
@@ -27,7 +27,7 @@ sweet: y
 > 
 > Add all other ingredients except chocolate
 >
-> Drop tablespoonfuls on to baking paper lined tray leaving plenty of space (they spread a lot)
+> Drop tbspfuls on to baking paper lined tray leaving plenty of space (they spread a lot)
 >
 > Bake for 15 mins at gas mark 4/180°C/160°C Fan
 > 

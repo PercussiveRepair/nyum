@@ -5,14 +5,15 @@ image: classic_coleslaw.png
 veggie: y
 
 --- 
-* `1/4` head of white cabbage, finely sliced
-* `1/2` white onion, finely sliced
+
+* `¼` head of white cabbage, finely sliced
+* `½` white onion, finely sliced
 * `2 `carrots, grated
 * handful of sultanas
 * `1 tsp` lemon juice
 * large pinch of caster sugar
 * salt and pepper to taste
-* `1/2 tsp` mustard
+* `½ tsp` mustard
 * `3 tbsp` mayonnaise
  
 > Mix all the veg in a large bowl 

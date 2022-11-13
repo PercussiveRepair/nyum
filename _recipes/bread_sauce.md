@@ -6,7 +6,7 @@ veggie: y
 --- 
 * `300ml` milk
 * `25g` butter
-* `1/2` onion , chopped
+* `½` onion , chopped
 * `6` cloves
 * `6` peppercorns
 * `2 cloves` garlic

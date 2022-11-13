@@ -14,11 +14,11 @@ veggie: Y
 * `2 tbsp` unsalted butter
 * `1 tsp` turmeric powder
 * `1 tsp` coriander powder
-* `1/2 tsp` garam masala
-* `1/2 cup` sour cream
-* `1/2 tsp` turmeric
-* `1/2 tsp` garam masala
-* `1/2 tsp` red chili powder
+* `½ tsp` garam masala
+* `½ cup` sour cream
+* `½ tsp` turmeric
+* `½ tsp` garam masala
+* `½ tsp` red chili powder
 
 > Peel potatoes and grate with a box grater into the medium sized pot. Generously salt potatoes and fill pot with water to cover.
 >

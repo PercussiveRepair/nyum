@@ -7,10 +7,10 @@ image: lemon_iced_tea.jpg
 
 --- 
 * `2-3` tea bags
-* `1.5l` boiling water
-* `1/3 - 1/2 cup` sugar
+* `1½l` boiling water
+* `⅓ -½ cup` sugar
 * `1` lemon sliced
-* `1/4 cup` lemon juice
+* `¼ cup` lemon juice
  
 > Put tea and boiling water into a heatproof jug or saucepan and let steep for 5-10 mins
 >

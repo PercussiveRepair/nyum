@@ -11,13 +11,13 @@ spicy: y
 ---
 
 * `500g` boneless skinless chicken breast or thigh, cut into bite-sized pieces
-* `1/2 tbsp` rice wine
+* `½ tbsp` rice wine
 * `pinch` salt
-* `40g / 1/3 cup` cornstarch to coat
+* `40g /⅓ cup` cornstarch to coat
 
 > Marinate the chicken meat with the rice wine and salt for 15 minutes.
 >
-> Coat the chicken with 1/3 cup of cornstarch.
+> Coat the chicken with⅓ cup of cornstarch.
 >
 > Deep fry the chicken until golden brown. Drain the excess oil on a paper towel lined dish or wire rack.
 
@@ -25,12 +25,12 @@ spicy: y
 
 ---
 
-* `2 1/2 tbsp` rice vinegar
-* `2 1/2 tbsp` soy sauce
-* `1/2 tbsp` dark soy sauce
+* `2½ tbsp` rice vinegar
+* `2½ tbsp` soy sauce
+* `½ tbsp` dark soy sauce
 * `1 tsp` Hoisin sauce
-* `1/4 cup` water
-* `1/2 tbsp` rice wine
+* `¼ cup` water
+* `½ tbsp` rice wine
 * `1 tbsp` cornstarch
 
 > Mix all the ingredients for the sauce in a small bowl. Set aside.
@@ -44,7 +44,7 @@ spicy: y
 * `1 tsp` crushed red chilli
 * `2` spring onion, rough chopped to garnish
 
-> Heat up a wok or frying pan with a tablespoon of oil. Once hot, add the garlic, ginger and dried chilies. Stir-fry until fragrant.
+> Heat up a wok or frying pan with a tbsp of oil. Once hot, add the garlic, ginger and dried chilies. Stir-fry until fragrant.
 >
 > Pour in the sauce mixture, stir a few times until it boils and thickens.
 >

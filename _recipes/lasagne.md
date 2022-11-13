@@ -41,7 +41,7 @@ favorite: Y
 * `80g` plain flour
 * `1 litre` milk
 * `100g` parmesan
-* `1/4 tsp` grated nutmeg
+* `¼ tsp` grated nutmeg
 * `2` bay leaves
 
 > Melt the butter over a medium-low heat and add the flour
@@ -70,6 +70,6 @@ favorite: Y
 >
 > Top with a final layer of bechamel, and add parmesan and mozarella on top
 >
-> Cover with foil and bake at 160deg C for 50 mins
+> Cover with foil and bake at 160°C for 50 mins
 >
 > Remove the foil for the last 10-15 mins to brown

@@ -4,10 +4,11 @@ category: Pasta Rice & Noodles
 veggie: y
 
 --- 
+
 * `1 can` coconut milk
 * `1 can` basmati rice
 * `1 can` hot water
-* `1/2` lemon
+* `½` lemon
  
 > Put the can of coconut milk in a hot pan.
 >

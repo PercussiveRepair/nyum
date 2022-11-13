@@ -12,8 +12,8 @@ description: Using sweet Indonesian soy sauce - kecap manis
 * `500g` chicken breast cut in 1-2in chunks
 * `2 tbsp` rice wine or shaoxing wine
 * `1 tsp` grated ginger
-* `1/2 tsp` salt
-* `1/2 tsp` ground black pepper
+* `½ tsp` salt
+* `½ tsp` ground black pepper
 * `3 tbsp` cornflour
 * `2 tbsp` rice flour
  
@@ -29,7 +29,7 @@ description: Using sweet Indonesian soy sauce - kecap manis
 
 ---
 
-* `1/2` onion, sliced thin
+* `½` onion, sliced thin
 * `2 cloves` minced garlic
 * `1 tsp` grated ginger
 * `3 tbsp` kecap manis (sweet Indonesian soy sauce)

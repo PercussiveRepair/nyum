@@ -33,10 +33,10 @@ description: Orange peanut sticy chicken thighs
 
 * `1 tsp` ground ginger
 * `1 tsp` garlic powder
-* `1/2 tsp` paprika
-* `1/2 tsp` ground cumin
-* `1/2 tsp` salt
-* `1/2 tsp` pepper
+* `½ tsp` paprika
+* `½ tsp` ground cumin
+* `½ tsp` salt
+* `½ tsp` pepper
 * `2 tbsp` olive oil
 * `8` chicken thigh fillets
 

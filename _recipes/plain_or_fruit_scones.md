@@ -15,7 +15,7 @@ sweet: y
 * `90g` caster sugar
 * `150ml` milk
 * `1` egg
-* `1/2 tsp` vanilla extract
+* `½ tsp` vanilla extract
 * `90g` chopped glace cherries or soaked sultanas (optional)
 * `1` egg & splash of milk for wash
  

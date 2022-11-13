@@ -14,8 +14,8 @@ spicy: y
 * `1"` piece ginger peeled
 * `1` green chilli
 * `1 tsp` paprika
-* `1/2 tsp` chilli powder (or a little more if you’d like it spicy)
-* `1/2 tsp` garam masala powder
+* `½ tsp` chilli powder (or a little more if you’d like it spicy)
+* `½ tsp` garam masala powder
 * `1 tsp` coriander powder
 * `pinch` cinnamon powder
 * `pinch` saffron, crushed

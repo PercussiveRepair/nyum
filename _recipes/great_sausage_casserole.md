@@ -6,10 +6,10 @@ description: Warning winter casserole. Best served with mashed potato
 --- 
 * `1 –2 tbsp` sunflower oil
 * `12` good quality pork sausages
-* `6` rashers rindless streaky bacon, cut into 2.5cm/1in lengths
+* `6` rashers rindless streaky bacon, cut into 2½cm/1in lengths
 * `2 medium` onions, thinly sliced
 * `2 cloves` garlic, crushed
-* `1/2 –1 tsp` hot chilli powder or smoked paprika
+* `½ –1 tsp` hot chilli powder or smoked paprika
 * `1 can` chopped tomatoes
 * `300ml` oz chicken stock
 * `2 tbsp` tomato purée

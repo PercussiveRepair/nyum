@@ -26,7 +26,7 @@ spicy: y
 * `1 splash` vegetable oil
 * `2 tsp` paprika
 * `600g` tinned chopped tomatoes
-* `1/2 tbsp` salt
+* `½ tbsp` salt
 
 > This makes a lot. Halve the quantity for a normal meal
 >

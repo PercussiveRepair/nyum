@@ -25,7 +25,7 @@ veggie: Y
 * `2 tbsp` chopped fresh corander leaf, plus more for garnish
 * `2 tsp` lime juice, or to taste
 
-> In a large Dutch oven or heavy-bottomed pot over medium heat, warm 2 tbsps of olive oil until shimmering. Add the chopped onion, bell pepper, carrot, celery and ¼ teaspoon of the salt. Stir to combine and cook, stirring occasionally, until the vegetables are tender and the onion is translucent, about 7 to 10 minutes.
+> In a large Dutch oven or heavy-bottomed pot over medium heat, warm 2 tbsps of olive oil until shimmering. Add the chopped onion, bell pepper, carrot, celery and ¼ tsp of the salt. Stir to combine and cook, stirring occasionally, until the vegetables are tender and the onion is translucent, about 7 to 10 minutes.
 >
 > Add the garlic, fresh chili, chipotle paste, chili powder, cumin, smoked paprika and oregano. Cook until fragrant while stirring constantly, about 1 minute.
 >

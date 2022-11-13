@@ -35,7 +35,7 @@ category: European
 
 ---
 
-* `1` shallot or 1/4 medium onion, chopped fine
+* `1` shallot or¼ medium onion, chopped fine
 * `60ml` red wine
 * `250ml` beef stock
 * `2 tsp` cracked black pepper
