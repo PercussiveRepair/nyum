@@ -2,7 +2,6 @@
 title: Honey Sesame Chicken Wings 
 category: Asian
 description: Classic takeaway fried wings
-image: Optional
 
 --- 
 
