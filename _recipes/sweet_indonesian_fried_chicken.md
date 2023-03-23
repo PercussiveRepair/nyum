@@ -34,15 +34,18 @@ description: Using sweet Indonesian soy sauce - kecap manis
 * `1 tsp` grated ginger
 * `3 tbsp` kecap manis (sweet Indonesian soy sauce)
 * `1 tbsp` light soy sauce
+* `2 tbsp` tomato ketchup
+* `1 tbsp` rice wine vinegar
+* `50 ml` water
 * `1 tbsp` honey
 * `2` thin sliced spring onions to garnish
 
-> Mix the garlic, ginger, kecap manis, soy sauce and honey in a bowl. 
+> Mix the garlic, ginger, kecap manis, soy sauce, ketchup, vinegar, water and honey in a bowl. 
 >
 > In a wok or frying pan add 2 tbsp oil and fry the onion until just turning brown.
 >
 > Add the sauce from the bowl and heat until bubbling. 
 >
-> Add the cooked chicken to the sauce and toss to coat. 
+> Add the cooked chicken to the sauce and toss to coat. Simmer for a few minutes to reduce the sauce slightly.
 >
 > Serve over rice and sprinkle with chopped spring onions.
