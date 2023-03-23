@@ -21,9 +21,9 @@ description: Using sweet Indonesian soy sauce - kecap manis
 >
 > Add cornflour and rice flour to bowl and mix til chicken is well coated.
 >
-> Fry the chicken in batches in med-hot oil until light brown or just cooked.
+> Shallow or deep fry the chicken in batches in med-hot oil until golden brown and just cooked.
 >
-> Turn up the oil heat and fry the chicken again until light golden brown and crispy. Set aside on kitchen paper to drain. 
+> Set aside on kitchen paper to drain. 
 
 ## For the sauce
 
