@@ -2,6 +2,7 @@
 title: Chinese BBQ Ribs 
 category: Asian
 description: Easy one dish oven baked ribs
+image: chinesebbqribs.jpg
 
 --- 
 * `4 cloves` garlic
