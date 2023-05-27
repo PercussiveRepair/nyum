@@ -1,5 +1,5 @@
 ---
-title:Tuna Empanadas 
+title: Tuna Empanadas 
 category: Pasties & Pies
 description: Spanish pasties
 image: tuna_empanadas.png
