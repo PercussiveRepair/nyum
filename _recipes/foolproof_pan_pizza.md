@@ -2,6 +2,7 @@
 title: Foolproof Pan Pizza 
 category: Pizza
 veggie: y
+image: foolproof_pan_pizza.jpg
 
 --- 
 
