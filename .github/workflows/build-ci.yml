@@ -20,3 +20,8 @@ jobs:
           sudo dpkg -i pandoc.deb
       - name: Build 🏗️
         run: bash build.sh
+      - name: Commit and push changes
+      uses: devops-infra/action-commit-push@master
+      with:
+        github_token: ${{ secrets.NYUM_GITHUB_TOKEN }}
+        commit_message: Replaced foo with bar
