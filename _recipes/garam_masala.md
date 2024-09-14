@@ -10,6 +10,8 @@ image: garam_masala.jpg
 
 ## Basic spices 
 
+---
+
 * `15g` coriander seeds (daniya)
 * `10g` cumin seeds (jeera)
 * `10g` green cardamoms (elaichi)
@@ -18,6 +20,8 @@ image: garam_masala.jpg
 * `2g` cinnamon stick (dalchini)
 
 ## Spices for aroma (optional, but recommended) 
+
+---
 
 * `4g` fennel seeds (saunf) (avoids acidity)
 * `1g` shaved nutmeg (jai phal) (avoids indigestion)
