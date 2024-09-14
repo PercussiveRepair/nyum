@@ -3,6 +3,7 @@ title: Beef Pierogies
 category: Fritters & Dumplings
 description: Polish dumpling
 size: Makes about 26
+image: beef_pierogis.jpg
 
 --- 
 
