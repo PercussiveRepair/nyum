@@ -1,6 +1,7 @@
 ---
 title: Fondue Accompaniments 
 category: Fondue
+image: fondue_accompaniments.jpg
 
 --- 
 
