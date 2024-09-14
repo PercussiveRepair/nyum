@@ -80,6 +80,7 @@
 ,{"title":"Fresh Salsa","category":"Sauces &amp; Seasonings","veggie":"y","htmlfile":"fresh_salsa.html"}
 ,{"title":"Fried Chicken","category":"Southern US","image":"fried_chicken.jpg","description":"Two alternative spice mixes","htmlfile":"fried_chicken.html"}
 ,{"title":"Garam Masala","category":"Sauces &amp; Seasonings","veggie":"y","favorite":"Y","description":"Indian for hot spice mixture","htmlfile":"garam_masala.html"}
+,{"title":"Garlic Ginger Paste","category":"Sauces &amp; Seasonings","image":"garlic_ginger_paste.jpg","veggie":"y","description":"A staple of Indian and Asian recipes. Keeps for months in the fridge","htmlfile":"garlic_ginger_paste.html","size":"Makes about 250ml"}
 ,{"title":"General Tso’s Chicken","spicy":"y","category":"Asian","description":"Classic takeaway spicy chicken","htmlfile":"general_tso_s_chicken.html"}
 ,{"title":"Gingerbread Biscuits","category":"Confectionery &amp; Desserts","veggie":"Y","htmlfile":"gingerbread_biscuits.html"}
 ,{"title":"Gingerbread Loaf","category":"Confectionery &amp; Desserts","veggie":"y","htmlfile":"gingerbread_loaf.html"}
