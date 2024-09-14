@@ -4,6 +4,7 @@ category: Sauces & Seasonings
 description: Indian for hot spice mixture
 favorite: Y
 veggie: y
+image: garam_masala.jpg
 
 --- 
 
