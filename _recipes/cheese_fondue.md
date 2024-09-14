@@ -3,6 +3,7 @@ title: Classic Cheese Fondue
 category: Fondue
 favorite: Y
 veggie: Y
+description: Alpine comfort food for sharing
 
 --- 
 
