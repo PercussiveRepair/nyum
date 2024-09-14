@@ -2,6 +2,7 @@
 title: Fondue Accompaniments 
 category: Fondue
 image: fondue_accompaniments.jpg
+description: What to Serve With Cheese Fondue
 
 --- 
 
