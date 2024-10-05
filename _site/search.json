@@ -9,6 +9,7 @@
 ,{"title":"Barbacoa Beef - Slow Cooker","spicy":"y","category":"Mexican","description":"Sweet and smokey beef. Perfect for fajitas.","htmlfile":"barbacoa_beef_-_slow_cooker.html"}
 ,{"title":"BBQ rub","category":"Sauces &amp; Seasonings","image":"","veggie":"y","htmlfile":"bbq_rub.html"}
 ,{"title":"Beef Birria - Slow Cooker","spicy":"y","category":"Mexican","image":"beef_birria_slow_cooker.png","favorite":"Y","description":"Best tacos ever","htmlfile":"beef_birria_slow_cooker.html"}
+,{"title":"Beef in Black Bean Sauce","category":"Asian","imgae":"beef_black_bean","description":"Classic tender beef and vegetable stir fry","htmlfile":"beef_black_bean.html"}
 ,{"title":"Beef Pierogies","category":"Fritters &amp; Dumplings","image":"beef_pierogis.jpg","description":"Polish dumpling","htmlfile":"beef_pierogies.html","size":"Makes about 26"}
 ,{"title":"Beef Stew with Suet Dumplings","category":"Stews","image":"beef_stew_with_dumplings.jpg","htmlfile":"beef_stew_with_dumplings.html"}
 ,{"title":"Beer-Battered Onion Rings","category":"Fritters &amp; Dumplings","veggie":"Y","htmlfile":"beer-battered_onion_rings.html"}
@@ -153,7 +154,7 @@
 ,{"title":"Sticky Thai Orange Peanut Chicken","category":"Asian","description":"Orange peanut sticy chicken thighs","htmlfile":"sticky_thai_orange_peanut_chicken.html"}
 ,{"title":"Stove-Top Macaroni &amp; Cheese","category":"Pasta Rice &amp; Noodles","veggie":"y","htmlfile":"stove-top_macaroni_cheese.html"}
 ,{"title":"Sugar Cookie Dough","category":"Confectionery &amp; Desserts","veggie":"Y","htmlfile":"sugar_cookie_dough.html","sweet":"y"}
-,{"title":"Sweet &amp; Sour Sauce","category":"Sauces &amp; Seasonings","veggie":"y","htmlfile":"sweet_and_sour_sauce.html"}
+,{"title":"Sweet &amp; Sour Sauce","category":"Sauces &amp; Seasonings","image":"sweet_sour.jpg","veggie":"y","htmlfile":"sweet_and_sour_sauce.html"}
 ,{"title":"Sweet Indonesian Fried Chicken","category":"Asian","description":"Using sweet Indonesian soy sauce - kecap manis","htmlfile":"sweet_indonesian_fried_chicken.html"}
 ,{"title":"Sweet &amp; Sticky Baked Chicken Drumsticks","category":"Roasts","htmlfile":"sweet_sticky_baked_chicken_drumsticks.html"}
 ,{"title":"Tandoori Chicken Tikka","spicy":"y","category":"Indian","image":"tandoorichickentikka.jpg","description":"Yoghurt marinated chicken ideal for a kebab or a Tikka Masala","htmlfile":"tandoori_chicken_tikka.html"}
