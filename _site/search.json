@@ -154,7 +154,7 @@
 ,{"title":"Sticky Thai Orange Peanut Chicken","category":"Asian","description":"Orange peanut sticy chicken thighs","htmlfile":"sticky_thai_orange_peanut_chicken.html"}
 ,{"title":"Stove-Top Macaroni &amp; Cheese","category":"Pasta Rice &amp; Noodles","veggie":"y","htmlfile":"stove-top_macaroni_cheese.html"}
 ,{"title":"Sugar Cookie Dough","category":"Confectionery &amp; Desserts","veggie":"Y","htmlfile":"sugar_cookie_dough.html","sweet":"y"}
-,{"title":"Sweet &amp; Sour Sauce","category":"Sauces &amp; Seasonings","image":"sweet_sour.jpg","veggie":"y","htmlfile":"sweet_and_sour_sauce.html"}
+,{"title":"Sweet &amp; Sour Sauce","category":"Sauces &amp; Seasonings","image":"sweet_sour.jpg","veggie":"y","description":"Classic british takeaway sauce for use with <a href=\"https://harrisonly.com/chinese_battered_chicken_for_sweet_and_sour\">Chinese Battered Chicken for Sweet and Sour</a>","htmlfile":"sweet_and_sour_sauce.html"}
 ,{"title":"Sweet Indonesian Fried Chicken","category":"Asian","description":"Using sweet Indonesian soy sauce - kecap manis","htmlfile":"sweet_indonesian_fried_chicken.html"}
 ,{"title":"Sweet &amp; Sticky Baked Chicken Drumsticks","category":"Roasts","htmlfile":"sweet_sticky_baked_chicken_drumsticks.html"}
 ,{"title":"Tandoori Chicken Tikka","spicy":"y","category":"Indian","image":"tandoorichickentikka.jpg","description":"Yoghurt marinated chicken ideal for a kebab or a Tikka Masala","htmlfile":"tandoori_chicken_tikka.html"}
