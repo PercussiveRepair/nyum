@@ -2,6 +2,7 @@
 title: Sweet & Sour Sauce 
 category: Sauces & Seasonings
 veggie: y
+image: sweet_sour.jpg
 
 --- 
 
