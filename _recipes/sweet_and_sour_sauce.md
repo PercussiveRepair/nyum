@@ -3,6 +3,7 @@ title: Sweet & Sour Sauce
 category: Sauces & Seasonings
 veggie: y
 image: sweet_sour.jpg
+description: Classic british takeaway sauce for use with [Chinese Battered Chicken for Sweet and Sour](https://harrisonly.com/chinese_battered_chicken_for_sweet_and_sour)
 
 --- 
 
