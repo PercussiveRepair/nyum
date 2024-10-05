@@ -91,6 +91,7 @@
 ,{"title":"Hash Browns","category":"Sides","veggie":"y","htmlfile":"hash_browns.html"}
 ,{"title":"Hokkaido Milk Bread Rolls","category":"Bread &amp; Pastry","image":"hokkaido_milk_bread_rolls.jpg","veggie":"Y","favorite":"Y","description":"Amazing fluffy slightly sweet rolls. Great for pulled pork.","htmlfile":"hokkaido_milk_bread_rolls.html","size":"Makes about 9"}
 ,{"title":"Honey Sesame Chicken Wings","category":"Asian","description":"Classic takeaway fried wings","htmlfile":"honey_sesame_chicken_wings.html"}
+,{"title":"Honey Sesame Sauce","category":"Sauces &amp; Seasonings","image":"honey_sesame.jpg","veggie":"y","description":"Classic british takeaway sauce for use with <a href=\"https://harrisonly.com/chinese_battered_chicken_for_sweet_and_sour\">Chinese Battered Chicken for Sweet and Sour</a>","htmlfile":"honey_sesame_sauce.html"}
 ,{"title":"Honeycomb Candy","category":"Confectionery &amp; Desserts","veggie":"Y","description":"Also called cinder toffee or Crunchie guts","htmlfile":"honeycomb_candy.html","sweet":"y"}
 ,{"title":"Hot and Sour Thai Soup - Tom Yum Goong","spicy":"y","category":"Soups","htmlfile":"hot_and_sour_thai_soup_tom_yum_goong.html"}
 ,{"title":"Iced Coffee","category":"Drinks","veggie":"Y","htmlfile":"iced_coffee.html","sweet":"y"}
