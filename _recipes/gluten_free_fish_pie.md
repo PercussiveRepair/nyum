@@ -1,5 +1,5 @@
 ---
-title: Recipe template
+title: Gluten Free Fish Pie
 category: Fish
 description: Delicious easy mash topped fish pie
 source: https://glutenfreecuppatea.co.uk/2016/05/24/recipe-the-ultimate-gluten-free-fish-pie/
