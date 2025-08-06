@@ -65,6 +65,7 @@
 ,{"title":"Doner Kebab","category":"Middle Eastern","description":"Classic Turkish kebab to make at home","htmlfile":"doner_kebab.html"}
 ,{"title":"Easy Chocolate Cake","category":"Confectionery &amp; Desserts","veggie":"Y","htmlfile":"easy_chocolate_cake.html","sweet":"y"}
 ,{"title":"Egg Fried Rice","category":"Pasta Rice &amp; Noodles","image":"egg_fried_rice.jpg","veggie":"y","htmlfile":"egg_fried_rice.html"}
+,{"title":"Elote - Mexican Street Corn - Salad","category":"Salads,Mexican","veggie":"y","htmlfile":"elote_salad.html"}
 ,{"title":"Enchiladas","category":"Mexican","description":"Simple Mexican enchiladas","htmlfile":"enchiladas.html"}
 ,{"title":"English Pancakes","category":"Batters","image":"english_pancakes.png","veggie":"y","description":"English pancakes for pancake day","htmlfile":"english_pancakes.html"}
 ,{"title":"Fairy Cakes","category":"Confectionery &amp; Desserts","image":"fairy_cakes.png","veggie":"y","description":"Simple cakes for kids","htmlfile":"fairy_cakes.html","sweet":"y"}
