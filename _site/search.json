@@ -65,7 +65,7 @@
 ,{"title":"Doner Kebab","category":"Middle Eastern","description":"Classic Turkish kebab to make at home","htmlfile":"doner_kebab.html"}
 ,{"title":"Easy Chocolate Cake","category":"Confectionery &amp; Desserts","veggie":"Y","htmlfile":"easy_chocolate_cake.html","sweet":"y"}
 ,{"title":"Egg Fried Rice","category":"Pasta Rice &amp; Noodles","image":"egg_fried_rice.jpg","veggie":"y","htmlfile":"egg_fried_rice.html"}
-,{"title":"Elote - Mexican Street Corn - Salad","category":"Salads","veggie":"y","htmlfile":"elote_salad.html"}
+,{"title":"Elote - Mexican Street Corn - Salad","category":"Salads","image":"elote_salad.jpg","veggie":"y","htmlfile":"elote_salad.html"}
 ,{"title":"Enchiladas","category":"Mexican","description":"Simple Mexican enchiladas","htmlfile":"enchiladas.html"}
 ,{"title":"English Pancakes","category":"Batters","image":"english_pancakes.png","veggie":"y","description":"English pancakes for pancake day","htmlfile":"english_pancakes.html"}
 ,{"title":"Fairy Cakes","category":"Confectionery &amp; Desserts","image":"fairy_cakes.png","veggie":"y","description":"Simple cakes for kids","htmlfile":"fairy_cakes.html","sweet":"y"}
@@ -89,7 +89,7 @@
 ,{"title":"Gluten Free Fish Pie","category":"Fish","source":"https://glutenfreecuppatea.co.uk/2016/05/24/recipe-the-ultimate-gluten-free-fish-pie/","image":"gluten_free_fish_pie.jpeg","description":"Delicious easy mash topped fish pie","htmlfile":"gluten_free_fish_pie.html"}
 ,{"title":"Great Sausage Casserole","category":"Stews","description":"Warning winter casserole. Best served with mashed potato","htmlfile":"great_sausage_casserole.html"}
 ,{"title":"Greek Salad &amp; Oregano Lemon chicken","category":"Salads","image":"greek_salad_oregano_lemon_chicken.jpg","htmlfile":"greek_salad_oregano_lemon_chicken.html"}
-,{"title":"Guacamole","category":"Sauces &amp; Seasonings","veggie":"y","htmlfile":"guacamole.html"}
+,{"title":"Guacamole","category":"Sauces &amp; Seasonings","image":"guacamole.jpg","veggie":"y","htmlfile":"guacamole.html"}
 ,{"title":"Hash Browns","category":"Sides","veggie":"y","htmlfile":"hash_browns.html"}
 ,{"title":"Hokkaido Milk Bread Rolls","category":"Bread &amp; Pastry","image":"hokkaido_milk_bread_rolls.jpg","veggie":"Y","favorite":"Y","description":"Amazing fluffy slightly sweet rolls. Great for pulled pork.","htmlfile":"hokkaido_milk_bread_rolls.html","size":"Makes about 9"}
 ,{"title":"Honey Sesame Chicken Wings","category":"Asian","description":"Classic takeaway fried wings","htmlfile":"honey_sesame_chicken_wings.html"}
