@@ -55,7 +55,7 @@
 ,{"title":"Corn Fritters","category":"Fritters &amp; Dumplings","veggie":"Y","description":"Southern US accompaniment","htmlfile":"corn_fritters.html"}
 ,{"title":"Cottage Pie","category":"Pasties &amp; Pies","description":"Simple and hearty comfort food","htmlfile":"cottage_pie.html"}
 ,{"title":"Creamy Summer Pasta Salad","category":"Salads","veggie":"y","htmlfile":"creamy_summer_pasta_salad.html"}
-,{"title":"Crispy Chinese Battered Meat","category":"Asian","description":"A crispy batter for chinese meat dishes","htmlfile":"crispy_chinese_battered_meat.html"}
+,{"title":"Crispy Chinese Battered Meat","category":"Asian","image":"crispy_chinese_battered_meat.jpg","description":"A crispy batter for chinese meat dishes","htmlfile":"crispy_chinese_battered_meat.html"}
 ,{"title":"Crispy Chinese Chicken Wings","category":"Asian","image":"crispy_chinese_chicken_wings.jpg","description":"Chinese inspired crispy oven baked wings","htmlfile":"crispy_chinese_chicken_wings.html"}
 ,{"title":"Crumpets","category":"Batters","image":"crumpets.png","veggie":"Y","description":"English breakfast classic","htmlfile":"crumpets.html"}
 ,{"title":"Cups to grams conversions","category":"Notes","htmlfile":"cup_to_gram.html"}
