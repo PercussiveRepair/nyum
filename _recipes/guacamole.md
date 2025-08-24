@@ -1,6 +1,7 @@
 ---
 title: Guacamole 
 category: Sauces & Seasonings
+image: guacamole.jpg
 veggie: y
 
 --- 
