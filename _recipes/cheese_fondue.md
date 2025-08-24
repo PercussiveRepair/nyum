@@ -4,6 +4,7 @@ category: Fondue
 favorite: Y
 veggie: Y
 description: Alpine comfort food for sharing
+image: cheese_fondue.jpg
 
 --- 
 
