@@ -3,7 +3,8 @@ title: American Pancakes
 category: Batters
 description: Fluffy breakfast treat
 veggie: Y
-sweet: y 
+sweet: y
+image: american_pancakes.jpg
 
 --- 
 * `1½ cups` all-purpose flour
