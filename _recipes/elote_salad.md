@@ -7,7 +7,7 @@ veggie: y
 --- 
 
 * `4` ears fresh corn, husked 
-or
+* OR
 * `500g` frozen sweetcorn, defrosted
 * Extra-virgin olive oil, for brushing or frying 
 * `1 1/2 tbsp` mayo
