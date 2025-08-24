@@ -2,6 +2,7 @@
 title: Crispy Chinese Battered Meat 
 category: Asian
 description: A crispy batter for chinese meat dishes
+image: crispy_chinese_battered_meat.jpg
 
 --- 
 
