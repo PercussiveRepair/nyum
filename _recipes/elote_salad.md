@@ -1,6 +1,6 @@
 ---
 title: Elote - Mexican Street Corn - Salad
-category: Salads,Mexican
+category: Salads
 veggie: y
 
 --- 
