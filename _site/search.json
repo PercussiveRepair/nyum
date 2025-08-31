@@ -168,6 +168,5 @@
 ,{"title":"Tuna Patties","category":"Fish","image":"tuna_patties.png","description":"Easy weeknight fish cakes","htmlfile":"tuna_patties.html","size":"Makes 6-8"}
 ,{"title":"Vege Chili","category":"Mexican","veggie":"Y","description":"Vegan/Vegetarian, warm and filling","htmlfile":"vegetarian_chilli.html"}
 ,{"title":"Waffle Batter","category":"Batters","image":"waffle_batter.jpg","veggie":"Y","favorite":"Y","description":"Best served with fried chicken and maple syrup","htmlfile":"waffle_batter.html","sweet":"y"}
-,{"title":"Winter Chicken Stew","category":"Stews","description":"Simple, quick and hearty","htmlfile":"winter_chicken_stew.html"}
 ,{"title":"Yorkshire Pudding","category":"Batters","image":"yorkshire_pudding.jpg","veggie":"Y","favorite":"Y","description":"Essential crispy accompaniment to any roast dinner","htmlfile":"yorkshire_pudding.html"}
 ]
