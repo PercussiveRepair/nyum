@@ -143,6 +143,7 @@
 ,{"title":"Shredded Chipotle Chicken Tinga","category":"Mexican","image":"chipotle_chicken.jpg","description":"Slow cooked shredded chicken for tacos or burritos","htmlfile":"shredded_chipotle_chicken.html"}
 ,{"title":"Simple Ramen Soup","category":"Soups","image":"simple_ramen_soup.jpg","htmlfile":"simple_ramen_soup.html"}
 ,{"title":"Simple Yeast Doughnuts","category":"Confectionery &amp; Desserts","veggie":"Y","htmlfile":"simple_yeast_doughnuts.html","sweet":"y"}
+,{"title":"Slow Cooker Chicken Stew","category":"Stews","source":"https://kaynutrition.com/slow-cooker-chicken-stew/","image":"slow_cooker_chicken_stew.jpg","description":"Savoury chicken stew - easy comfort food","htmlfile":"slow_cooker_chicken_stew.html"}
 ,{"title":"Slow Roast Chicken","category":"Roasts","favorite":"Y","description":"Rosemary, lemon and garlic oven roast chicken","htmlfile":"slow_roast_chicken.html"}
 ,{"title":"Slow Roast Lamb","category":"Roasts","description":"Beautiful marinated fall-apart lamb served with lemon, garlic and mint gremolata","htmlfile":"slow_roast_lamb.html"}
 ,{"title":"Smoked Mackerel Pate","category":"Fish","description":"Gorgeous smoky pate best served with toast points","htmlfile":"smoked_mackerel_pate.html"}
@@ -165,7 +166,7 @@
 ,{"title":"Texas Roadhouse Rolls","category":"Bread &amp; Pastry","image":"texas_roadhouse_rolls.png","veggie":"Y","description":"Simple dinner roll","htmlfile":"texas_roadhouse_rolls.html","size":"Makes 18"}
 ,{"title":"Tuna Empanadas","category":"Pasties &amp; Pies","image":"tuna_empanadas.png","description":"Spanish pasties","htmlfile":"tuna_empanadas.html","size":"Makes 6-8"}
 ,{"title":"Tuna Patties","category":"Fish","image":"tuna_patties.png","description":"Easy weeknight fish cakes","htmlfile":"tuna_patties.html","size":"Makes 6-8"}
-,{"title":"Vege Chili","category":"Mexican","image":"Optional","veggie":"Y","description":"Vegan/Vegetarian, warm and filling","htmlfile":"vegetarian_chilli.html"}
+,{"title":"Vege Chili","category":"Mexican","veggie":"Y","description":"Vegan/Vegetarian, warm and filling","htmlfile":"vegetarian_chilli.html"}
 ,{"title":"Waffle Batter","category":"Batters","image":"waffle_batter.jpg","veggie":"Y","favorite":"Y","description":"Best served with fried chicken and maple syrup","htmlfile":"waffle_batter.html","sweet":"y"}
 ,{"title":"Winter Chicken Stew","category":"Stews","description":"Simple, quick and hearty","htmlfile":"winter_chicken_stew.html"}
 ,{"title":"Yorkshire Pudding","category":"Batters","image":"yorkshire_pudding.jpg","veggie":"Y","favorite":"Y","description":"Essential crispy accompaniment to any roast dinner","htmlfile":"yorkshire_pudding.html"}
