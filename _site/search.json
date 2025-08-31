@@ -29,7 +29,7 @@
 ,{"title":"Char Siu Roast Pork","category":"Asian","image":"charsiupork.jpg","description":"Chinese barbeque pork","htmlfile":"char_siu_roast_pork.html"}
 ,{"title":"Cheddar and Cider Cheese Fondue","category":"Fondue","veggie":"Y","description":"Cider based simple cheese fondue","htmlfile":"cheddar_and_cider_cheese_fondue.html"}
 ,{"title":"Cheese and Herb Scones","category":"Bread &amp; Pastry","veggie":"Y","description":"Savoury scones. Eat warm","htmlfile":"cheese_and_herb_scones.html"}
-,{"title":"Classic Cheese Fondue","category":"Fondue","veggie":"Y","favorite":"Y","description":"Alpine comfort food for sharing","htmlfile":"cheese_fondue.html"}
+,{"title":"Classic Cheese Fondue","category":"Fondue","image":"cheese_fondue.jpg","veggie":"Y","favorite":"Y","description":"Alpine comfort food for sharing","htmlfile":"cheese_fondue.html"}
 ,{"title":"Wineless Cheese Fondue","category":"Fondue","veggie":"y","description":"Alcohol-free version using chicken stock","htmlfile":"cheese_fondue_without_wine.html"}
 ,{"title":"Cheese Buldak","spicy":"✓","category":"Asian","source":"https://www.youtube.com/watch?v=T9uI1-6Ac6A","image":"cheesebuldak.jpg","description":"Super-spicy Korean chicken tempered with loads of cheese and fresh spring onions.","htmlfile":"cheesebuldak.html","size":"2-3 servings","time":"1 hour"}
 ,{"title":"Chicken and Chorizo Empanadas","category":"Pasties &amp; Pies","description":"Spanish pasties","htmlfile":"chicken_and_chorizo_empanadas.html","size":"Makes 10"}
