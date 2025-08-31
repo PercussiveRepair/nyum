@@ -2,7 +2,6 @@
 title: Vege Chili
 category: Mexican
 description: Vegan/Vegetarian, warm and filling
-image: Optional
 veggie: Y
 
 ---
