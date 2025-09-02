@@ -12,7 +12,7 @@ sweet: y
 * `4 tbsp` sugar
 * `1 tbsp` baking powder
 * `¼ tsp` salt
-* `190ml` milk
+* `230 ml` milk
 * `1 tbsp` lemon juice
 * `2 large` eggs
 * `½ tsp` vanilla extract
