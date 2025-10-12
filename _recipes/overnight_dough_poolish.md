@@ -13,10 +13,10 @@ veggie: y
 
 ---
 
-* `300ml` room temp Water
+* `300ml` room temp water
 * `5g` dry yeast 
-* `5g (1 tbsp)` Honey
-* `300g` Flour - 00 or plain
+* `5g (1 tbsp)` honey
+* `300g` flour - 00 or plain
 
 > In a container with a lid add water, yeast and honey and stir together
 >
@@ -85,13 +85,16 @@ veggie: y
 >
 > Place the dough ball face down in the semolina/cornmeal bowl and dust well
 >
-> With a little semolina or cornmeal on the work surface, place the dough ball face up again and use the press and stretch method to make a circle about 10-12 inches across. https://youtu.be/G-jPoROGHGE?t935
+> With a little semolina or cornmeal on the work surface, place the dough ball face up again and use the press and stretch method to make a circle about 10-12 inches across. [Youtube link demonstrating](https://youtu.be/G-jPoROGHGE?t=930)
 >
 > Once stretched, place on a cornmeal dusted pizza peel, dab the crust with olive oil, dress with sauce and cook on the stone in the oven for about 8 mins or until just baked
 >
 > Remove, add cheese and other toppings and place back in the oven until fully baked, about 5 mins
- Freezing left over dough balls 
->
+
+## Freezing left over dough balls 
+
+---
+
 > Seal the dough balls in the flour dusted tray again with plastic wrap
 >
 > Place in the freezer overnight to freeze completely
