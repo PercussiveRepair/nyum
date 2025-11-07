@@ -17,7 +17,7 @@ description: Simple Mexican enchiladas
 >
 > Add peppers, onion and garlic and fry for 5 mins
 >
-> Mix passata and spices and add⅓ to chicken
+> Mix passata and spices and add ⅓ to chicken
 >
 > Heat oven to 180°C gas six
 >
