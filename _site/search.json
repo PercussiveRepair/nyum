@@ -93,6 +93,7 @@
 ,{"title":"Greek Salad &amp; Oregano Lemon chicken","category":"Salads","image":"greek_salad_oregano_lemon_chicken.jpg","htmlfile":"greek_salad_oregano_lemon_chicken.html"}
 ,{"title":"Guacamole","category":"Sauces &amp; Seasonings","image":"guacamole.jpg","veggie":"y","htmlfile":"guacamole.html"}
 ,{"title":"Hash Browns","category":"Sides","veggie":"y","htmlfile":"hash_browns.html"}
+,{"title":"Herbes de Provence","category":"Sauces &amp; Seasonings","veggie":"y","htmlfile":"herbes_de_provence.html"}
 ,{"title":"Hokkaido Milk Bread Rolls","category":"Bread &amp; Pastry","image":"hokkaido_milk_bread_rolls.jpg","veggie":"Y","favorite":"Y","description":"Amazing fluffy slightly sweet rolls. Great for pulled pork.","htmlfile":"hokkaido_milk_bread_rolls.html","size":"Makes about 9"}
 ,{"title":"Honey Sesame Chicken Wings","category":"Asian","description":"Classic takeaway fried wings","htmlfile":"honey_sesame_chicken_wings.html"}
 ,{"title":"Honey Sesame Sauce","category":"Sauces &amp; Seasonings","image":"honey_sesame.jpg","veggie":"y","description":"Classic british takeaway sauce for use with <a href=\"https://harrisonly.com/chinese_battered_chicken_for_sweet_and_sour\">Chinese Battered Chicken for Sweet and Sour</a>","htmlfile":"honey_sesame_sauce.html"}
