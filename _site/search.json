@@ -64,6 +64,7 @@
 ,{"title":"Curry Paste with whole spices","category":"Sauces &amp; Seasonings","veggie":"y","description":"A little more effort, a lot more flavour","htmlfile":"curry_paste_whole_spices.html"}
 ,{"title":"Dehli Potato Pancakes with Indian Spiced Sour Cream","category":"Indian","veggie":"Y","description":"Crispy lightly spiced indian hash browns","htmlfile":"dehli_potato_pancakes_with_indian_spiced_sour_cream.html"}
 ,{"title":"Doner Kebab","category":"Middle Eastern","description":"Classic Turkish kebab to make at home","htmlfile":"doner_kebab.html"}
+,{"title":"Easy Chicken Pho","category":"Soups","source":"https://www.bbcgoodfood.com/recipes/vietnamese-chicken-noodle-soup","htmlfile":"easy_chicken_pho.html"}
 ,{"title":"Easy Chocolate Cake","category":"Confectionery &amp; Desserts","veggie":"Y","htmlfile":"easy_chocolate_cake.html","sweet":"y"}
 ,{"title":"Egg Fried Rice","category":"Pasta Rice &amp; Noodles","image":"egg_fried_rice.jpg","veggie":"y","htmlfile":"egg_fried_rice.html"}
 ,{"title":"Elote - Mexican Street Corn - Salad","category":"Salads","image":"elote_salad.jpg","veggie":"y","htmlfile":"elote_salad.html"}
@@ -92,7 +93,7 @@
 ,{"title":"Greek Salad &amp; Oregano Lemon chicken","category":"Salads","image":"greek_salad_oregano_lemon_chicken.jpg","htmlfile":"greek_salad_oregano_lemon_chicken.html"}
 ,{"title":"Guacamole","category":"Sauces &amp; Seasonings","image":"guacamole.jpg","veggie":"y","htmlfile":"guacamole.html"}
 ,{"title":"Hash Browns","category":"Sides","veggie":"y","htmlfile":"hash_browns.html"}
-,{"title":"Herbes de Provence","category":"Sauces &amp; Seasonings","veggie":"y","htmlfile":"herbes_de_provence.html"}
+,{"title":"Herbes de Provence","category":"Sauces &amp; Seasonings","veggie":"y","htmlfile":"herbe_de_provence.html"}
 ,{"title":"Hokkaido Milk Bread Rolls","category":"Bread &amp; Pastry","image":"hokkaido_milk_bread_rolls.jpg","veggie":"Y","favorite":"Y","description":"Amazing fluffy slightly sweet rolls. Great for pulled pork.","htmlfile":"hokkaido_milk_bread_rolls.html","size":"Makes about 9"}
 ,{"title":"Honey Sesame Chicken Wings","category":"Asian","description":"Classic takeaway fried wings","htmlfile":"honey_sesame_chicken_wings.html"}
 ,{"title":"Honey Sesame Sauce","category":"Sauces &amp; Seasonings","image":"honey_sesame.jpg","veggie":"y","description":"Classic british takeaway sauce for use with <a href=\"https://harrisonly.com/chinese_battered_chicken_for_sweet_and_sour\">Chinese Battered Chicken for Sweet and Sour</a>","htmlfile":"honey_sesame_sauce.html"}
@@ -127,6 +128,7 @@
 ,{"title":"Carrots &amp; Parsnips with Cinnamon and Orange","category":"Sides","veggie":"Y","description":"Festive crispy sweet side dish","htmlfile":"parsnips_cinnamon_and_orange.html"}
 ,{"title":"Peppermint Creams","category":"Confectionery &amp; Desserts","veggie":"Y","htmlfile":"peppermint_creams.html","sweet":"y"}
 ,{"title":"Perfect Roast Beef","category":"Roasts","image":"perfect_roast_beef.png","favorite":"Y","description":"The best roast beef you’ve ever eaten","htmlfile":"perfect_roast_beef.html"}
+,{"title":"Perfect Roast Chicken","category":"Roasts","source":"https://youtu.be/aHeVE3HtptA?t=453","favorite":"Y","description":"Rosemary, lemon and garlic oven roast chicken","htmlfile":"perfect_roast_chicken.html"}
 ,{"title":"Pizza Dough – Stand Mixer","category":"Pizza","image":"pizza_dough_stand_mixer.jpg","veggie":"y","htmlfile":"pizza_dough_stand_mixer_method.html"}
 ,{"title":"Plain/Fruit Scones","category":"Bread &amp; Pastry","source":"https://www.youtube.com/watch?v=6tlQn7iePV4","image":"plain_or_fruit_scones.png","veggie":"Y","htmlfile":"plain_or_fruit_scones.html","sweet":"y","size":"makes about 10"}
 ,{"title":"Pork Schnitzel","category":"European","htmlfile":"pork_schnitzel.html"}
@@ -146,7 +148,6 @@
 ,{"title":"Simple Ramen Soup","category":"Soups","image":"simple_ramen_soup.jpg","htmlfile":"simple_ramen_soup.html"}
 ,{"title":"Simple Yeast Doughnuts","category":"Confectionery &amp; Desserts","veggie":"Y","htmlfile":"simple_yeast_doughnuts.html","sweet":"y"}
 ,{"title":"Slow Cooker Chicken Stew","category":"Stews","source":"https://kaynutrition.com/slow-cooker-chicken-stew/","image":"slow_cooker_chicken_stew.jpg","description":"Savoury chicken stew - easy comfort food","htmlfile":"slow_cooker_chicken_stew.html"}
-,{"title":"Slow Roast Chicken","category":"Roasts","favorite":"Y","description":"Rosemary, lemon and garlic oven roast chicken","htmlfile":"slow_roast_chicken.html"}
 ,{"title":"Slow Roast Lamb","category":"Roasts","description":"Beautiful marinated fall-apart lamb served with lemon, garlic and mint gremolata","htmlfile":"slow_roast_lamb.html"}
 ,{"title":"Smoked Mackerel Pate","category":"Fish","description":"Gorgeous smoky pate best served with toast points","htmlfile":"smoked_mackerel_pate.html"}
 ,{"title":"Soft Pretzel Twists","category":"Bread &amp; Pastry","veggie":"Y","description":"Perfect snack bread with mustard or cheese dip","htmlfile":"soft_pretzel_twists.html","size":"makes 12"}
