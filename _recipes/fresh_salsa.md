@@ -2,6 +2,7 @@
 title: Fresh Salsa 
 category: Sauces & Seasonings
 veggie: y
+image: fresh_salsa.jpg
 
 --- 
 

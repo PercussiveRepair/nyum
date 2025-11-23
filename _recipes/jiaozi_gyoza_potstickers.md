@@ -1,6 +1,6 @@
 ---
 title: Jiaozi/Gyoza/Potstickers 
-category: Asian
+category: Fritters & Dumplings
 description: Luvverly dumplings. Steam 'em, fry 'em, stick 'em in a soup. 
 size: Makes 30+
 source: https://www.youtube.com/watch?vtkGsB0omCoA
