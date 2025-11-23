@@ -1,5 +1,6 @@
 ---
-title: Herbes de Provence 
+title: Herbes de Provence
+description: Traditional blend of dried herbs typical of the Provence region of southeastern France
 category: Sauces & Seasonings
 veggie: y
 

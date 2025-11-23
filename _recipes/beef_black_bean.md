@@ -2,7 +2,7 @@
 title: Beef in Black Bean Sauce 
 category: Asian
 description: Classic tender beef and vegetable stir fry
-imgae: beef_black_bean.jpg
+image: beef_black_bean.jpg
 
 --- 
 
