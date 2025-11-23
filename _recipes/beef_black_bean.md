@@ -2,7 +2,7 @@
 title: Beef in Black Bean Sauce 
 category: Asian
 description: Classic tender beef and vegetable stir fry
-imgae: beef_black_bean
+imgae: beef_black_bean.jpg
 
 --- 
 
@@ -11,18 +11,17 @@ imgae: beef_black_bean
 ---
 
 * `500g` beef flank steak or beef chuck (thinly sliced against the grain)
-* `1 tsp` baking soda
+* `1/4 tsp` baking soda
+* `1 tbsp` dary soy sauce
 * `60ml` water
 * `2 tsp` cornstarch
 * `2 tsp` vegetable oil
 * `2 tsp` oyster sauce
 * `1 tsp` Shaoxing wine
 
-> In a medium bowl, add the beef, baking soda, and water. Massage the beef with your hands until most of the liquid is absorbed. 
+> In a medium bowl, add the beef, baking soda, soy sauce and water. Massage the beef with your hands until most of the liquid is absorbed. 
 >
-> Let stand for 1 to 2 hours (less time for more tender beef, or longer for a tougher cut like chuck). 
-> 
-> Then rinse the beef thoroughly under running water until the water runs clear. Drain. This step tenderizes the meat before marinating.
+> Let stand for 1 to 2 hours (less time for more tender beef, or longer for a tougher cut like chuck).
 >
 > Then add the cornstarch, vegetable oil, oyster sauce, and Shaoxing wine. 
 >
@@ -31,7 +30,7 @@ imgae: beef_black_bean
 ## For the sauce
 
 --- 
-* `1 1/2 cups low sodium beef or chicken stock
+* `1 1/2 cups` low sodium beef or chicken stock
 * `2 tbsp` black bean and garlic sauce (such as Lee Kum Kee)
 * `1 tbsp` oyster sauce
 * `1/2 tsp` sugar
