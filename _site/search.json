@@ -9,7 +9,7 @@
 ,{"title":"Barbacoa Beef - Slow Cooker","spicy":"y","category":"Mexican","description":"Sweet and smokey beef. Perfect for fajitas.","htmlfile":"barbacoa_beef_-_slow_cooker.html"}
 ,{"title":"BBQ rub","category":"Sauces &amp; Seasonings","image":"","veggie":"y","htmlfile":"bbq_rub.html"}
 ,{"title":"Beef Birria - Slow Cooker","spicy":"y","category":"Mexican","image":"beef_birria_slow_cooker.png","favorite":"Y","description":"Best tacos ever","htmlfile":"beef_birria_slow_cooker.html"}
-,{"title":"Beef in Black Bean Sauce","category":"Asian","imgae":"beef_black_bean.jpg","description":"Classic tender beef and vegetable stir fry","htmlfile":"beef_black_bean.html"}
+,{"title":"Beef in Black Bean Sauce","category":"Asian","image":"beef_black_bean.jpg","description":"Classic tender beef and vegetable stir fry","htmlfile":"beef_black_bean.html"}
 ,{"title":"Beef Pierogies","category":"Fritters &amp; Dumplings","image":"beef_pierogis.jpg","description":"Polish dumpling","htmlfile":"beef_pierogies.html","size":"Makes about 26"}
 ,{"title":"Beef Stew with Suet Dumplings","category":"Stews","image":"beef_stew_with_dumplings.jpg","htmlfile":"beef_stew_with_dumplings.html"}
 ,{"title":"Beer-Battered Onion Rings","category":"Fritters &amp; Dumplings","veggie":"Y","htmlfile":"beer-battered_onion_rings.html"}
@@ -93,7 +93,7 @@
 ,{"title":"Greek Salad &amp; Oregano Lemon chicken","category":"Salads","image":"greek_salad_oregano_lemon_chicken.jpg","htmlfile":"greek_salad_oregano_lemon_chicken.html"}
 ,{"title":"Guacamole","category":"Sauces &amp; Seasonings","image":"guacamole.jpg","veggie":"y","htmlfile":"guacamole.html"}
 ,{"title":"Hash Browns","category":"Sides","veggie":"y","htmlfile":"hash_browns.html"}
-,{"title":"Herbes de Provence","category":"Sauces &amp; Seasonings","veggie":"y","htmlfile":"herbes_de_provence.html"}
+,{"title":"Herbes de Provence","category":"Sauces &amp; Seasonings","veggie":"y","description":"Traditional blend of dried herbs typical of the Provence region of southeastern France","htmlfile":"herbes_de_provence.html"}
 ,{"title":"Hokkaido Milk Bread Rolls","category":"Bread &amp; Pastry","image":"hokkaido_milk_bread_rolls.jpg","veggie":"Y","favorite":"Y","description":"Amazing fluffy slightly sweet rolls. Great for pulled pork.","htmlfile":"hokkaido_milk_bread_rolls.html","size":"Makes about 9"}
 ,{"title":"Honey Sesame Chicken Wings","category":"Asian","description":"Classic takeaway fried wings","htmlfile":"honey_sesame_chicken_wings.html"}
 ,{"title":"Honey Sesame Sauce","category":"Sauces &amp; Seasonings","image":"honey_sesame.jpg","veggie":"y","description":"Classic british takeaway sauce for use with <a href=\"https://harrisonly.com/chinese_battered_chicken_for_sweet_and_sour\">Chinese Battered Chicken for Sweet and Sour</a>","htmlfile":"honey_sesame_sauce.html"}
