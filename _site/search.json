@@ -81,7 +81,7 @@
 ,{"title":"Foolproof Pan Pizza","category":"Pizza","image":"foolproof_pan_pizza.jpg","veggie":"y","htmlfile":"foolproof_pan_pizza.html"}
 ,{"title":"Freezer Guide","category":"Notes","htmlfile":"freezer_guide.html"}
 ,{"title":"Fresh Egg Pasta","category":"Pasta Rice &amp; Noodles","image":"fresh_egg_pasta.jpg","veggie":"y","htmlfile":"fresh_egg_pasta.html"}
-,{"title":"Fresh Salsa","category":"Sauces &amp; Seasonings","veggie":"y","htmlfile":"fresh_salsa.html"}
+,{"title":"Fresh Salsa","category":"Sauces &amp; Seasonings","image":"fresh_salsa.jpg","veggie":"y","htmlfile":"fresh_salsa.html"}
 ,{"title":"Fried Chicken","category":"Southern US","image":"fried_chicken.jpg","description":"Two alternative spice mixes","htmlfile":"fried_chicken.html"}
 ,{"title":"Garam Masala","category":"Sauces &amp; Seasonings","image":"garam_masala.jpg","veggie":"y","favorite":"Y","description":"Indian for hot spice mixture","htmlfile":"garam_masala.html"}
 ,{"title":"Garlic Ginger Paste","category":"Sauces &amp; Seasonings","image":"garlic_ginger_paste.jpg","veggie":"y","description":"A staple of Indian and Asian recipes. Keeps for months in the fridge","htmlfile":"garlic_ginger_paste.html","size":"Makes about 250ml"}
@@ -102,7 +102,7 @@
 ,{"title":"Iced Coffee","category":"Drinks","veggie":"Y","htmlfile":"iced_coffee.html","sweet":"y"}
 ,{"title":"Jambalaya","category":"Southern US","description":"Just like maman used to make. Replaces Andioulle with Chorizo because I can’t get it in the UK.","htmlfile":"jambalaya.html"}
 ,{"title":"Beef Jerky","category":"Southern US","description":"Simple smokey jerky using the dehydrator","htmlfile":"jerky.html"}
-,{"title":"Jiaozi/Gyoza/Potstickers","category":"Asian","source":"https://www.youtube.com/watch?vtkGsB0omCoA","image":"potstickers.png","description":"Luvverly dumplings. Steam ’em, fry ’em, stick ’em in a soup.","htmlfile":"jiaozi_gyoza_potstickers.html","size":"Makes 30+"}
+,{"title":"Jiaozi/Gyoza/Potstickers","category":"Fritters &amp; Dumplings","source":"https://www.youtube.com/watch?vtkGsB0omCoA","image":"potstickers.png","description":"Luvverly dumplings. Steam ’em, fry ’em, stick ’em in a soup.","htmlfile":"jiaozi_gyoza_potstickers.html","size":"Makes 30+"}
 ,{"title":"Kirby Koftas","category":"Middle Eastern","description":"Kofta kebabs. Great for barbeques.","htmlfile":"kirby_koftas.html"}
 ,{"title":"Lamb Rogan Josh","spicy":"y","category":"Indian","favorite":"Y","description":"Yoghurt marinaded lamb in a rich tomato curry","htmlfile":"lamb_rogan_josh.html","size":"Serves 8","time":"Optional"}
 ,{"title":"Lasagne","category":"Pasta Rice &amp; Noodles","image":"lasagne.jpg","favorite":"Y","description":"Family recipe","htmlfile":"lasagne.html"}
