@@ -18,10 +18,12 @@ spicy: y
 * `1 tsp` fennel seeds
 * `1 tsp` chilli powder
 * `½ tsp` salt
-* `¾ cup gram flour or 75g plain flour & 1 tbsp` cornflour
-* `1 tbsp` ghee or melted butter
-* `2 tbsp` lemon juice
 * `1` egg
+* `1 tbsp` ghee, melted butter or oil
+* `2 tbsp` lemon juice
+* either
+* `¾ cup` gram flour OR 
+* `75g` plain flour and `1 tbsp` cornflour
 * oil to fry
 
 > Put sliced onions, ginger and garlic in bowl. Also try 2 tsp` soaked split red lentils
