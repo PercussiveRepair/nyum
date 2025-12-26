@@ -1,6 +1,8 @@
 ---
 title: Spiced Red Cabbage 
 category: Sides
+description: Warming winter side
+image: spiced_red_cabbage.jpg
 veggie: y
 
 --- 
@@ -8,7 +10,7 @@ veggie: y
 * `3 cloves` garlic, chopped
 * `½ cup` sliced onion
 * `½` red cabbage, sliced thin
-* `2 cup` cooking apple sliced thin
+* `2 cup` cooking apple, sliced thin
 * `¼ cup` water
 * `2 tbsp` soft brown sugar
 * `2 tbsp` cider vinegar
@@ -24,8 +26,6 @@ veggie: y
 >
 > Add the remaining ingredients and stir well.
 >
-> Cover.
->
-> Cook over low heat 35 - 40 minutes.
+> Cover and cook over low heat for 35 - 40 minutes.
 >
 > Sprinkle with caraway seed if desired.

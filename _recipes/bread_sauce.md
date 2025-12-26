@@ -1,7 +1,9 @@
 ---
 title: Bread Sauce 
 category: Sauces & Seasonings
+image: bread_sauce.jpg
 veggie: y
+size: Serves 4
 
 --- 
 * `300ml` milk
@@ -22,11 +24,9 @@ veggie: y
 >
 > Add the breadcrumbs and simmer for 3-4 mins. 
 >
-> Stir in the cream
+> Stir in the cream and, using an immersion blender, blend into a smoother sauce.
 >
 > Add nutmeg, season and serve. 
 >
 > Can be made up to 3 days in advance and heated up on the hob or microwave on Medium for 3 mins.
->
-> Serves 4
 
