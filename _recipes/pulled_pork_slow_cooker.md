@@ -3,6 +3,7 @@ title: Pulled Pork - Slow Cooker
 category: Southern US
 description: Great pulled pork in the slow cooker
 favorite: Y
+image: pulled_pork_slow_cooker.jpg
 
 --- 
 * `2 medium` yellow onions, thinly sliced

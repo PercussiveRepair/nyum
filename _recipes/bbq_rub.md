@@ -1,7 +1,7 @@
 ---
 title: BBQ rub
 category: Sauces & Seasonings
-image: 
+image: bbq_rub.jpg
 veggie: y
 
 --- 
