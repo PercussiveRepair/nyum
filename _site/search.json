@@ -7,7 +7,7 @@
 ,{"title":"Banana Bread","category":"Confectionery &amp; Desserts","image":"banana_bread.jpg","veggie":"Y","description":"Simple quick sweet bread","htmlfile":"banana_bread.html","sweet":"y"}
 ,{"title":"Banana Bread (no butter)","category":"Confectionery &amp; Desserts","image":"banana_bread_without_butter.jpg","veggie":"Y","description":"Dairy free version","htmlfile":"banana_bread_without_butter.html","sweet":"y"}
 ,{"title":"Barbacoa Beef - Slow Cooker","spicy":"y","category":"Mexican","image":"barbacoa_beef_-_slow_cooker.jpg","description":"Sweet and smokey beef. Perfect for fajitas.","htmlfile":"barbacoa_beef_-_slow_cooker.html"}
-,{"title":"BBQ rub","category":"Sauces &amp; Seasonings","image":"","veggie":"y","htmlfile":"bbq_rub.html"}
+,{"title":"BBQ rub","category":"Sauces &amp; Seasonings","image":"bbq_rub.jpg","veggie":"y","htmlfile":"bbq_rub.html"}
 ,{"title":"Beef Birria - Slow Cooker","spicy":"y","category":"Mexican","image":"beef_birria_slow_cooker.png","favorite":"Y","description":"Best tacos ever","htmlfile":"beef_birria_slow_cooker.html"}
 ,{"title":"Beef in Black Bean Sauce","category":"Asian","image":"beef_black_bean.jpg","description":"Classic tender beef and vegetable stir fry","htmlfile":"beef_black_bean.html"}
 ,{"title":"Beef Pierogies","category":"Fritters &amp; Dumplings","image":"beef_pierogis.jpg","description":"Polish dumpling","htmlfile":"beef_pierogies.html","size":"Makes about 26"}
@@ -136,7 +136,7 @@
 ,{"title":"Pot-Roast Beef with French Onion Gravy","category":"Roasts","htmlfile":"pot-roast_beef_with_french_onion_gravy.html"}
 ,{"title":"Potato Bread Rolls","category":"Bread &amp; Pastry","veggie":"Y","description":"Potato rolls ideal for burger buns","htmlfile":"potato_bread.html"}
 ,{"title":"Potsticker Dipping Sauce","category":"Sauces &amp; Seasonings","veggie":"y","htmlfile":"potsticker_dipping_sauce.html"}
-,{"title":"Pulled Pork - Slow Cooker","category":"Southern US","favorite":"Y","description":"Great pulled pork in the slow cooker","htmlfile":"pulled_pork_slow_cooker.html"}
+,{"title":"Pulled Pork - Slow Cooker","category":"Southern US","image":"pulled_pork_slow_cooker.jpg","favorite":"Y","description":"Great pulled pork in the slow cooker","htmlfile":"pulled_pork_slow_cooker.html"}
 ,{"title":"Quick pickled onion and cucumber","category":"Salads","veggie":"y","htmlfile":"quick_pickled_onion_and_cucumber.html"}
 ,{"title":"Ramen Noodles","category":"Pasta Rice &amp; Noodles","image":"ramen_noodles.jpg","veggie":"y","description":"Homemade ramen","htmlfile":"ramen_noodles.html"}
 ,{"title":"Recipe template","spicy":"y","category":"","source":"Optional - youtube or recipe url","image":"Optional","veggie":"Y","favorite":"Y","description":"Optional","htmlfile":"recipe.html","size":"Optional","time":"Optional"}
