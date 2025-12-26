@@ -6,7 +6,7 @@
 ,{"title":"Bacon, Cheese and Onion Pierogi","category":"Fritters &amp; Dumplings","image":"cheese_bacon_pierogis.jpg","description":"Polish dumpling for cold winter nights","htmlfile":"bacon_cheese_and_onion_pierogi.html"}
 ,{"title":"Banana Bread","category":"Confectionery &amp; Desserts","image":"banana_bread.jpg","veggie":"Y","description":"Simple quick sweet bread","htmlfile":"banana_bread.html","sweet":"y"}
 ,{"title":"Banana Bread (no butter)","category":"Confectionery &amp; Desserts","image":"banana_bread_without_butter.jpg","veggie":"Y","description":"Dairy free version","htmlfile":"banana_bread_without_butter.html","sweet":"y"}
-,{"title":"Barbacoa Beef - Slow Cooker","spicy":"y","category":"Mexican","description":"Sweet and smokey beef. Perfect for fajitas.","htmlfile":"barbacoa_beef_-_slow_cooker.html"}
+,{"title":"Barbacoa Beef - Slow Cooker","spicy":"y","category":"Mexican","image":"barbacoa_beef_-_slow_cooker.jpg","description":"Sweet and smokey beef. Perfect for fajitas.","htmlfile":"barbacoa_beef_-_slow_cooker.html"}
 ,{"title":"BBQ rub","category":"Sauces &amp; Seasonings","image":"","veggie":"y","htmlfile":"bbq_rub.html"}
 ,{"title":"Beef Birria - Slow Cooker","spicy":"y","category":"Mexican","image":"beef_birria_slow_cooker.png","favorite":"Y","description":"Best tacos ever","htmlfile":"beef_birria_slow_cooker.html"}
 ,{"title":"Beef in Black Bean Sauce","category":"Asian","image":"beef_black_bean.jpg","description":"Classic tender beef and vegetable stir fry","htmlfile":"beef_black_bean.html"}
@@ -52,15 +52,15 @@
 ,{"title":"Classic Barbecue Sauce","category":"Sauces &amp; Seasonings","veggie":"y","htmlfile":"classic_barbecue_sauce.html"}
 ,{"title":"Classic Coleslaw","category":"Salads","image":"classic_coleslaw.png","veggie":"y","htmlfile":"classic_coleslaw.html"}
 ,{"title":"Coconut Lemon Rice","category":"Pasta Rice &amp; Noodles","veggie":"y","htmlfile":"coconut_lemon_rice.html"}
-,{"title":"Cookbooks","category":"Notes","htmlfile":"cookbooks.html"}
-,{"title":"Cooking temperatures","category":"Notes","htmlfile":"cooking_temps.html"}
+,{"title":"Cookbooks","category":"Notes","image":"cookbook.png","htmlfile":"cookbooks.html"}
+,{"title":"Cooking temperatures","category":"Notes","image":"temperature.png","htmlfile":"cooking_temps.html"}
 ,{"title":"Corn Fritters","category":"Fritters &amp; Dumplings","veggie":"Y","description":"Southern US accompaniment","htmlfile":"corn_fritters.html"}
 ,{"title":"Cottage Pie","category":"Pasties &amp; Pies","description":"Simple and hearty comfort food","htmlfile":"cottage_pie.html"}
 ,{"title":"Creamy Summer Pasta Salad","category":"Salads","veggie":"y","htmlfile":"creamy_summer_pasta_salad.html"}
 ,{"title":"Crispy Chinese Battered Meat","category":"Asian","image":"crispy_chinese_battered_meat.jpg","description":"A crispy batter for chinese meat dishes","htmlfile":"crispy_chinese_battered_meat.html"}
 ,{"title":"Crispy Chinese Chicken Wings","category":"Asian","image":"crispy_chinese_chicken_wings.jpg","description":"Chinese inspired crispy oven baked wings","htmlfile":"crispy_chinese_chicken_wings.html"}
 ,{"title":"Crumpets","category":"Batters","image":"crumpets.png","veggie":"Y","description":"English breakfast classic","htmlfile":"crumpets.html"}
-,{"title":"Cups to grams conversions","category":"Notes","htmlfile":"cup_to_gram.html"}
+,{"title":"Cups to grams conversions","category":"Notes","image":"conversion.png","htmlfile":"cup_to_gram.html"}
 ,{"title":"Easy Curry Paste","category":"Sauces &amp; Seasonings","veggie":"y","description":"A quick basic curry paste","htmlfile":"curry_paste_easy.html"}
 ,{"title":"Curry Paste with whole spices","category":"Sauces &amp; Seasonings","veggie":"y","description":"A little more effort, a lot more flavour","htmlfile":"curry_paste_whole_spices.html"}
 ,{"title":"Dehli Potato Pancakes with Indian Spiced Sour Cream","category":"Indian","veggie":"Y","description":"Crispy lightly spiced indian hash browns","htmlfile":"dehli_potato_pancakes_with_indian_spiced_sour_cream.html"}
@@ -75,12 +75,12 @@
 ,{"title":"Fajita seasoning","category":"Sauces &amp; Seasonings","veggie":"y","htmlfile":"fajita_seasoning.html"}
 ,{"title":"No Knead White Bread","category":"Bread &amp; Pastry","image":"fast_no_knead_white_bread.jpg","veggie":"Y","favorite":"Y","description":"Crusty, quick and easy","htmlfile":"fast_no_knead_white_bread.html"}
 ,{"title":"Florentines","category":"Confectionery &amp; Desserts","image":"florentines.png","veggie":"y","favorite":"Y","description":"Mum’s recipe","htmlfile":"florentines.html","sweet":"y"}
-,{"title":"Flour mixes","category":"Notes","htmlfile":"flour_mixes.html"}
+,{"title":"Flour mixes","category":"Notes","image":"flour.png","htmlfile":"flour_mixes.html"}
 ,{"title":"Flour Tortillas","category":"Bread &amp; Pastry","image":"flour_tortillas.png","veggie":"Y","description":"Unleavened mexican flatbread","htmlfile":"flour_tortillas.html","size":"Makes 8"}
 ,{"title":"Focaccia","category":"Bread &amp; Pastry","image":"focaccia.jpg","veggie":"Y","description":"Italian tray baked bread with rosemary and sea salt","htmlfile":"focaccia.html"}
 ,{"title":"Fondue Accompaniments","category":"Fondue","image":"fondue_accompaniments.jpg","description":"What to Serve With Cheese Fondue","htmlfile":"fondue_accompaniments.html"}
 ,{"title":"Foolproof Pan Pizza","category":"Pizza","image":"foolproof_pan_pizza.jpg","veggie":"y","htmlfile":"foolproof_pan_pizza.html"}
-,{"title":"Freezer Guide","category":"Notes","htmlfile":"freezer_guide.html"}
+,{"title":"Freezer Guide","category":"Notes","image":"freezer_guide.png","htmlfile":"freezer_guide.html"}
 ,{"title":"Fresh Egg Pasta","category":"Pasta Rice &amp; Noodles","image":"fresh_egg_pasta.jpg","veggie":"y","htmlfile":"fresh_egg_pasta.html"}
 ,{"title":"Fresh Salsa","category":"Sauces &amp; Seasonings","image":"fresh_salsa.jpg","veggie":"y","htmlfile":"fresh_salsa.html"}
 ,{"title":"Fried Chicken","category":"Southern US","image":"fried_chicken.jpg","description":"Two alternative spice mixes","htmlfile":"fried_chicken.html"}
@@ -123,7 +123,7 @@
 ,{"title":"Onion Bhaji","spicy":"y","category":"Fritters &amp; Dumplings","image":"onion_bhaji.png","veggie":"Y","htmlfile":"onion_bhaji.html"}
 ,{"title":"Orange Chicken","category":"Asian","htmlfile":"orange_chicken.html"}
 ,{"title":"Orange Marmalade","category":"Confectionery &amp; Desserts","veggie":"y","description":"Simple orange marmalade without pectin","htmlfile":"orange_marmalade.html","sweet":"y"}
-,{"title":"Oven temperature conversions","category":"Notes","htmlfile":"oven_temp_conversion.html"}
+,{"title":"Oven temperature conversions","category":"Notes","image":"oven_temp.png","htmlfile":"oven_temp_conversion.html"}
 ,{"title":"Overnight Pizza Dough - Poolish","category":"Pizza","source":"https://youtu.be/G-jPoROGHGE","image":"overnight_dough_poolish.png","veggie":"y","favorite":"Y","description":"Best homemade pizza dough ever","htmlfile":"overnight_dough_poolish.html"}
 ,{"title":"Parmesan Chicken with Lemon Garlic Pasta","category":"Pasta Rice &amp; Noodles","htmlfile":"parmesan_chicken_with_lemon_garlic_pasta.html"}
 ,{"title":"Carrots &amp; Parsnips with Cinnamon and Orange","category":"Sides","veggie":"Y","description":"Festive crispy sweet side dish","htmlfile":"parsnips_cinnamon_and_orange.html"}
@@ -154,7 +154,7 @@
 ,{"title":"Soft Pretzel Twists","category":"Bread &amp; Pastry","veggie":"Y","description":"Perfect snack bread with mustard or cheese dip","htmlfile":"soft_pretzel_twists.html","size":"makes 12"}
 ,{"title":"Spaghetti Bolognese","category":"European","description":"Simple weeknight staple","htmlfile":"spaghetti_bolognese.html"}
 ,{"title":"Special Baked Ham","category":"Roasts","image":"special_baked_ham.jpg","favorite":"Y","description":"Christmas ham family recipe","htmlfile":"special_baked_ham.html"}
-,{"title":"Spice blends","category":"Notes","htmlfile":"spice_blends.html"}
+,{"title":"Spice blends","category":"Notes","image":"spice_blends.jpg","htmlfile":"spice_blends.html"}
 ,{"title":"Spice Glazed Pineapple","category":"Confectionery &amp; Desserts","veggie":"Y","description":"Ideal for barbeques","htmlfile":"spiced_glazed_pineapple.html","sweet":"y"}
 ,{"title":"Spiced Red Cabbage","category":"Sides","image":"spiced_red_cabbage.jpg","veggie":"y","description":"Warming winter side","htmlfile":"spiced_red_cabbage.html"}
 ,{"title":"Spring greens with lemon dressing","category":"Sides","veggie":"y","htmlfile":"spring_greens_with_lemon_dressing.html"}
