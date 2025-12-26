@@ -1,6 +1,7 @@
 ---
 title: Sausage, Sage & Onion Stuffing 
 category: Sides
+image: sausage_sage_onion_stuffing.jpg
 
 --- 
 * `1` onion, sliced
