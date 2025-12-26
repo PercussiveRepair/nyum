@@ -1,6 +1,7 @@
 ---
 title: Freezer Guide
 category: Notes
+image: freezer_guide.png
 
 ---
 

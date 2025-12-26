@@ -1,6 +1,7 @@
 ---
 title: Flour mixes
 category: Notes
+image: flour.png
 
 ---
 

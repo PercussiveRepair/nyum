@@ -2,6 +2,7 @@
 title: Barbacoa Beef - Slow Cooker 
 category: Mexican
 description: Sweet and smokey beef. Perfect for fajitas.
+image: barbacoa_beef_-_slow_cooker.jpg
 spicy: y
 
 --- 

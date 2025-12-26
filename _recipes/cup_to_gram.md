@@ -1,6 +1,7 @@
 ---
 title: Cups to grams conversions
 category: Notes
+image: conversion.png
 
 ---
 

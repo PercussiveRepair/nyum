@@ -1,6 +1,7 @@
 ---
 title: Cooking temperatures
 category: Notes
+image: temperature.png
 
 ---
 

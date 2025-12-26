@@ -1,6 +1,7 @@
 ---
 title: Cookbooks
 category: Notes
+image: cookbook.png 
 
 ---
 ## Online cookbooks

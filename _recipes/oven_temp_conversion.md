@@ -1,6 +1,7 @@
 ---
 title: Oven temperature conversions
 category: Notes
+image: oven_temp.png
 
 ---
 
