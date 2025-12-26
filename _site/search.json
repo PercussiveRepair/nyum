@@ -17,7 +17,8 @@
 ,{"title":"Bombay Aloo","spicy":"y","category":"Indian","veggie":"y","description":"Spiced potatoes","htmlfile":"bombay_aloo.html"}
 ,{"title":"Bonfire Toffee","category":"Confectionery &amp; Desserts","image":"bonfire_toffee.jpg","veggie":"y","description":"Yorkshire Autumn treat","htmlfile":"bonfire_toffee.html","sweet":"y"}
 ,{"title":"Bread Pudding","category":"Confectionery &amp; Desserts","image":"bread_pudding.jpg","veggie":"Y","description":"Simple but indulgent","htmlfile":"bread_pudding.html","sweet":"y"}
-,{"title":"Bread Sauce","category":"Sauces &amp; Seasonings","veggie":"y","htmlfile":"bread_sauce.html"}
+,{"title":"Bread Sauce","category":"Sauces &amp; Seasonings","image":"bread_sauce.jpg","veggie":"y","htmlfile":"bread_sauce.html","size":"Serves 4"}
+,{"title":"British Pork Pie","category":"Pasties &amp; Pies","image":"british_pork_pie.jpg","description":"Ploughmans lunch staple","htmlfile":"british_pork_pie.html","size":"Makes 6"}
 ,{"title":"Brownies","category":"Confectionery &amp; Desserts","image":"brownies.png","veggie":"Y","description":"Squidgy and gooey","htmlfile":"brownies.html","sweet":"y"}
 ,{"title":"Burger Buns","category":"Bread &amp; Pastry","image":"burger_buns.jpg","veggie":"Y","description":"Simple buns for burgers, hotdogs or sandwiches","htmlfile":"burger_buns.html","size":"makes 8"}
 ,{"title":"Camp Bread/Bannock","category":"Bread &amp; Pastry","veggie":"Y","description":"Simple bread for outdoor cooking","htmlfile":"camp_bread_bannock.html"}
@@ -155,7 +156,7 @@
 ,{"title":"Special Baked Ham","category":"Roasts","image":"special_baked_ham.jpg","favorite":"Y","description":"Christmas ham family recipe","htmlfile":"special_baked_ham.html"}
 ,{"title":"Spice blends","category":"Notes","htmlfile":"spice_blends.html"}
 ,{"title":"Spice Glazed Pineapple","category":"Confectionery &amp; Desserts","veggie":"Y","description":"Ideal for barbeques","htmlfile":"spiced_glazed_pineapple.html","sweet":"y"}
-,{"title":"Spiced Red Cabbage","category":"Sides","veggie":"y","htmlfile":"spiced_red_cabbage.html"}
+,{"title":"Spiced Red Cabbage","category":"Sides","image":"spiced_red_cabbage.jpg","veggie":"y","description":"Warming winter side","htmlfile":"spiced_red_cabbage.html"}
 ,{"title":"Spring greens with lemon dressing","category":"Sides","veggie":"y","htmlfile":"spring_greens_with_lemon_dressing.html"}
 ,{"title":"Steak and Pepper Sauce - Reverse Sear","category":"European","htmlfile":"steak_reverse_sear.html"}
 ,{"title":"Sticky Thai Orange Peanut Chicken","category":"Asian","description":"Orange peanut sticy chicken thighs","htmlfile":"sticky_thai_orange_peanut_chicken.html"}
