@@ -134,6 +134,7 @@
 ,{"title":"Plain/Fruit Scones","category":"Bread &amp; Pastry","source":"https://www.youtube.com/watch?v=6tlQn7iePV4","image":"plain_or_fruit_scones.png","veggie":"Y","htmlfile":"plain_or_fruit_scones.html","sweet":"y","size":"makes about 10"}
 ,{"title":"Pork Schnitzel","category":"European","htmlfile":"pork_schnitzel.html"}
 ,{"title":"Pot-Roast Beef with French Onion Gravy","category":"Roasts","htmlfile":"pot-roast_beef_with_french_onion_gravy.html"}
+,{"title":"Pot Roast Chicken with Lemon &amp; Orzo","category":"Pasta Rice &amp; Noodles","source":"https://www.nigella.com/recipes/chicken-in-a-pot-with-lemon-and-orzo","image":"pot_roast_chicken_with_lemon_and_orzo.jpg","htmlfile":"pot_roast_chicken_with_lemon_and_orzo.html"}
 ,{"title":"Potato Bread Rolls","category":"Bread &amp; Pastry","veggie":"Y","description":"Potato rolls ideal for burger buns","htmlfile":"potato_bread.html"}
 ,{"title":"Potsticker Dipping Sauce","category":"Sauces &amp; Seasonings","veggie":"y","htmlfile":"potsticker_dipping_sauce.html"}
 ,{"title":"Pulled Pork - Slow Cooker","category":"Southern US","image":"pulled_pork_slow_cooker.jpg","favorite":"Y","description":"Great pulled pork in the slow cooker","htmlfile":"pulled_pork_slow_cooker.html"}
@@ -152,7 +153,7 @@
 ,{"title":"Slow Roast Lamb","category":"Roasts","description":"Beautiful marinated fall-apart lamb served with lemon, garlic and mint gremolata","htmlfile":"slow_roast_lamb.html"}
 ,{"title":"Smoked Mackerel Pate","category":"Fish","description":"Gorgeous smoky pate best served with toast points","htmlfile":"smoked_mackerel_pate.html"}
 ,{"title":"Soft Pretzel Twists","category":"Bread &amp; Pastry","veggie":"Y","description":"Perfect snack bread with mustard or cheese dip","htmlfile":"soft_pretzel_twists.html","size":"makes 12"}
-,{"title":"Sourdough White Bread","category":"Bread &amp; Pastry","image":"sourdough_white_bread.jpg","veggie":"Y","favorite":"Y","description":"Crusty, quick and easy","htmlfile":"sourdough_white_bread.html"}
+,{"title":"Sourdough White Bread","category":"Bread &amp; Pastry","source":"https://www.theclevercarrot.com/2014/01/sourdough-bread-a-beginners-guide/","image":"sourdough_white_bread.jpg","veggie":"Y","favorite":"Y","description":"Crusty, quick and easy","htmlfile":"sourdough_white_bread.html"}
 ,{"title":"Spaghetti Bolognese","category":"European","description":"Simple weeknight staple","htmlfile":"spaghetti_bolognese.html"}
 ,{"title":"Special Baked Ham","category":"Roasts","image":"special_baked_ham.jpg","favorite":"Y","description":"Christmas ham family recipe","htmlfile":"special_baked_ham.html"}
 ,{"title":"Spice blends","category":"Notes","image":"spice_blends.jpg","htmlfile":"spice_blends.html"}
