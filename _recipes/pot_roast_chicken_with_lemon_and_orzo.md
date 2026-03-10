@@ -8,7 +8,7 @@ image: pot_roast_chicken_with_lemon_and_orzo.jpg
 
 * `2 tbsp` olive oil
 * `1.5kg or bigger` whole chicken 
-* `2` unwaxed lemons
+* `2` unwaxed lemons, zest & juice
 * `3 large` cloves of garlic, minced
 * `350g or 2 large` carrots, cut into batons
 * `350g or 2 large` leeks, cut into rounds
