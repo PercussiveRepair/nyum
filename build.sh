@@ -77,6 +77,13 @@ for FILE in _recipes/*.md; do
         --metadata htmlfile="$(basename "$FILE" .md).html" \
         --template _templates/technical/metadata.template.json \
         -t html -o "_temp/$(basename "$FILE" .md).metadata.json"
+
+    if [[ "$GITHUB_ACTIONS" = true ]]; then
+        MDATE="$(git log -1 --date=short-local --pretty='format:%cd' "$FILE")"
+    else
+        MDATE="$(date -r "$FILE" "+%Y-%m-%d")"
+    fi
+    echo "$(basename "$FILE" .md) $MDATE" > "_temp/$(basename "$FILE" .md).mdate.txt"
 done
 
 status "Grouping metadata by category..."  # (yep, this is a right mess)
@@ -108,6 +115,25 @@ for CATEGORY in $(echo "$CATS" | cut -d" " -f2- | sort | uniq); do
 done
 unset IFS
 echo "]}" >> _temp/index.json
+
+status "Building recent recipes list..."
+# Collect all "<date> <basename>" pairs, sort descending, take top 20
+RECENT_BASENAMES=$(
+    for F in _temp/*.mdate.txt; do
+        BASENAME=$(cat "$F" | cut -d" " -f1)
+        MDATE=$(cat "$F" | cut -d" " -f2)
+        echo "$MDATE $BASENAME"
+    done | sort -r | head -20 | awk '{print $2}'
+)
+
+echo "{\"recent_recipes\": [" > _temp/recent.json
+SEPARATOR_RECENT=""
+for BASENAME in $RECENT_BASENAMES; do
+    printf '%s' "$SEPARATOR_RECENT" >> _temp/recent.json
+    cat "_temp/$BASENAME.metadata.json" >> _temp/recent.json
+    SEPARATOR_RECENT=","
+done
+echo "]}" >> _temp/recent.json
 
 status "Building recipe pages..."
 for FILE in _recipes/*.md; do
@@ -151,9 +177,18 @@ x pandoc _templates/technical/empty.md \
     --metadata-file config.yaml \
     --metadata title="dummy" \
     --metadata updatedtime="$(date "+%Y-%m-%d")" \
-    --metadata-file _temp/index.json \
+    --metadata-file _temp/recent.json \
     --template _templates/index.template.html \
     -o _site/index.html
+
+status "Building all-recipes page..."
+x pandoc _templates/technical/empty.md \
+    --metadata-file config.yaml \
+    --metadata title="dummy" \
+    --metadata updatedtime="$(date "+%Y-%m-%d")" \
+    --metadata-file _temp/index.json \
+    --template _templates/all-recipes.template.html \
+    -o _site/all-recipes.html
 
 status "Assembling search index..."
 echo "[" > _temp/search.json
