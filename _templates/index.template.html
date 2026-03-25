@@ -29,6 +29,11 @@
             </aside>
         </header>
         <section>
+            ${for(categories)}
+            <a href="${it.category_faux_urlencoded}.html">${it.category}</a>&nbsp;&nbsp;
+            ${endfor}
+        </section>
+        <section>
             <h2>Recently added</h2>
             ${for(recent_recipes)}
                 ${it:recipe_list_item.partial.html()}
