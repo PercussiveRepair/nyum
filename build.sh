@@ -178,6 +178,7 @@ x pandoc _templates/technical/empty.md \
     --metadata title="dummy" \
     --metadata updatedtime="$(date "+%Y-%m-%d")" \
     --metadata-file _temp/recent.json \
+    --metadata-file _temp/index.json \
     --template _templates/index.template.html \
     -o _site/index.html
 
