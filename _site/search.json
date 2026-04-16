@@ -24,6 +24,7 @@
 ,{"title":"Burger Buns","category":"Bread &amp; Pastry","image":"burger_buns.jpg","veggie":"Y","description":"Simple buns for burgers, hotdogs or sandwiches","htmlfile":"burger_buns.html","size":"makes 8"}
 ,{"title":"Camp Bread/Bannock","category":"Bread &amp; Pastry","veggie":"Y","description":"Simple bread for outdoor cooking","htmlfile":"camp_bread_bannock.html"}
 ,{"title":"Candied Almonds","category":"Confectionery &amp; Desserts","image":"candied_almonds.jpg","veggie":"Y","favorite":"Y","description":"Spanish almond brittle","htmlfile":"candied_almonds.html","sweet":"y"}
+,{"title":"Cantucci (Italian Almond Biscotti)","category":"Confectionery &amp; Desserts","image":"cantucci_biscotti.jpg","veggie":"Y","description":"Full of almonds and baked twice for a perfect crunch","htmlfile":"cantucci_biscotti.html","sweet":"y"}
 ,{"title":"Carnitas - Slow Cooker","category":"Mexican","image":"carnitas.jpg","favorite":"Y","description":"Slow cooker version of classic Mexican pork carnitas","htmlfile":"carnitas_slow_cooker.html"}
 ,{"title":"Carrot Cake","category":"Confectionery &amp; Desserts","veggie":"Y","description":"","htmlfile":"carrot_cake.html","sweet":"y"}
 ,{"title":"Carrot, Coriander &amp; Lemon Soup","category":"Soups","veggie":"y","htmlfile":"carrot_coriander_lemon_soup.html"}
