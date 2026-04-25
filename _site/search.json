@@ -144,6 +144,7 @@
 ,{"title":"Ramen Noodles","category":"Pasta Rice &amp; Noodles","image":"ramen_noodles.jpg","veggie":"y","description":"Homemade ramen","htmlfile":"ramen_noodles.html"}
 ,{"title":"Recipe template","spicy":"y","category":"","source":"Optional - youtube or recipe url","image":"Optional","veggie":"Y","favorite":"Y","description":"Optional","htmlfile":"recipe.html","size":"Optional","time":"Optional"}
 ,{"title":"Red Lentil Dahl","category":"Indian","veggie":"Y","description":"Quick and easy flavourful vegan and gluten-free curry dish","htmlfile":"red_lentil_dahl.html"}
+,{"title":"Rice Cooker Ginger &amp; Garlic Chicken","category":"Asian","image":"","description":"Aromatic, warming one pot meal","htmlfile":"rice_cooker_ginger_chicken.html"}
 ,{"title":"Roast Turkey - Dry Brine","category":"Roasts","image":"roast_turkey_-_dry_brine.png","description":"Best Christmas turkey ever","htmlfile":"roast_turkey_-_dry_brine.html"}
 ,{"title":"Roux/white sauce","category":"Sauces &amp; Seasonings","veggie":"y","description":"White sauce base for cheese, bechamel or veloute","htmlfile":"roux_or_white_sauce.html"}
 ,{"title":"Sage and Apple Stuffing","category":"Sides","htmlfile":"sage_and_apple_stuffing.html"}
