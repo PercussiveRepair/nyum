@@ -6,8 +6,19 @@ image: sourdough_white_bread.jpg
 favorite: Y
 veggie: Y
 source: https://youtu.be/ZlRzjaKlfT8?si=Qxvj-NTq_YDe6aJn
-
 --- 
+
+## To activate your starter (12 hours in advance of making bread)
+
+---
+
+> Discard half your starter
+> 
+> Weigh your remaining starter in a clean jar. Add strong bread flour and warm water in a ratio of 1:1:1, starter:flour:water. For example, if you have 40g remaining starter add 40g flour and 40g water. 
+> 
+> Leave at room temp (21–24°C) for between 4-12 hours to double in size and become active. Use to make the recipe when it peaks.
+
+## Make the bread dough
 
 * `91g` active sourdough starter (20%)
 * `291g` warm water (74%)
