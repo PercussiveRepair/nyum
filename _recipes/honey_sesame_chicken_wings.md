@@ -12,13 +12,6 @@ description: Classic takeaway fried wings
 * `1 tsp` salt
 * `1 tsp` MSG
 * `1` egg, beaten
-* `4 cloves` garlic, chopped
-* `1 tsp` ground ginger
-* `1 tsp` ground black pepper
-* `pinch` salt
-* `splash` oil
-* `1 to 2 tbsp` cornflour
-* `1 cup` hoisin sauce
 
 > Joint the wings and place in a bowl.
 >
