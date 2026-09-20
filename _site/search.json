@@ -169,6 +169,7 @@
 ,{"title":"Spice blends","category":"Notes","image":"spice_blends.jpg","htmlfile":"spice_blends.html"}
 ,{"title":"Spice Glazed Pineapple","category":"Confectionery &amp; Desserts","veggie":"Y","description":"Ideal for barbeques","htmlfile":"spiced_glazed_pineapple.html","sweet":"y"}
 ,{"title":"Spiced Red Cabbage","category":"Sides","image":"spiced_red_cabbage.jpg","veggie":"y","description":"Warming winter side","htmlfile":"spiced_red_cabbage.html"}
+,{"title":"Spicy Parsnip Soup","spicy":"Y","category":"","source":"https://www.bbcgoodfood.com/recipes/spicy-roasted-parsnip-soup","image":"spicy_parsnip_soup.jpg","veggie":"Y","favorite":"","description":"This warming roast parsnip soup recipe is bursting with aromatic flavour from spices such as cumin and turmeric, whilst mustard seeds give it a slight kick","htmlfile":"spicy_parsnip_soup.html","size":"Serves 4","time":"45 minutes"}
 ,{"title":"Spring greens with lemon dressing","category":"Sides","veggie":"y","htmlfile":"spring_greens_with_lemon_dressing.html"}
 ,{"title":"Steak and Pepper Sauce - Reverse Sear","category":"European","htmlfile":"steak_reverse_sear.html"}
 ,{"title":"Sticky Thai Orange Peanut Chicken","category":"Asian","description":"Orange peanut sticy chicken thighs","htmlfile":"sticky_thai_orange_peanut_chicken.html"}
