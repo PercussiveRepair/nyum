@@ -150,6 +150,19 @@ header ul li a {
     text-decoration: none;
     color: inherit;
 }
+header ul li.wakelock button {
+    background: none;
+    border: 0;
+    padding: 0;
+    font: inherit;
+    text-transform: inherit;
+    color: inherit;
+    cursor: pointer;
+}
+header ul li.wakelock button[aria-pressed="true"] {
+    color: var(--link);
+    text-decoration: underline;
+}
 header p {
     max-width: 66%;
     margin: 0.5rem 0;
@@ -494,6 +507,23 @@ footer .updatededit a {
     }
     footer {
         display: none;
+    }
+    header nav,
+    header ul li.wakelock,
+    #return-to-top {
+        display: none !important;
+    }
+    a {
+        color: inherit;
+        text-decoration: none;
+    }
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+    section li,
+    section blockquote {
+        break-inside: avoid;
     }
 }
 
