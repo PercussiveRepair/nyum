@@ -20,6 +20,7 @@ jobs:
         run: |
           wget -O pandoc.deb https://github.com/jgm/pandoc/releases/download/2.13/pandoc-2.13-1-amd64.deb
           sudo dpkg -i pandoc.deb
+          sudo apt-get install -y python3-pil || echo "Pillow unavailable, images will not be optimized"
       - name: Build 🏗️
         run: bash build.sh
       - name: Commit and push changes

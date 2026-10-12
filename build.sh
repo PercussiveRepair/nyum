@@ -8,6 +8,7 @@ set -e
 # parse arguments
 QUIET=false
 CLEAN=false
+REPORT=false
 while [[ $# -gt 0 ]]; do
     if [ "$1" = "-q" ] || [ "$1" = "--quiet" ]; then
         QUIET=true
@@ -15,9 +16,13 @@ while [[ $# -gt 0 ]]; do
     elif [ "$1" = "-c" ] || [ "$1" = "--clean" ]; then
         CLEAN=true
         shift
+    elif [ "$1" = "-r" ] || [ "$1" = "--report" ]; then
+        REPORT=true
+        shift
     elif [ "$1" = "-h" ] || [ "$1" = "--help" ]; then
-        echo "Usage: bash build.sh [-q | --quiet] [-c | --clean]"
+        echo "Usage: bash build.sh [-q | --quiet] [-c | --clean] [-r | --report]"
         echo "  Builds the site. If the -c flag is given, stops after resetting _site/ and _temp/."
+        echo "  If the -r flag is given, lists every recipe affected by each build warning instead of only counting them."
         exit
     else
         shift
@@ -37,6 +42,13 @@ function x {
     $QUIET || echo "↪" "$*" >&2
     IFS="$_IFS"
     "$@"
+}
+
+# succeeds if the recipe's front matter names an image file that doesn't exist
+function image_is_missing {
+    local IMG
+    IMG="$(head -40 "$1" | grep -m1 '^image:' | sed -E 's/^image:[[:space:]]*//; s/[[:space:]]*$//')"
+    [[ -n "$IMG" && ! -e "_recipes/$IMG" ]]
 }
 
 status "Resetting _site/ and _temp/..."
@@ -61,9 +73,28 @@ for FILE in _recipes/*; do
     x cp "$FILE" _site/
 done
 
+status "Optimizing images..."
+# writes downscaled copies over the ones just copied, plus small thumbnails for
+# the index pages (needs Pillow; without it, the originals are used as-is)
+if python3 -c "import PIL" 2>/dev/null; then
+    x python3 _templates/technical/optimize_images.py _recipes _site
+else
+    echo "Pillow not found (pip install pillow), serving full-size images." >&2
+    x mkdir -p _site/thumbs
+    for FILE in _recipes/*.{jpg,jpeg,png}; do
+        [ -e "$FILE" ] && x cp "$FILE" _site/thumbs/
+    done
+fi
+
 status "Extracting metadata..."
 for FILE in _recipes/*.md; do
     [[ "$(basename "$FILE")" == "recipe.md" ]] && continue  # authoring template, not a real recipe
+    IMAGE_ARGS=()
+    if image_is_missing "$FILE"; then
+        IMAGE_ARGS=(--metadata image=)  # blank it out so no broken image is shown
+        echo "$(basename "$FILE" .md)" >> _temp/missing_images.txt
+    fi
+
     # extract category name for each recipe, set basename to avoid having to
     # use $sourcefile$ in the template which pandoc sets automatically but
     # contains the relative path
@@ -76,6 +107,7 @@ for FILE in _recipes/*.md; do
     # extract metadata, set htmlfile in order to link to it on the index page
     x pandoc "$FILE" \
         --metadata htmlfile="$(basename "$FILE" .md).html" \
+        "${IMAGE_ARGS[@]}" \
         --template _templates/technical/metadata.template.json \
         -t html -o "_temp/$(basename "$FILE" .md).metadata.json"
 
@@ -139,6 +171,8 @@ echo "]}" >> _temp/recent.json
 status "Building recipe pages..."
 for FILE in _recipes/*.md; do
     [[ "$(basename "$FILE")" == "recipe.md" ]] && continue  # authoring template, not a real recipe
+    IMAGE_ARGS=()
+    image_is_missing "$FILE" && IMAGE_ARGS=(--metadata image=)
     CATEGORY_FAUX_URLENCODED="$(cat "_temp/$(basename "$FILE" .md).category.txt" | cut -d" " -f2- | awk -f "_templates/technical/faux_urlencode.awk")"
 
     # when running under GitHub Actions, all file modification dates are set to
@@ -159,6 +193,7 @@ for FILE in _recipes/*.md; do
         --metadata basename="$(basename "$FILE" .md)" \
         --metadata category_faux_urlencoded="$CATEGORY_FAUX_URLENCODED" \
         --metadata updatedtime="$UPDATED_AT" \
+        "${IMAGE_ARGS[@]}" \
         --template _templates/recipe.template.html \
         -o "_site/$(basename "$FILE" .md).html"
 done
@@ -228,6 +263,32 @@ for FILE in _temp/*.metadata.json; do
 done
 echo "]" >> _temp/search.json
 x cp -r _temp/search.json _site/
+
+# list gaps in the recipes' metadata, ignoring the recipe template (already
+# skipped above) and the reference pages in the "Notes" category
+function warn_list {
+    local COUNT="$1" LABEL="$2" NAMES="$3"
+    [ "$COUNT" -eq 0 ] && return 0
+    echo "  $COUNT $LABEL"
+    if $REPORT; then echo "$NAMES" | sed 's/^/      /'; fi
+}
+if ! $QUIET; then
+    status "Build warnings"
+    MISSING_IMAGES="$(sort _temp/missing_images.txt 2>/dev/null || true)"
+    warn_list "$(echo "$MISSING_IMAGES" | grep -c .)" "recipes name an image file that doesn't exist (no image shown)" "$MISSING_IMAGES"
+    for FIELD in description size source; do
+        NAMES=""
+        for FILE in _recipes/*.md; do
+            BASENAME="$(basename "$FILE" .md)"
+            [ "$BASENAME" = "recipe" ] && continue
+            [ "$(cut -d" " -f2- "_temp/$BASENAME.category.txt")" = "Notes" ] && continue
+            head -40 "$FILE" | grep -q "^$FIELD:[[:space:]]*[^[:space:]]" || NAMES="$NAMES$BASENAME"$'\n'
+        done
+        NAMES="$(echo -n "$NAMES" | sed '/^$/d')"
+        warn_list "$(echo "$NAMES" | grep -c .)" "recipes have no $FIELD" "$NAMES"
+    done
+    if ! $REPORT; then echo "  (run with --report to list them)"; fi
+fi
 
 TIME_END=$(date +%s)
 TIME_TOTAL=$((TIME_END-TIME_START))
