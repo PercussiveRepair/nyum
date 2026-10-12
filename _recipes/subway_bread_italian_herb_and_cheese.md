@@ -1,6 +1,6 @@
 ---
 title: Subway Bread (Italian Herb and Cheese)
-category: 
+category: Bread & Pastry
 description: A Subway bread recipe that actually tastes like Subway bread, for unlimited homemade Italian Herb and Cheese sandwiches
 size: Makes 8 footlong rolls
 time: 1 hour 35 minutes

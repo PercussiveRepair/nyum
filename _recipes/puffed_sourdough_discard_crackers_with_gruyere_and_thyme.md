@@ -1,6 +1,6 @@
 ---
 title: Puffed Sourdough Discard Crackers with Gruyere and Thyme
-category: 
+category: Bread & Pastry
 description: Cold butter and chilled dough are the secret to these easy, one-bowl sourdough discard crackers that are thin and crispy
 size: Makes 3-4 dozen (4cm) crackers
 source: https://www.theclevercarrot.com/2020/11/puffed-sourdough-discard-crackers-recipe-gruyere-thyme/

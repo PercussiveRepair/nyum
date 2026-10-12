@@ -1,6 +1,6 @@
 ---
 title: Honey Glazed Carrots
-category: 
+category: Sides
 description: Roasted carrots tossed in a sticky honey-garlic glaze with a squeeze of lemon.
 size: Serves 6
 time: 50 minutes

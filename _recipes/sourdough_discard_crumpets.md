@@ -1,6 +1,6 @@
 ---
 title: Sourdough Discard Crumpets
-category: 
+category: Bread & Pastry
 description: Crumpets at the intersection of pancakes and English muffins, made with a four ingredient batter using sourdough starter discard straight from the fridge
 size: Makes 5 crumpets
 time: 11 minutes

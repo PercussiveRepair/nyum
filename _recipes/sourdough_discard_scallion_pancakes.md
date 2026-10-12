@@ -1,6 +1,6 @@
 ---
 title: Sourdough Discard Scallion Pancakes
-category: 
+category: Asian
 description: A thin, crispy sourdough discard scallion pancake made by folding oiled, salted dough with chopped scallions
 size: Makes one 8-9 inch pancake (can be doubled or tripled)
 time: 1 hour 15 minutes

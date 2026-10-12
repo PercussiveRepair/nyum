@@ -1,6 +1,6 @@
 ---
 title: Oatmeal Lace Cookies
-category: 
+category: Confectionery & Desserts
 description: Thin, crisp, buttery, toffee-like cookies that are naturally gluten-free
 size: Makes 36 cookies
 source: https://themindfulmeringue.com/oatmeal-lace-cookies/

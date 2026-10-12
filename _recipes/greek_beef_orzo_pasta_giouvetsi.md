@@ -1,6 +1,6 @@
 ---
 title: Greek Beef Orzo Pasta (Giouvetsi)
-category: 
+category: European
 description: A one pot, flavorful dish with tender beef, thick tomato sauce and orzo pasta
 size: Serves 4
 time: 2 hours 10 minutes

@@ -1,6 +1,6 @@
 ---
 title: Fisherman's Bread (Pane del Pescatore)
-category: 
+category: Confectionery & Desserts
 description: A cross between a cookie, scone and biscuit with a hard shell and tender inside, filled with raisins and nuts
 size: Makes 12 buns
 time: 45 minutes

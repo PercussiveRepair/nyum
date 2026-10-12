@@ -1,6 +1,6 @@
 ---
 title: Simple Seafood Chowder
-category: 
+category: Fish
 description: A chunky, creamy soup with salmon and smoked haddock, mixed shellfish and potatoes - a hearty meal
 size: Serves 4
 time: 40 minutes

@@ -1,6 +1,6 @@
 ---
 title: Spicy Parsnip Soup
-category: 
+category: Soups
 description: This warming roast parsnip soup recipe is bursting with aromatic flavour from spices such as cumin and turmeric, whilst mustard seeds give it a slight kick
 size: Serves 4
 time: 45 minutes

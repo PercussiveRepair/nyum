@@ -1,6 +1,6 @@
 ---
 title: Pork Sausage Breakfast Patties
-category: 
+category: Breakfast
 description: Classic pork sausage flavour in patty form, made with a simple spice blend — no breadcrumbs, no fillers.
 size: Makes 8 patties
 time: 20 minutes

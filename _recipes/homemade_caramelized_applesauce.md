@@ -1,6 +1,6 @@
 ---
 title: Homemade Caramelized Applesauce
-category: 
+category: Sauces & Seasonings
 size: Makes 480-600ml
 source: https://grassfedcow.com/recipes/homemade-caramelized-applesauce/
 image: homemade_caramelized_applesauce.jpg

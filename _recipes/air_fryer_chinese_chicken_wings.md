@@ -1,6 +1,6 @@
 ---
 title: Air Fryer Chinese Chicken Wings
-category: 
+category: Asian
 description: Chinese chicken wings made easy in the air fryer, with a flavorful taste and juicy, crispy texture just like the ones at the Chinese restaurant
 size: Serves 4
 source: https://omnivorescookbook.com/air-fryer-chinese-chicken-wings/
