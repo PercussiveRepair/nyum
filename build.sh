@@ -63,6 +63,7 @@ done
 
 status "Extracting metadata..."
 for FILE in _recipes/*.md; do
+    [[ "$(basename "$FILE")" == "recipe.md" ]] && continue  # authoring template, not a real recipe
     # extract category name for each recipe, set basename to avoid having to
     # use $sourcefile$ in the template which pandoc sets automatically but
     # contains the relative path
@@ -137,6 +138,7 @@ echo "]}" >> _temp/recent.json
 
 status "Building recipe pages..."
 for FILE in _recipes/*.md; do
+    [[ "$(basename "$FILE")" == "recipe.md" ]] && continue  # authoring template, not a real recipe
     CATEGORY_FAUX_URLENCODED="$(cat "_temp/$(basename "$FILE" .md).category.txt" | cut -d" " -f2- | awk -f "_templates/technical/faux_urlencode.awk")"
 
     # when running under GitHub Actions, all file modification dates are set to
