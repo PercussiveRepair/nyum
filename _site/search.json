@@ -157,7 +157,6 @@
 ,{"title":"Pumpkin Bread","category":"Confectionery &amp; Desserts","source":"https://preppykitchen.com/pumpkin-bread/","image":"pumpkin_bread.jpg","veggie":"Y","favorite":"","description":"A soft, spiced pumpkin bread loaf you stir together by hand in about 10 minutes, no mixer needed, that stays moist for days","htmlfile":"pumpkin_bread.html","size":"Makes 1 loaf (12 servings)","time":"1 hour 25 minutes"}
 ,{"title":"Quick pickled onion and cucumber","category":"Salads","veggie":"y","htmlfile":"quick_pickled_onion_and_cucumber.html"}
 ,{"title":"Ramen Noodles","category":"Pasta Rice &amp; Noodles","image":"ramen_noodles.jpg","veggie":"y","description":"Homemade ramen","htmlfile":"ramen_noodles.html"}
-,{"title":"Recipe template","spicy":"y","category":"","source":"Optional - youtube or recipe url","image":"Optional","veggie":"Y","favorite":"Y","description":"Optional","htmlfile":"recipe.html","size":"Optional","time":"Optional"}
 ,{"title":"Red Lentil Dahl","category":"Indian","veggie":"Y","description":"Quick and easy flavourful vegan and gluten-free curry dish","htmlfile":"red_lentil_dahl.html"}
 ,{"title":"Rice Cooker Ginger &amp; Garlic Chicken","category":"Asian","image":"","description":"Aromatic, warming one pot meal","htmlfile":"rice_cooker_ginger_chicken.html"}
 ,{"title":"Roast Turkey - Dry Brine","category":"Roasts","image":"roast_turkey_-_dry_brine.png","description":"Best Christmas turkey ever","htmlfile":"roast_turkey_-_dry_brine.html"}
