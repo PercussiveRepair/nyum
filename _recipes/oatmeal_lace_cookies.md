@@ -6,6 +6,7 @@ size: Makes 36 cookies
 source: https://themindfulmeringue.com/oatmeal-lace-cookies/
 image: oatmeal_lace_cookies.jpg
 favorite: 
+veggie: Y
 ---
 
 ## Lace cookies

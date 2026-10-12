@@ -7,6 +7,7 @@ time: 1 hour 25 minutes
 source: https://www.allrecipes.com/recipe/19389/greek-orzo-salad/
 image: greek_orzo_salad.jpg
 favorite: 
+veggie: Y
 ---
 
 ## Orzo salad

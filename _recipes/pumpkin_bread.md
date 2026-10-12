@@ -7,6 +7,7 @@ time: 1 hour 25 minutes
 source: https://preppykitchen.com/pumpkin-bread/
 image: pumpkin_bread.jpg
 favorite: 
+veggie: Y
 ---
 
 ## Pumpkin bread

@@ -7,6 +7,7 @@ time: 1 hour 15 minutes
 source: https://dusdoughs.com/2020/04/17/sourdough-discard-scallion-pancakes/
 image: sourdough_discard_scallion_pancakes.jpg
 favorite: 
+veggie: Y
 ---
 
 ## For the dough

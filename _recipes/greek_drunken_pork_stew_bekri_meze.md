@@ -5,6 +5,7 @@ size: Serves 6-8
 source: https://akispetretzikis.com/en/recipe/5755/mpekrh-meze
 image: greek_drunken_pork_stew_bekri_meze.jpg
 favorite: 
+spicy: Y
 ---
 
 ## For the stew

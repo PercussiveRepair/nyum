@@ -7,6 +7,7 @@ time: 11 minutes
 source: https://www.scotchandscones.com/sourdough-crumpets/
 image: sourdough_discard_crumpets.jpg
 favorite: 
+veggie: Y
 ---
 
 ## Crumpets

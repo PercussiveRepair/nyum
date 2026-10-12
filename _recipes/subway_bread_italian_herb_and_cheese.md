@@ -7,6 +7,7 @@ time: 1 hour 35 minutes
 source: https://www.alyonascooking.com/subway-bread-recipe/
 image: subway_bread_italian_herb_and_cheese.jpg
 favorite: 
+veggie: Y
 ---
 
 ## For the dough

@@ -7,6 +7,7 @@ time: 2 hours 25 minutes
 source: https://www.kitchensanctuary.com/sticky-chinese-pork-belly/
 image: sticky_chinese_pork_belly.jpg
 favorite: 
+spicy: Y
 ---
 
 ## For the pork belly

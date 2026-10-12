@@ -6,6 +6,7 @@ size: Makes 3-4 dozen (4cm) crackers
 source: https://www.theclevercarrot.com/2020/11/puffed-sourdough-discard-crackers-recipe-gruyere-thyme/
 image: puffed_sourdough_discard_crackers_with_gruyere_and_thyme.jpg
 favorite: 
+veggie: Y
 ---
 
 ## Crackers

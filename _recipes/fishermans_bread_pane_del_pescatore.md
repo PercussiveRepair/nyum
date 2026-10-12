@@ -7,6 +7,7 @@ time: 45 minutes
 source: https://anitalianinmykitchen.com/fishermans-bread/
 image: fishermans_bread_pane_del_pescatore.jpg
 favorite: 
+veggie: Y
 ---
 
 ## Fisherman's bread
