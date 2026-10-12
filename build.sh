@@ -172,12 +172,37 @@ for FILE in _temp/*.category.json; do
         -o "_site/$(basename "$FILE" .category.json).html"
 done
 
+status "Building favourites page..."
+# same shape as a category file, so the category template can render it; a
+# non-empty "favorite" value in the metadata marks a recipe as a favourite
+printf '%s' "{\"category\": \"Favourites\", \"category_faux_urlencoded\": \"favourites\", \"recipes\": [" > _temp/favourites.json
+FAVOURITES_COUNT=0
+SEPARATOR_FAVOURITES=""
+for FILE in _temp/*.metadata.json; do
+    if grep -q '"favorite":"[^"]' "$FILE"; then
+        printf '%s' "$SEPARATOR_FAVOURITES" >> _temp/favourites.json
+        cat "$FILE" >> _temp/favourites.json
+        SEPARATOR_FAVOURITES=","
+        FAVOURITES_COUNT=$((FAVOURITES_COUNT+1))
+    fi
+done
+echo "]}" >> _temp/favourites.json
+echo "{\"favourites_count\": $FAVOURITES_COUNT}" > _temp/favourites_count.json
+x pandoc _templates/technical/empty.md \
+    --metadata-file config.yaml \
+    --metadata title="dummy" \
+    --metadata updatedtime="$(date "+%Y-%m-%d")" \
+    --metadata-file _temp/favourites.json \
+    --template _templates/category.template.html \
+    -o _site/favourites.html
+
 status "Building index page..."
 x pandoc _templates/technical/empty.md \
     --metadata-file config.yaml \
     --metadata title="dummy" \
     --metadata updatedtime="$(date "+%Y-%m-%d")" \
     --metadata-file _temp/recent.json \
+    --metadata-file _temp/favourites_count.json \
     --metadata-file _temp/index.json \
     --template _templates/index.template.html \
     -o _site/index.html

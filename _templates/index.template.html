@@ -29,9 +29,12 @@
         </header>
         <section>
             <h2>Categories</h2>
+            <div class="categories">
+            <a href="favourites.html">★ Favourites<span>$favourites_count$</span></a>
             ${for(categories)}
-            <a href="${it.category_faux_urlencoded}.html">${it.category}</a>&nbsp;&nbsp;
+            <a href="${it.category_faux_urlencoded}.html">${it.category}<span>${it.recipes/length}</span></a>
             ${endfor}
+            </div>
             <p><a href="all-recipes.html">Browse all recipes →</a></p>
         </section>
         <section>
