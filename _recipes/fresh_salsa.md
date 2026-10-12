@@ -1,6 +1,7 @@
 ---
 title: Fresh Salsa 
 category: Sauces & Seasonings
+description: Fresh Mexican tomato salsa with garlic, lime, coriander and chilli
 veggie: y
 image: fresh_salsa.jpg
 

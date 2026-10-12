@@ -1,6 +1,7 @@
 ---
 title: Pizza Dough – Stand Mixer 
 category: Pizza
+description: Simple yeasted pizza dough kneaded in a stand mixer
 image: pizza_dough_stand_mixer.jpg
 veggie: y
 

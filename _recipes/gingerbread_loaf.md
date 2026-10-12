@@ -1,6 +1,7 @@
 ---
 title: Gingerbread Loaf 
 category: Confectionery & Desserts
+description: Dark, sticky spiced loaf sweetened with molasses and honey
 veggie: y
 
 --- 

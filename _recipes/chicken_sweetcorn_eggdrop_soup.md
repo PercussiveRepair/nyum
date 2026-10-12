@@ -1,6 +1,7 @@
 ---
 title: Chicken & Sweetcorn Egg Drop Soup 
 category: Soups
+description: Takeaway-style chicken and sweetcorn soup with ribbons of egg, small noodles and a hint of white pepper
 favorite: Y
 
 --- 

@@ -1,6 +1,7 @@
 ---
 title: Pot Roast Chicken with Lemon & Orzo (or Rice)
 category: Pasta Rice & Noodles
+description: Whole chicken pot-roasted with lemon, garlic, carrots and leeks, with orzo or rice cooked in the juices
 source: https://www.nigella.com/recipes/chicken-in-a-pot-with-lemon-and-orzo
 image: pot_roast_chicken_with_lemon_and_orzo.jpg
 

@@ -1,6 +1,7 @@
 ---
 title: Greek Drunken Pork Stew (Bekri Meze)
 category: European
+description: Greek pork and pepper stew simmered in red wine with cumin and a little chilli, served with feta and bread
 size: Serves 6-8
 source: https://akispetretzikis.com/en/recipe/5755/mpekrh-meze
 image: greek_drunken_pork_stew_bekri_meze.jpg

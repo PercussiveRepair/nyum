@@ -1,6 +1,7 @@
 ---
 title: Mint Raita
 category: Sauces & Seasonings
+description: Cooling Indian yoghurt dip with fresh mint, coriander and cumin
 image: mint_raita.jpg
 veggie: y
 

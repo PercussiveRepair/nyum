@@ -1,6 +1,7 @@
 ---
 title: Beef Stew with Suet Dumplings 
 category: Stews
+description: Classic British beef stew with root vegetables, topped with suet dumplings
 image: beef_stew_with_dumplings.jpg
 
 --- 

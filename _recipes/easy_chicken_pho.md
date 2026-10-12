@@ -1,6 +1,7 @@
 ---
 title: Easy Chicken Pho
 category: Soups
+description: Quick Vietnamese noodle soup with a chicken broth scented with star anise, cinnamon and ginger
 source: https://www.bbcgoodfood.com/recipes/vietnamese-chicken-noodle-soup
 
 --- 

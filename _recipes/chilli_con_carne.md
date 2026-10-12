@@ -1,6 +1,7 @@
 ---
 title: Chilli con carne 
 category: Mexican
+description: Hearty Tex-Mex chilli with beef, pork and beans, deep with cumin, chilli and a little cocoa
 image: chilli_con_carne.jpg
 favorite: Y
 spicy: y

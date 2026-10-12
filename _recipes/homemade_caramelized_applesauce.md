@@ -1,6 +1,7 @@
 ---
 title: Homemade Caramelized Applesauce
 category: Sauces & Seasonings
+description: Deeply caramelised applesauce with cinnamon, vanilla and lemon, cooked down until dark and rich
 size: Makes 480-600ml
 source: https://grassfedcow.com/recipes/homemade-caramelized-applesauce/
 image: homemade_caramelized_applesauce.jpg

@@ -1,6 +1,7 @@
 ---
 title: Stove-Top Macaroni & Cheese 
 category: Pasta Rice & Noodles
+description: Creamy stove-top macaroni cheese made with a classic butter-and-flour white sauce
 veggie: y
 
 --- 

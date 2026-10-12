@@ -1,6 +1,7 @@
 ---
 title: Sweet & Sticky Baked Chicken Drumsticks 
 category: Roasts
+description: Oven-baked drumsticks glazed in a sticky balsamic, honey and soy sauce with garlic and ginger
 
 --- 
 * `¼ cup` balsamic vinegar

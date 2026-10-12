@@ -1,6 +1,7 @@
 ---
 title: Hot and Sour Thai Soup - Tom Yum Goong 
 category: Soups
+description: Thai hot and sour prawn soup fragrant with lemongrass, galangal, lime leaves and chilli
 spicy: y
 
 --- 

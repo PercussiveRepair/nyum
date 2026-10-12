@@ -1,6 +1,7 @@
 ---
 title: Sage and Apple Stuffing
 category: Sides
+description: Savoury bread stuffing with sage, onion, celery and apple, herby with a sweet-sharp edge
 
 --- 
 * `500g` crusty rustic bread loaf, torn into 2cm pieces

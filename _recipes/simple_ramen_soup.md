@@ -1,6 +1,7 @@
 ---
 title: Simple Ramen Soup 
 category: Soups
+description: Quick, flexible miso ramen bowl built on good packet noodles and fresh vegetables
 image: simple_ramen_soup.jpg
 
 --- 

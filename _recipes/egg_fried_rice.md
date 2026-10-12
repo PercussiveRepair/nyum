@@ -1,6 +1,7 @@
 ---
 title: Egg Fried Rice 
 category: Pasta Rice & Noodles
+description: Chinese takeaway-style egg fried rice with garlic, onion and peas
 image: egg_fried_rice.jpg
 veggie: y
 

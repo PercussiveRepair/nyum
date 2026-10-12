@@ -1,6 +1,7 @@
 ---
 title: Iced Coffee 
 category: Drinks
+description: Quick, creamy iced coffee made with instant coffee and cold milk
 veggie: Y
 sweet: y 
 

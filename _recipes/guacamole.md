@@ -1,6 +1,7 @@
 ---
 title: Guacamole 
 category: Sauces & Seasonings
+description: Classic Mexican avocado dip with lime, jalapeno, tomato and a little cumin and cayenne
 image: guacamole.jpg
 veggie: y
 

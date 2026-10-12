@@ -1,6 +1,7 @@
 ---
 title: Foolproof Pan Pizza 
 category: Pizza
+description: Thick, crisp-bottomed pan pizza with a chewy crumb and plenty of mozzarella
 veggie: y
 image: foolproof_pan_pizza.jpg
 

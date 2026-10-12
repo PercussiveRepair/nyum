@@ -1,6 +1,7 @@
 ---
 title: Gingerbread Biscuits 
 category: Confectionery & Desserts
+description: Spiced gingerbread biscuits with nutmeg, cloves, cinnamon and chunks of crystallised ginger
 veggie: Y
 
 

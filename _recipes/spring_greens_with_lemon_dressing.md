@@ -1,6 +1,7 @@
 ---
 title: Spring greens with lemon dressing 
 category: Sides
+description: Quick-cooked spring greens dressed with lemon juice and olive oil
 veggie: y
 
 --- 

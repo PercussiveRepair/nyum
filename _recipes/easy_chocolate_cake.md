@@ -1,6 +1,7 @@
 ---
 title: Easy Chocolate Cake 
 category: Confectionery & Desserts
+description: Rich, moist chocolate cake made with boiling water and topped with chocolate ganache
 veggie: Y
 sweet: y 
 

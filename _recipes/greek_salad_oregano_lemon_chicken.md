@@ -1,6 +1,7 @@
 ---
 title: Greek Salad & Oregano Lemon chicken 
 category: Salads
+description: Lemon and oregano chicken strips served with a crisp Greek salad of feta, olives and tomato
 image: greek_salad_oregano_lemon_chicken.jpg
 
 --- 

@@ -1,6 +1,7 @@
 ---
 title: Creamy Summer Pasta Salad 
 category: Salads
+description: Cold pasta salad with crunchy raw and cooked vegetables in a creamy dressing
 veggie: y
 
 --- 

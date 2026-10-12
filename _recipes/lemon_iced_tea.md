@@ -1,6 +1,7 @@
 ---
 title: Lemon Iced Tea 
 category: Drinks
+description: Refreshing sweet iced tea with fresh lemon slices and juice
 veggie: y
 sweet: y 
 image: lemon_iced_tea.jpg

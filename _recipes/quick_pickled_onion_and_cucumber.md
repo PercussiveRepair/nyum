@@ -1,6 +1,7 @@
 ---
 title: Quick pickled onion and cucumber 
 category: Salads
+description: Tangy quick pickle of onion and cucumber in a sweet-sharp brine with peppercorns and bay
 veggie: y
 
 --- 

@@ -1,6 +1,7 @@
 ---
 title: Orange Chicken 
 category: Asian
+description: Sticky American-Chinese chicken thighs in a sweet, tangy orange, ginger and garlic sauce
 
 --- 
 

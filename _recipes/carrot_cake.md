@@ -1,7 +1,7 @@
 ---
 title: Carrot Cake 
 category: Confectionery & Desserts
-description: 
+description: Moist spiced carrot cake with walnuts and orange zest, topped with cream cheese frosting
 veggie: Y
 sweet: y 
 

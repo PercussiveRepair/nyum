@@ -1,6 +1,7 @@
 ---
 title: Onion Bhaji 
 category: Fritters & Dumplings
+description: Crisp Indian takeaway-style onion fritters spiced with turmeric, cumin, fennel and nigella seeds
 image: onion_bhaji.png
 veggie: Y
 spicy: y

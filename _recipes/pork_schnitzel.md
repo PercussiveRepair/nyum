@@ -1,6 +1,7 @@
 ---
 title: Pork Schnitzel 
 category: European
+description: Central European-style breaded pork cutlets fried in butter and olive oil, served with lemon
 
 --- 
 * `4` boneless pork loin chops (about 5 to 6 ounces each)

@@ -1,6 +1,7 @@
 ---
 title: BBQ rub
 category: Sauces & Seasonings
+description: Sweet, smoky American dry rub of brown sugar, paprika and chilli for barbecued meats
 image: bbq_rub.jpg
 veggie: y
 

@@ -1,6 +1,7 @@
 ---
 title: Vinaigrette Coleslaw (no dairy) 
 category: Salads
+description: Crunchy purple cabbage slaw in a tangy dairy-free sesame and cider vinaigrette with coriander and toasted almonds
 veggie: y
 
 --- 

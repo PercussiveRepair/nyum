@@ -1,6 +1,7 @@
 ---
 title: Sugar Cookie Dough 
 category: Confectionery & Desserts
+description: Easy buttery sugar cookies made with melted butter and rolled in sugar
 veggie: Y
 sweet: y 
 

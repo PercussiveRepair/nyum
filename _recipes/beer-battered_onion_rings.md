@@ -1,6 +1,7 @@
 ---
 title: Beer-Battered Onion Rings 
 category: Fritters & Dumplings
+description: Crisp paprika-spiced onion rings in a light beer batter, with a spicy ketchup dip
 veggie: Y
 
 --- 

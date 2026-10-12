@@ -1,6 +1,7 @@
 ---
 title: Coconut Lemon Rice 
 category: Pasta Rice & Noodles
+description: Easy basmati rice cooked in coconut milk with a squeeze of lemon
 veggie: y
 
 --- 

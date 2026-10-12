@@ -1,7 +1,7 @@
 ---
 title: Chicken Balti 
 category: Indian
-description: 
+description: Birmingham-style curry with chicken and peppers in a thick tomato and yoghurt sauce, scented with whole spices
 favorite: Y
 spicy: y
 

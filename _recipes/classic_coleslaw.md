@@ -1,6 +1,7 @@
 ---
 title: Classic Coleslaw 
 category: Salads
+description: Creamy cabbage and carrot slaw with mayonnaise, mustard and sultanas
 image: classic_coleslaw.png
 veggie: y
 

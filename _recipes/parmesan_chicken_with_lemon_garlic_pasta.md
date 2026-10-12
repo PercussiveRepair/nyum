@@ -1,6 +1,7 @@
 ---
 title: Parmesan Chicken with Lemon Garlic Pasta 
 category: Pasta Rice & Noodles
+description: Crunchy parmesan-breaded chicken on creamy lemon garlic pasta
 
 --- 
 

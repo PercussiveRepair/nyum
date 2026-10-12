@@ -1,6 +1,7 @@
 ---
 title: Elote - Mexican Street Corn - Salad
 category: Salads
+description: Mexican street corn turned into a salad with a creamy lime dressing, cheese and spring onions
 image: elote_salad.jpg
 veggie: y
 

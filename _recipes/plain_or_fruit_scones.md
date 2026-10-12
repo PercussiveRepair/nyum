@@ -1,6 +1,7 @@
 ---
 title: Plain/Fruit Scones 
 category: Bread & Pastry
+description: Classic British scones, plain or studded with glace cherries or sultanas
 size: makes about 10
 source: https://www.youtube.com/watch?v=6tlQn7iePV4
 image: plain_or_fruit_scones.png

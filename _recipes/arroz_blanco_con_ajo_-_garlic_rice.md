@@ -1,6 +1,7 @@
 ---
 title: Arroz Blanco Con Ajo - Garlic Rice 
 category: Pasta Rice & Noodles
+description: Latin American white rice cooked in broth with onion and plenty of garlic, brightened with lime and parsley
 veggie: y
 
 --- 

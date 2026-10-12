@@ -1,6 +1,7 @@
 ---
 title: Cinnamon Chips 
 category: Confectionery & Desserts
+description: Crisp cinnamon-sugar tortilla chips, a quick sweet snack
 veggie: Y
 sweet: y 
 

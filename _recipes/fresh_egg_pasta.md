@@ -1,6 +1,7 @@
 ---
 title: Fresh Egg Pasta 
 category: Pasta Rice & Noodles
+description: Simple Italian pasta dough made with just flour, eggs, salt and olive oil
 image: fresh_egg_pasta.jpg
 veggie: y
 

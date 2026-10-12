@@ -1,6 +1,7 @@
 ---
 title: Steak and Pepper Sauce - Reverse Sear 
 category: European
+description: Thick steaks cooked low then seared for an even pink centre, with a peppery red wine pan sauce
 
 --- 
 

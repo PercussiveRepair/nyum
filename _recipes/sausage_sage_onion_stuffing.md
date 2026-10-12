@@ -1,6 +1,7 @@
 ---
 title: Sausage, Sage & Onion Stuffing 
 category: Sides
+description: Traditional British stuffing of sausagemeat, sage, onion and Bramley apple with granary breadcrumbs
 image: sausage_sage_onion_stuffing.jpg
 
 --- 

@@ -1,6 +1,7 @@
 ---
 title: Fajita seasoning 
 category: Sauces & Seasonings
+description: Smoky, lightly spicy Tex-Mex blend of chilli, paprika, cumin and cayenne
 veggie: y
 
 --- 

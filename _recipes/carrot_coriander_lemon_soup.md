@@ -1,6 +1,7 @@
 ---
 title: Carrot, Coriander & Lemon Soup 
 category: Soups
+description: Smooth, sweet carrot soup warmed with coriander and cumin and lifted with lemon
 veggie: y
 
 --- 

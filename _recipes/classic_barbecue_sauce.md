@@ -1,6 +1,7 @@
 ---
 title: Classic Barbecue Sauce 
 category: Sauces & Seasonings
+description: Sweet and tangy American barbecue sauce of ketchup, molasses, mustard and cider vinegar with a hot sauce kick
 veggie: y
 
 --- 

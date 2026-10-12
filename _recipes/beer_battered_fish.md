@@ -1,6 +1,7 @@
 ---
 title: Beer Battered Fish
 category: Fish
+description: British pub-style cod or haddock in a crisp, light beer batter
 image: fried_fish.jpg
 
 --- 

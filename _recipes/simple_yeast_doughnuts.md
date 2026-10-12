@@ -1,6 +1,7 @@
 ---
 title: Simple Yeast Doughnuts 
 category: Confectionery & Desserts
+description: Soft yeast doughnuts scented with lemon zest
 veggie: Y
 sweet: y 
 

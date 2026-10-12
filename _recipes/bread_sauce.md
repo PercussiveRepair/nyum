@@ -1,6 +1,7 @@
 ---
 title: Bread Sauce 
 category: Sauces & Seasonings
+description: Creamy English sauce infused with onion, clove and bay and thickened with breadcrumbs, traditional with roast turkey
 image: bread_sauce.jpg
 veggie: y
 size: Serves 4

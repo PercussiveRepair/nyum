@@ -1,6 +1,7 @@
 ---
 title: Pot-Roast Beef with French Onion Gravy 
 category: Roasts
+description: Tender pot-roast beef cooked in white wine and beef stock with carrots, served with a rich onion gravy
 
 --- 
 * `1 kg` silverside or topside of beef, with no added fat

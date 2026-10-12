@@ -1,6 +1,7 @@
 ---
 title: Chinese Five Spice Powder 
 category: Sauces & Seasonings
+description: Homemade blend of star anise, Sichuan pepper, cinnamon, fennel and cloves, warm, sweet and slightly numbing
 image: chinese_five_spice_powder.png
 veggie: y
 

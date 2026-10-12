@@ -1,6 +1,7 @@
 ---
 title: Peppermint Creams 
 category: Confectionery & Desserts
+description: Soft, minty no-bake peppermint creams finished with melted chocolate
 veggie: Y
 sweet: y 
 

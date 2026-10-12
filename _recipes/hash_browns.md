@@ -1,6 +1,7 @@
 ---
 title: Hash Browns 
 category: Sides
+description: Crisp, golden shredded potato and onion hash browns bound with egg
 veggie: y
 
 --- 
