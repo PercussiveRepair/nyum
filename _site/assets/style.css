@@ -447,24 +447,19 @@ a:hover {
 .categories {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     gap: 0.5em;
     margin: 0.7em 0 1em;
 }
 .categories a {
     display: inline-flex;
     align-items: baseline;
-    justify-content: center;
     gap: 0.45em;
-    flex: 1 0 auto;  /* stretch each row to the full width */
     padding: 0.2em 0.65em;
     border: 1px solid var(--horizontal-rule);
     border-radius: 4px;
     color: var(--foreground);
     text-decoration: none;
-}
-.categories::after {
-    content: "";
-    flex: 100 0 0;  /* keeps the last row at natural width, like justified text */
 }
 .categories a span {
     color: var(--nav);
