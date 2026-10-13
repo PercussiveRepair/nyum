@@ -451,7 +451,12 @@ a:hover {
     gap: 0.5em;
     margin: 0.7em 0 1em;
 }
-.categories a {
+.browse-all {
+    text-align: center;
+    margin: 0 0 1em;
+}
+.categories a,
+.browse-all a {
     display: inline-flex;
     align-items: baseline;
     gap: 0.45em;
