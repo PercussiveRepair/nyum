@@ -252,6 +252,51 @@ header .nutrition img {
     background-color: var(--highlighted-search-result);
 }
 
+header.hero {
+    position: relative;
+    isolation: isolate;
+    min-height: 14em;
+}
+header.hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.65)), var(--hero-image, none);
+    background-size: cover;
+    background-position: 50% 50%;
+    opacity: 0;
+    transition: opacity 0.6s ease;
+}
+header.hero.has-hero::before {
+    opacity: 1;
+}
+header.hero.has-hero {
+    color: #fff;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+header.hero.has-hero nav {
+    color: rgba(255, 255, 255, 0.8);
+}
+header.hero.has-hero .logo {
+    filter: invert() hue-rotate(180deg);
+}
+.hero-credit {
+    clear: both;
+    text-align: right;
+    font-size: 0.7em;
+    opacity: 0.85;
+}
+.hero-credit a {
+    color: inherit;
+    text-decoration: none;
+}
+@media (prefers-reduced-motion: reduce) {
+    header.hero::before {
+        transition: none;
+    }
+}
+
 .entry {
     margin-top: 1em;  /* fix for category pages */
     min-height: var(--images-on-index-size);
