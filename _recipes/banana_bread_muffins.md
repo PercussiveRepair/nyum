@@ -1,8 +1,8 @@
 ---
-title: Banana Bread 
+title: Banana Bread Muffins 
 category: Confectionery & Desserts
-description: Simple quick sweet bread
-image: banana_bread.jpg
+description: Simple quick sweet muffins
+image: banana_bread_muffins.jpg
 veggie: Y
 sweet: y 
 
@@ -32,9 +32,9 @@ sweet: y
 >
 > When well mixed, add nuts if used.
 >
-> Turn into well greased loaf pan.
+> Divide the mixture equally between a 6 cup muffin tin lined with muffin cases.
 >
-> Bake in oven gas 4, oven 180°C, fan 160°C, 80 mins
+> Bake in oven gas 4, oven 180°C, fan 160°C, 45 mins
 >
 > Remove from oven, let stand in pan a few minutes, then remove to cool.
 
